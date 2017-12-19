@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.3.0">
+	<MenuStyle value="Classic1"/>
+	<Documents value="Hide"/>
+	<UserFiles value="Hide"/>
+	<UserDocuments value="Hide"/>
+	<UserPictures value="Hide"/>
+	<Network value="Hide"/>
+	<Printers value="Hide"/>
+	<Shutdown value="Show"/>
+	<LogOff value="0"/>
+	<Undock value="1"/>
+	<Search value="0"/>
+	<ShowAppsMenu value="0"/>
+	<Help value="0"/>
+	<Run value="0"/>
+	<HideProgramsMetro value="1"/>
+	<PinnedPrograms value="PinnedItems"/>
+	<RecentPrograms value="None"/>
+	<EnableJumplists value="0"/>
+	<RemoteShutdown value="1"/>
+	<HybridShutdown value="1"/>
+	<StartScreenShortcut value="0"/>
+	<SearchBox value="Normal"/>
+	<InvertMetroIcons value="0"/>
+	<MainMenuAnimation value="None"/>
+	<GlassOverride value="1"/>
+	<GlassColor value="5117976"/>
+	<SkinC1 value="Smoked Glass"/>
+	<SkinVariationC1 value=""/>
+	<SkinOptionsC1>
+		<Line>BD80CDB2|C26EAF5C|86F3669C|5225DC46|5D3248DC|1FC64124|33C166BE|6EDFA36A|</Line>
+	</SkinOptionsC1>
+	<SkinW7 value="Midnight"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+		<Line>C26EAF5C|5D3248DC|1FC64124|5EA361A2|00000000|6EDFA36A|BD38A82C|678B22C1|8FE87E82|</Line>
+	</SkinOptionsW7>
+	<EnableStartButton value="1"/>
+	<StartButtonType value="CustomButton"/>
+	<StartButtonPath value="D:\Utilities\blackpillar.png"/>
+	<SkipMetro value="1"/>
+	<MenuItems1>
+		<Line>Items=RestartItem,ShutdownItem,SearchBoxItem</Line>
+		<Line>RestartItem.Items=RestartItem2,LockItem,SleepItem</Line>
+		<Line>RestartItem.Command=restart</Line>
+		<Line>RestartItem.Label=$Menu.Restart</Line>
+		<Line>RestartItem.Tip=$Menu.RestartTip</Line>
+		<Line>RestartItem.Icon=none</Line>
+		<Line>RestartItem2.Command=restart</Line>
+		<Line>RestartItem2.Label=$Menu.Restart</Line>
+		<Line>RestartItem2.Tip=$Menu.RestartTip</Line>
+		<Line>RestartItem2.Icon=none</Line>
+		<Line>LockItem.Command=lock</Line>
+		<Line>LockItem.Label=$Menu.Lock</Line>
+		<Line>LockItem.Tip=$Menu.LockTip</Line>
+		<Line>LockItem.Icon=none</Line>
+		<Line>SleepItem.Command=sleep</Line>
+		<Line>SleepItem.Label=$Menu.Sleep</Line>
+		<Line>SleepItem.Tip=$Menu.SleepTip</Line>
+		<Line>SleepItem.Icon=none</Line>
+		<Line>ShutdownItem.Command=shutdown</Line>
+		<Line>ShutdownItem.Label=$Menu.Shutdown</Line>
+		<Line>ShutdownItem.Tip=$Menu.ShutdownTip</Line>
+		<Line>ShutdownItem.Icon=none</Line>
+		<Line>SearchBoxItem.Command=search_box</Line>
+		<Line>SearchBoxItem.Label=$Menu.SearchBox</Line>
+		<Line>SearchBoxItem.Icon=none</Line>
+		<Line>SearchBoxItem.Settings=OPEN_UP|TRACK_RECENT</Line>
+	</MenuItems1>
+	<ShowNewFolder value="1"/>
+	<EnableExit value="1"/>
+	<EnableExplorer value="1"/>
+	<DisablePinExt value="0"/>
+</Settings>
