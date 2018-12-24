@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is kind of stupid cause cmus-remote has a built-in play/pause feature but i read the man page wrong
 variable=`cmus-remote -Q | head -n 1`
 
 if [[ "status playing" == "$variable" ]]

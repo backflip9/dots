@@ -1,4 +1,5 @@
 #!/bin/bash
+#i stole this from somewhere also i don't use this anymore
 echo "something"
 scrot /tmp/screen.png
 #convert /tmp/screen.png -scale 10% -scale 1000% /tmp/screen.png

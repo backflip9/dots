@@ -2,7 +2,7 @@
 #mount blue if i can't find cs115 dir
 if [ ! -d /srv/blue/cs115 ]
 then
-  sshfs blue.cs.sonoma.edu:/home/student/lschroth/ /srv/blue -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
+  sshfs lschroth@blue:/home/student/lschroth/ /srv/blue -o IdentityFile=/home/liam/.cert/blueppk,reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
   if [ ! -d /srv/blue/cs115 ]
   then
     notify-send "couldn't mount blue"
@@ -15,7 +15,7 @@ fi
 #mount vibrant if i can't find movies dir
 if [ ! -d "/srv/vibrant/movies" ]
 then
-  sshfs cabin:/srv /srv/vibrant -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
+  sshfs liam@cabin:/srv /srv/vibrant -p 277 -o IdentityFile=/home/liam/.cert/ppk,reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
   if [ ! -d "/srv/vibrant/movies" ]
   then
     notify-send "couldn't mount vibrant"

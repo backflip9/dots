@@ -1,13 +1,13 @@
 #!/bin/bash
-status=`xinput --list-props 11 | grep 140`
+status=`xinput --list-props "SynPS/2 Synaptics TouchPad"| grep 140`
 if [[ "	Device Enabled (140):	1" == $status ]]
 then
-xinput --set-prop 11 140 0
+xinput --set-prop "SynPS/2 Synaptics TouchPad" 140 0
 notify-send "touchpad disabled"
 fi
 
 if [[ "	Device Enabled (140):	0" == $status ]]
 then
-xinput --set-prop 11 140 1
+xinput --set-prop "SynPS/2 Synaptics TouchPad" 140 1
 notify-send "touchpad enabled"
 fi
