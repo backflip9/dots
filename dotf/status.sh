@@ -3,12 +3,12 @@ IFS='
 '
 >mailbuffer.txt
 >torrentStatus.txt
-for x in `transmission-remote localhost:9091 -n transmission:werqwe -l`
+for x in `transmission-remote localhost:9091 -n transmission:$1 -l`
 do
   torrentID=`echo $x|awk '{ printf $1; }'`
   if [[ $torrentID =~ [0-9] ]]
   then
-    for y in `transmission-remote localhost:9091 -n transmission:werqwe -t $torrentID -i`
+    for y in `transmission-remote localhost:9091 -n transmission:$1 -t $torrentID -i`
     do
       infoKey=`echo $y|awk '{ printf $1; }'`
       if [[ $infoKey = "Name:" ]]
