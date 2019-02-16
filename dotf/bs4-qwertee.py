@@ -9,5 +9,5 @@ imageList=soup.find_all("div",{"class","big-slides"})[0].find_all("div",{"class"
 counter=1;
 for oneImage in imageList:
     img=Image.open(requests.get(oneImage.find("img")['src'],stream=True).raw)
-    img.save('./shirt'+str(counter)+'.jpg')
+    img.save('./'+oneImage['id']+str(counter)+'.jpg')
     counter+=1
