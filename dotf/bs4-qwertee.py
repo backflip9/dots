@@ -6,8 +6,6 @@ import requests
 content=requests.get('https://www.qwertee.com').text
 soup=BeautifulSoup(content,features="html.parser")
 imageList=soup.find_all("div",{"class","big-slides"})[0].find_all("div",{"class","big-slide"})
-counter=1;
 for oneImage in imageList:
     img=Image.open(requests.get(oneImage.find("img")['src'],stream=True).raw)
-    img.save('./'+oneImage['id']+str(counter)+'.jpg')
-    counter+=1
+    img.save('./' + oneImage['id'] + '.jpg')
