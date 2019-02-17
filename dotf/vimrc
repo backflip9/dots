@@ -54,6 +54,7 @@ endif
 
 
 set number                " show line numbers
+set relativenumber        " show relative line numbers
 set laststatus=2          " last window always has a statusline
 filetype indent on        " activates indenting for files
 set nohlsearch            " Don't continue to highlight searched phrases.
@@ -72,3 +73,4 @@ set shiftwidth=2          " indent/outdent by 4 columns
 set shiftround            " always indent/outdent to the nearest tabstop
 set expandtab             " use spaces instead of tabs
 set smarttab              " use tabs at the start of a line, spaces elsewhere
+
