@@ -76,3 +76,5 @@ set smarttab              " use tabs at the start of a line, spaces elsewhere
 
 "remaps
 nnoremap <F5> :tabnew<bar>open .<CR>
+nnoremap <F6> :vs<bar>wincmd l<bar>open .<CR>
+nnoremap <F4> :!!<CR>
