@@ -10,8 +10,11 @@ export RANGERCD=true
 
 [[ $DISPLAY ]] && shopt -s checkwinsize
 
-PS1="\[$(tput bold)\]\[\033[38;5;165m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;129m\]@\[$(tput sgr0)\]\[\033[38;5;32m\]\h\[$(tput sgr0)\]\[\033[38;5;47m\]>>\[$(tput sgr0)\]"
+#without timestamp
+#PS1="\[$(tput bold)\]\[\033[38;5;165m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;129m\]@\[$(tput sgr0)\]\[\033[38;5;32m\]\h\[$(tput sgr0)\]\[\033[38;5;47m\]>>\[$(tput sgr0)\]"
 
+#with timestamp
+PS1="\D{%T}\[$(tput bold)\]\[\033[38;5;165m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;129m\]@\[$(tput sgr0)\]\[\033[38;5;32m\]\h\[$(tput sgr0)\]\[\033[38;5;47m\]>>\[$(tput sgr0)\]"
 
 case ${TERM} in
   xterm*|rxvt*|Eterm|aterm|kterm|gnome*)
@@ -33,3 +36,7 @@ alias localtran="bash /home/liam/.bin/localtransmi.sh"
 alias youtoob="youtube-dl -f bestaudio --audio-format vorbis -o \"%(title)s.%(ext)s\" $1"
 alias xserver="Xvfb :1 -screen 0 800x600x16"
 alias elel="cd /srv/projx/cs315/"
+alias lst="ls -t|head"
+#centos/rhel
+alias ll="ls -l"
+alias la="ls -al"
