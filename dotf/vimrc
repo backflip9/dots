@@ -78,4 +78,17 @@ set scrolloff=7
 "remaps
 nnoremap <F5> :tabnew<bar>open .<CR>
 nnoremap <F6> :vs<bar>wincmd l<bar>open .<CR>
-nnoremap <F4> :!!<CR>
+nnoremap <F4> :w<bar>!!<CR>
+
+call plug#begin('~/.vim/plug_files')
+
+Plug 'jwalton512/vim-blade'
+Plug 'withgod/vim-sourcepawn'
+
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+call plug#end()
+
+"coc things
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
