@@ -1,7 +1,8 @@
 #!/bin/bash
 IFS='
 '
->mailbuffer.txt
+#temporarily not emptying mailbuffer so that we can see what accumulates over time
+#>mailbuffer.txt
 for x in `transmission-remote localhost:9091 -n transmission:$1 -l`
 do
   torrentID=`echo $x|awk '{ printf $1; }'`
@@ -13,6 +14,7 @@ do
       if [[ $infoKey = "Name:" ]]
       then
         albumName=`echo $y|awk '{$1=""; print $0}'|xargs -0 echo`
+        printf "\n$albumName\n"
       elif [[ $infoKey = "Uploaded:" ]]
       then
         uploadFloat=`echo $y|awk '{printf $2; }'`
@@ -31,8 +33,7 @@ do
         #echo "$torrentID $uploadFloat $albumName" >> torrentStatus.txt #this replaces it with the new one
         echo "$torrentID $uploadFloat $albumName into torrentStatus.txt"
         diffFloat=`python -c "var2=$uploadFloat - $pastInfoFloat;print(var2)"`
-        echo "$albumName: $diffFloat MB">>mailbuffer.txt
-      else
+        echo "`date +%F-%H%M%S`: $albumName: $diffFloat MB">>mailbuffer.txt
       fi
     fi
   fi
@@ -41,5 +42,10 @@ lineCount=`cat mailbuffer.txt|wc -l`
 if [[ $lineCount -ne "0" ]]
 then
   #mail command
+  cat mailbuffer.txt
+  printf "\n"
+  #cat mailbuffer.txt|mail -s "buffer report" wilburpig112@gmail.com
+else
+  echo "No new buffer">>mailbuffer.txt
 fi
 echo "done"
