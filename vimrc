@@ -92,3 +92,5 @@ call plug#end()
 "coc things
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+"ex mode is fucking stupid; bind it to Nop so that i stop accidentally opening it when i'm trying to press Z-Q
+nnoremap Q <nop>
