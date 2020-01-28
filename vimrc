@@ -79,7 +79,8 @@ set scrolloff=7
 nnoremap <F5> :tabnew<bar>open .<CR>
 nnoremap <F6> :vs<bar>wincmd l<bar>open .<CR>
 nnoremap <F4> :w<bar>!!<CR>
-nnoremap <F7> :set invhlsearch
+nnoremap <F7> :set invhlsearch<CR>
+nnoremap <F8> :r !basename %<CR>
 
 call plug#begin('~/.vim/plug_files')
 
