@@ -86,6 +86,7 @@ call plug#begin('~/.vim/plug_files')
 
 Plug 'jwalton512/vim-blade'
 Plug 'withgod/vim-sourcepawn'
+Plug 'godlygeek/tabular'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
