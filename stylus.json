@@ -23,7 +23,7 @@
 		"originalDigest": "503747861b25acd9dfc14f5984b82338f1216903",
 		"id": 1,
 		"_id": "c19963da-9ae8-4f3f-ad4a-a18f973a9bea",
-		"_rev": 1584763424102
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -52,7 +52,7 @@
 		"originalDigest": "6f02786a267dbb6fed42652075c9217509df2a22",
 		"id": 2,
 		"_id": "6b98b7b4-acc6-4020-88d8-565bc7137652",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": false,
@@ -190,7 +190,7 @@
 		"originalDigest": "ba031b83e108bb9ea96bc78d22a68241984452e3",
 		"id": 3,
 		"_id": "c028907d-2dda-4472-bbad-a352244049e6",
-		"_rev": 1585079156204
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": false,
@@ -214,7 +214,7 @@
 		"originalDigest": "e4cb46dd60ddc1fd42e301b34106eb2f336393fd",
 		"id": 4,
 		"_id": "0dbdb5e2-2a7d-45f6-ad36-a623881d1cc9",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": false,
@@ -248,7 +248,7 @@
 		"originalDigest": "ff0c911c395f0d7174b842eae2213f76deb67f95",
 		"id": 5,
 		"_id": "d08f722d-aba9-4134-a214-f9b10a953725",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -339,7 +339,7 @@
 		"updateDate": 1569546252087,
 		"originalName": "Dark-GitLab",
 		"_id": "7ae443bc-d529-40e8-a6be-28d1b08fe64c",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 6
 	},
 	{
@@ -364,7 +364,7 @@
 		"originalDigest": "f1afdca407ffd1d4f5b07b23d7226b2869f6f14b",
 		"id": 8,
 		"_id": "6e9fb52a-7584-4f5c-85bf-d9e09cd388f2",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -387,7 +387,7 @@
 		"name": "A CppReference Darkly",
 		"originalDigest": "86fb0648169b6cd38962db07de0a0c8a7d0e2004",
 		"_id": "f2c3d845-7e33-49c0-ac68-a0eebd4893da",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 9
 	},
 	{
@@ -411,7 +411,7 @@
 		"name": "A CPlusPlus Darkly",
 		"originalDigest": "322a121312af3cebdd4f0d033385701a8e241682",
 		"_id": "7062b3ae-780f-4698-9a85-2fbf287eece0",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 10
 	},
 	{
@@ -444,7 +444,7 @@
 		"updateDate": 1584467344729,
 		"originalName": "Wikipedia Dark Material Design",
 		"_id": "959fd37f-cde2-4b76-8810-18e11ffb9562",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 11
 	},
 	{
@@ -471,7 +471,7 @@
 		"updateDate": 1550800853599,
 		"originalName": "10FastFingers Dark Mode - 10FF (Bruhdooh) v1.4",
 		"_id": "b7b0f576-2b29-4bd8-9692-132341ecf525",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -495,7 +495,7 @@
 		"originalDigest": "683e0d21f8eee5d5382a6380b66dc306ced21b51",
 		"id": 13,
 		"_id": "058d82d6-e6a4-4318-824b-a5d2dc67b056",
-		"_rev": 1584322284063
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -518,7 +518,7 @@
 		"name": "Pushbullet dark",
 		"originalDigest": "eef76fae71468f18b2526fc85ca3923bee7889a5",
 		"_id": "a1071b08-37e8-47d2-bd9a-61da19470c37",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 14
 	},
 	{
@@ -562,7 +562,7 @@
 		"updateDate": 1570475476475,
 		"originalName": "Dark theme for php.net",
 		"_id": "afbc4559-ee55-4392-92dc-6531c9678474",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 15
 	},
 	{
@@ -600,7 +600,7 @@
 		"originalDigest": "eb46443b0d3ee350f81c7f7885aed809b7df76d9",
 		"id": 16,
 		"_id": "bf564fdf-e509-41aa-838f-769a0acd5cef",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": false,
@@ -623,7 +623,7 @@
 		"name": "Transmission dark theme",
 		"originalDigest": "870ff0bb623012a14a3ff083756fb0b94f6668a0",
 		"_id": "3f93f946-1142-4c7e-9b34-190e06dc8087",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 17
 	},
 	{
@@ -647,7 +647,7 @@
 		"name": "w3schools | andje22",
 		"originalDigest": "b36ea5b76a48b8d59cc29000d127b8321f949519",
 		"_id": "f1bb7485-e365-4653-bf67-5ad40fbd1b25",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 18
 	},
 	{
@@ -677,7 +677,7 @@
 		"updateDate": 1560021584842,
 		"originalName": "A MDN Darkly",
 		"_id": "814dd026-0a71-441d-be60-b3fa57823168",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -701,7 +701,7 @@
 		"originalDigest": "156cba3d76d1d99baa8e1798fc9ab33ce1c7cea8",
 		"id": 20,
 		"_id": "5228e759-6e90-4fd0-8511-335b9276a18b",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -726,7 +726,7 @@
 		"updateDate": 1580495490405,
 		"originalName": "Piazza Darker",
 		"_id": "eccd3953-d8d2-4055-a564-eb9912f67c2c",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 21
 	},
 	{
@@ -787,7 +787,7 @@
 		"name": "AlliedModders Dark",
 		"originalDigest": "2fe1b277365082c33e04f7b22d8e4220df9c33b6",
 		"_id": "7efc0b9b-65cc-4bac-9cb5-f1970a68498c",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 22
 	},
 	{
@@ -811,7 +811,7 @@
 		"name": "SDL Wiki Noire",
 		"originalDigest": "078ea7341ea65fe2ae3f04b011d010ba1e6c7021",
 		"_id": "a67877bd-936d-47eb-8a1f-13706d139a80",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 23
 	},
 	{
@@ -864,7 +864,7 @@
 		"name": "Laravel Docs Night Mode",
 		"originalDigest": "7b628e2014931ac7ec8c25d6b93489247fe5eec9",
 		"_id": "ad14e080-b6e7-42ed-bc6f-a0bf8750a6c3",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 24
 	},
 	{
@@ -890,7 +890,7 @@
 		"originalDigest": "2aea39d49346438a99d7684526c1803ab5a00b24",
 		"id": 25,
 		"_id": "70734b76-b8c2-4ec1-8b44-30fcdf4d5e24",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -922,7 +922,7 @@
 		"name": "Dark theme for docs.python.org",
 		"originalDigest": "c466ca2f97fc5344eb9c3652cc21eba32387254a",
 		"_id": "c9d7100a-cc40-4901-a10c-62d5cffcf2cf",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 27
 	},
 	{
@@ -946,7 +946,7 @@
 		"name": "Material Dark Laravel Docs",
 		"originalDigest": "8a57dae7292664f7ce9db3cefdeba36d0f79ff90",
 		"_id": "545f183b-b2bf-4a06-9ace-09b0ed1fb9b9",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 28
 	},
 	{
@@ -989,7 +989,7 @@
 		"originalDigest": "ce78ad218ea4e735ac86babbd088cf6709dfa384",
 		"id": 29,
 		"_id": "d8186dc8-480e-464d-b585-34b256c95168",
-		"_rev": 1585079093000,
+		"_rev": 1587226152926,
 		"updateDate": 1585079093000
 	},
 	{
@@ -1014,7 +1014,7 @@
 		"originalDigest": "422c60fcc028e32b5e452c1de43c08c3abfa1254",
 		"id": 30,
 		"_id": "ca16efa3-a3e2-4897-b1eb-b0686cb26cf5",
-		"_rev": 1585079156204
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -1038,7 +1038,7 @@
 		"originalDigest": "d4e509ef4b161ae07a0e96bf07e9ef693dc0c22d",
 		"id": 32,
 		"_id": "4f7f6e28-86e8-4108-8e11-1c1193e98050",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": false,
@@ -1069,7 +1069,7 @@
 		"originalDigest": "56aac01d41b0229986fad7094545287b532128c7",
 		"id": 33,
 		"_id": "bb118eaa-0fa0-4f3d-a660-e97ae0187c5c",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -1093,7 +1093,7 @@
 		"originalDigest": "c0039bb32dddba5fdbc680ea8f70c4752aa222dc",
 		"id": 35,
 		"_id": "656aad33-8ba0-4c98-9f94-77db0fdaf0f3",
-		"_rev": 1584549185134,
+		"_rev": 1587226152926,
 		"updateDate": 1583815245933,
 		"originalName": "LinkedDark"
 	},
@@ -1117,7 +1117,7 @@
 		"id": 36,
 		"updateDate": 1576536895997,
 		"_id": "e4cc0d3e-55d1-46c9-bd08-ba558a53c712",
-		"_rev": 1580744858385
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -1143,7 +1143,7 @@
 		"id": 37,
 		"updateDate": 1578030210441,
 		"_id": "9a428ebd-c1fc-4b49-aa90-06a9ed8a0caf",
-		"_rev": 1584218299686
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -1262,7 +1262,7 @@
 		"name": "Free Quizlet Dark Theme [V1.7.2]",
 		"originalDigest": "37b0e4391b8767ee08e42b1cb46c2286d15d1638",
 		"_id": "dc54d19e-6763-4953-a6a2-5ebc4745ddf0",
-		"_rev": 1584074444508,
+		"_rev": 1587226152926,
 		"id": 38,
 		"updateDate": 1584074444499
 	},
@@ -1290,7 +1290,7 @@
 		"name": "Dusky Gray Facebook [Dark Theme]",
 		"originalDigest": "121425982013541c7d85df74672ed703301e5b71",
 		"_id": "1c74c557-3b2b-4c76-ac8e-021b64676c3d",
-		"_rev": 1581618807258,
+		"_rev": 1587226152926,
 		"id": 39
 	},
 	{
@@ -1314,7 +1314,7 @@
 		"name": "Mailgun Dark with Accents",
 		"originalDigest": "118a069f01d85a91cdbba8d8b87f6b87595115f3",
 		"_id": "9c2f28e5-06c6-45db-bae7-7f28a176c16e",
-		"_rev": 1583718372521,
+		"_rev": 1587226152926,
 		"id": 41
 	},
 	{
@@ -1360,7 +1360,7 @@
 		"name": "DarkSearch for Google",
 		"originalDigest": "ff31eda9bcfd4d60f73903e16a79620a97782ca5",
 		"_id": "e8bb1732-0de1-47aa-b326-d081f9184ad3",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 42
 	},
 	{
@@ -1384,7 +1384,7 @@
 		"name": "RedWood - Transmission Web",
 		"originalDigest": "f7adf3652ef8d9c50760749d703f3bc160bd959d",
 		"_id": "b4b55147-84e2-4360-a93c-be2468faa07d",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 43
 	},
 	{
@@ -1415,7 +1415,7 @@
 		"name": "transmissionweb-flat",
 		"originalDigest": "617fb336a9bc943a9f65167562f867af8611c9a0",
 		"_id": "492126f1-ab05-4a15-8aac-ad4ed9c07f70",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 44
 	},
 	{
@@ -1441,7 +1441,7 @@
 		"name": "TypeRacer_Colorful-Dark",
 		"originalDigest": "e81b785cc93960555a0d3217034016f0430bef51",
 		"_id": "9b149a57-c5e9-4f2a-a2cb-e7b115721a89",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 45
 	},
 	{
@@ -1469,7 +1469,7 @@
 		"updateDate": 1571254249874,
 		"originalName": "GitHub Dark",
 		"_id": "314ec563-3adb-47ec-9204-9e74109f81e8",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 46
 	},
 	{
@@ -1493,7 +1493,7 @@
 		"name": "Bitbucket Dark 2017",
 		"originalDigest": "c23ca3b8ed77764ccf6e964f7b4dc5d5526eb6cf",
 		"_id": "e9e312e5-5252-4583-979d-0eeb29d623f7",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 47
 	},
 	{
@@ -1546,7 +1546,7 @@
 		"updateDate": 1575166873469,
 		"originalName": "Geeks for Geeks Dark",
 		"_id": "b07e3b3b-3ceb-4173-b78e-07a3a62ef46f",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 48
 	},
 	{
@@ -1947,7 +1947,7 @@
 		"name": "Stackoverflow Dark",
 		"originalDigest": "8b700c836998093ce4c072a4c18fca23df709171",
 		"_id": "0cfa6a9b-79b1-4fe2-9596-b0f78952fe4b",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 49
 	},
 	{
@@ -1971,7 +1971,7 @@
 		"name": "Qt Docs Dark",
 		"originalDigest": "fbbb5fb9206d618f7586b4067d2b40aab9fb7561",
 		"_id": "b85a8614-a5fc-4495-b661-781a59546725",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 50
 	},
 	{
@@ -1995,7 +1995,7 @@
 		"name": "Another dark Arch Linux theme",
 		"originalDigest": "bf60fb5b97139122dd5d43167a939e153867153b",
 		"_id": "a9d83246-d826-4caf-aa53-d5a258bb394e",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 51
 	},
 	{
@@ -2019,7 +2019,7 @@
 		"name": "Dark Mode for lifewire.com",
 		"originalDigest": "8f9e5b3c666a86770ea885e128852827db2ce391",
 		"_id": "b5cd4463-5365-4df0-901f-c2b72d872d67",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 52
 	},
 	{
@@ -2063,7 +2063,7 @@
 		"name": "Fixes for Bitbucket Dark + Fixes - by Prognoz (dep",
 		"originalDigest": "e64c92c3fa5722449e1a0f0f6b7af834cdc66dbc",
 		"_id": "5292b668-0c62-41b6-a3b4-2914c45af27d",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 53
 	},
 	{
@@ -2087,7 +2087,7 @@
 		"name": "Dark - bitbucket.org",
 		"originalDigest": "299830729522d4864f778941f41fce10b4b16381",
 		"_id": "978166a4-9049-4283-a810-cef7f966c8f3",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 54
 	},
 	{
@@ -2111,7 +2111,7 @@
 		"name": "fifty shades of tutorialspoint",
 		"originalDigest": "5427e05089245b21e0a8722827f90a63584c5e09",
 		"_id": "aafacc5d-9ebc-4529-a349-26e51096b0e4",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 55
 	},
 	{
@@ -2144,7 +2144,7 @@
 		"originalDigest": "3b051aacc47b15e999ed8417cd60d6b72764e6ae",
 		"id": 34,
 		"_id": "29e65e5c-400d-4e5f-9b08-5eaf0b4fca55",
-		"_rev": 1585079156204
+		"_rev": 1587226152926
 	},
 	{
 		"enabled": true,
@@ -2166,7 +2166,31 @@
 		"originalDigest": "d47e18cb860ef324c4981ea091600b0f4cda2ba8",
 		"updateDate": 1572656427332,
 		"_id": "a797da02-9a58-41cd-b861-77d67c486c48",
-		"_rev": 1585079156204,
+		"_rev": 1587226152926,
 		"id": 56
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/174795.json",
+		"md5Url": "https://update.userstyles.org/174795.md5",
+		"url": "http://userstyles.org/styles/174795",
+		"originalMd5": "573d164a8f88d5bc77402c36862d61dd",
+		"installDate": 1586565410210,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"medium.com"
+				],
+				"regexps": [],
+				"code": "/* Disable */\r\n  div:not(.bp) {\r\n    background: transparent !important;\r\n    background-color: transparent;\r\n  }\r\n\r\n  /* Text */\r\n  div.u-textColorNormal, h1.u-textColorDark, p, span, div, figcaption, li, a, h1, h2, h3, h4 {\r\n    color: #f8f8f2 !important;\r\n  }\r\n\r\n  /* Root */\r\n  body {\r\n    background-color: #282a36 !important;\r\n    color: #f8f8f2 !important;\r\n  }\r\n\r\n  /* Popup */\r\n  .bp {\r\n    background-color: #282a36 !important;\r\n    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 20px !important;\r\n  }\r\n\r\n  /* Logo */\r\n  svg, .aw, .ax {\r\n    fill: #f8f8f2 !important;\r\n  }\r\n\r\n  /* Buttons */\r\n  button {\r\n    border-color: #f8f8f2 !important;\r\n  }\r\n\r\n  button:selected {\r\n    color: #f8f8f2 !important;\r\n  }\r\n\r\n  /* Navigation */\r\n  nav {\r\n    background-color: #6a737d33 !important;\r\n    backdrop-filter: blur(10px) saturate(125%);\r\n    padding-bottom: 5px;\r\n  }\r\n\r\n  .gist .highlight {\r\n    background: #333;\r\n  }\r\n\r\n  .gist .blob-code, .gist .blob-num {\r\n    color: #7a81a9;\r\n  }"
+			}
+		],
+		"name": "Medium.com Dark Developer Theme",
+		"originalDigest": "3477a37a1d5ce7d40dcc04d00e4625c1a5978541",
+		"_id": "b14c5e4a-a473-41e3-9eb6-d2aa00a5a9b1",
+		"_rev": 1586565410211,
+		"id": 57
 	}
 ]
