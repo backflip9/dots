@@ -99,7 +99,7 @@
 		"updateDate": 1584467344729,
 		"originalName": "Wikipedia Dark Material Design",
 		"_id": "959fd37f-cde2-4b76-8810-18e11ffb9562",
-		"_rev": 1587226462355,
+		"_rev": 1587933034715,
 		"id": 3
 	},
 	{
@@ -870,7 +870,7 @@
 		"updateDate": 1569546252087,
 		"originalName": "Dark-GitLab",
 		"_id": "7ae443bc-d529-40e8-a6be-28d1b08fe64c",
-		"_rev": 1587226462355,
+		"_rev": 1587933034715,
 		"id": 16
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"name": "w3schools | andje22",
 		"originalDigest": "b36ea5b76a48b8d59cc29000d127b8321f949519",
 		"_id": "f1bb7485-e365-4653-bf67-5ad40fbd1b25",
-		"_rev": 1587226462355,
+		"_rev": 1587933034715,
 		"id": 23
 	},
 	{
@@ -1947,7 +1947,7 @@
 		"name": "StackExchange Dark",
 		"originalDigest": "ce78ad218ea4e735ac86babbd088cf6709dfa384",
 		"_id": "d8186dc8-480e-464d-b585-34b256c95168",
-		"_rev": 1587226462355,
+		"_rev": 1587933034715,
 		"updateDate": 1585079093000,
 		"id": 46
 	},
@@ -2269,5 +2269,54 @@
 		"_id": "058d82d6-e6a4-4318-824b-a5d2dc67b056",
 		"_rev": 1587226462355,
 		"id": 58
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/124792.json",
+		"md5Url": "https://update.userstyles.org/124792.md5",
+		"url": "http://userstyles.org/styles/124792",
+		"originalMd5": "d38557155de2f2f0cb2f4980ef7a6b21",
+		"installDate": 1587757928865,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [
+					"https://vulkan.lunarg.com/doc/",
+					"https://vulkan.lunarg.com/app/docs/"
+				],
+				"domains": [],
+				"regexps": [],
+				"code": "article p, article li, article td {\r\n   max-width: 40em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope p\r\n{\r\n    max-width: 43em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope ul,\r\ndiv.col div.padder-lg div.ng-scope ol\r\n{\r\n    max-width: 60em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope li\r\n{\r\n    max-width: 40em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope table\r\n{\r\n    max-width: 60em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope td\r\n{\r\n    max-width: 40em;\r\n}\r\n\r\n#app > div.app-aside.hidden-xs.ng-scope > div > div:after\r\n{\r\n    display: block;\r\n    max-width: 80%;\r\n    margin: 0 auto 0 auto;\r\n    content: \"Get more examples and helper code at krust.org.\";\r\n}"
+			}
+		],
+		"name": "Readable Column - Vulkan SDK Documentation",
+		"originalDigest": "077e055a0f4af9268396eb88f7d927cb75a097c9",
+		"_id": "878116ea-df5e-4239-8c0b-de9cccaaf374",
+		"_rev": 1587757928866,
+		"id": 59
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/179478.json",
+		"md5Url": "https://update.userstyles.org/179478.md5",
+		"url": "http://userstyles.org/styles/179478",
+		"originalMd5": "3028f9acec23a11dc71dca927050b36d",
+		"installDate": 1587757931985,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"vulkan-tutorial.com"
+				],
+				"regexps": [],
+				"code": "body, html {\r\n    background-color: #1f1d1d;\r\n    color: #b3b3b3;\r\n}\r\n.columns .right-column .content-page {\r\n\tbackground-color: #1f1d1d;\r\n}\r\n.content {\r\n\tbackground: #1f1d1d;\r\n}\r\ncode {\r\n\tcolor: #f9f2f4;\r\n\tborder: 1px solid #3f3f3f;\r\n    background-color: #171717;\r\n}\r\ncode a {\r\n    text-decoration: none;\r\n}"
+			}
+		],
+		"name": "Simple Dark - vulkan-tutorial.com",
+		"originalDigest": "453039af9ec25740987ad5707fb0735a6d7665ea",
+		"_id": "9450eccf-3ab3-4145-9849-3c8b9731fbc3",
+		"_rev": 1587757931985,
+		"id": 60
 	}
 ]
