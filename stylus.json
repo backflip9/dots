@@ -20,7 +20,7 @@
 		"name": "Pushbullet dark",
 		"originalDigest": "eef76fae71468f18b2526fc85ca3923bee7889a5",
 		"_id": "a1071b08-37e8-47d2-bd9a-61da19470c37",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 1
 	},
 	{
@@ -66,7 +66,7 @@
 		"name": "DarkSearch for Google",
 		"originalDigest": "ff31eda9bcfd4d60f73903e16a79620a97782ca5",
 		"_id": "e8bb1732-0de1-47aa-b326-d081f9184ad3",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 2
 	},
 	{
@@ -99,7 +99,7 @@
 		"updateDate": 1588020066209,
 		"originalName": "Wikipedia Deep Dark Theme",
 		"_id": "959fd37f-cde2-4b76-8810-18e11ffb9562",
-		"_rev": 1593678696897,
+		"_rev": 1597727602012,
 		"id": 3
 	},
 	{
@@ -124,7 +124,7 @@
 		"originalDigest": "e4cb46dd60ddc1fd42e301b34106eb2f336393fd",
 		"id": 4,
 		"_id": "0dbdb5e2-2a7d-45f6-ad36-a623881d1cc9",
-		"_rev": 1587942980676
+		"_rev": 1597727602012
 	},
 	{
 		"installDate": 1535930922872,
@@ -147,7 +147,7 @@
 		"name": "RedWood - Transmission Web",
 		"originalDigest": "f7adf3652ef8d9c50760749d703f3bc160bd959d",
 		"_id": "b4b55147-84e2-4360-a93c-be2468faa07d",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 5
 	},
 	{
@@ -178,7 +178,7 @@
 		"name": "transmissionweb-flat",
 		"originalDigest": "617fb336a9bc943a9f65167562f867af8611c9a0",
 		"_id": "492126f1-ab05-4a15-8aac-ad4ed9c07f70",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 6
 	},
 	{
@@ -204,7 +204,7 @@
 		"name": "TypeRacer_Colorful-Dark",
 		"originalDigest": "e81b785cc93960555a0d3217034016f0430bef51",
 		"_id": "9b149a57-c5e9-4f2a-a2cb-e7b115721a89",
-		"_rev": 1594078417536,
+		"_rev": 1597727602012,
 		"id": 8
 	},
 	{
@@ -232,7 +232,7 @@
 		"updateDate": 1571254249874,
 		"originalName": "GitHub Dark",
 		"_id": "314ec563-3adb-47ec-9204-9e74109f81e8",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 9
 	},
 	{
@@ -256,7 +256,7 @@
 		"name": "Bitbucket Dark 2017",
 		"originalDigest": "c23ca3b8ed77764ccf6e964f7b4dc5d5526eb6cf",
 		"_id": "e9e312e5-5252-4583-979d-0eeb29d623f7",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 11
 	},
 	{
@@ -309,7 +309,7 @@
 		"updateDate": 1575166873469,
 		"originalName": "Geeks for Geeks Dark",
 		"_id": "b07e3b3b-3ceb-4173-b78e-07a3a62ef46f",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 12
 	},
 	{
@@ -710,7 +710,7 @@
 		"name": "Stackoverflow Dark",
 		"originalDigest": "8b700c836998093ce4c072a4c18fca23df709171",
 		"_id": "0cfa6a9b-79b1-4fe2-9596-b0f78952fe4b",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 13
 	},
 	{
@@ -754,7 +754,7 @@
 		"updateDate": 1570475476475,
 		"originalName": "Dark theme for php.net",
 		"_id": "afbc4559-ee55-4392-92dc-6531c9678474",
-		"_rev": 1594804406624,
+		"_rev": 1597727602012,
 		"id": 14
 	},
 	{
@@ -778,7 +778,7 @@
 		"name": "Qt Docs Dark",
 		"originalDigest": "fbbb5fb9206d618f7586b4067d2b40aab9fb7561",
 		"_id": "b85a8614-a5fc-4495-b661-781a59546725",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 15
 	},
 	{
@@ -844,7 +844,7 @@
 		"updateDate": 1592581605367,
 		"originalName": "Dark-GitLab",
 		"_id": "7ae443bc-d529-40e8-a6be-28d1b08fe64c",
-		"_rev": 1592581605383,
+		"_rev": 1597727602012,
 		"id": 16
 	},
 	{
@@ -868,7 +868,7 @@
 		"name": "A CppReference Darkly",
 		"originalDigest": "86fb0648169b6cd38962db07de0a0c8a7d0e2004",
 		"_id": "f2c3d845-7e33-49c0-ac68-a0eebd4893da",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 17
 	},
 	{
@@ -892,7 +892,7 @@
 		"name": "Another dark Arch Linux theme",
 		"originalDigest": "bf60fb5b97139122dd5d43167a939e153867153b",
 		"_id": "a9d83246-d826-4caf-aa53-d5a258bb394e",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 18
 	},
 	{
@@ -916,7 +916,7 @@
 		"name": "A CPlusPlus Darkly",
 		"originalDigest": "322a121312af3cebdd4f0d033385701a8e241682",
 		"_id": "7062b3ae-780f-4698-9a85-2fbf287eece0",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 19
 	},
 	{
@@ -940,7 +940,7 @@
 		"name": "SDL Wiki Noire",
 		"originalDigest": "078ea7341ea65fe2ae3f04b011d010ba1e6c7021",
 		"_id": "a67877bd-936d-47eb-8a1f-13706d139a80",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 20
 	},
 	{
@@ -973,7 +973,7 @@
 		"name": "Dark theme for docs.python.org",
 		"originalDigest": "c466ca2f97fc5344eb9c3652cc21eba32387254a",
 		"_id": "c9d7100a-cc40-4901-a10c-62d5cffcf2cf",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 21
 	},
 	{
@@ -1026,7 +1026,7 @@
 		"name": "Laravel Docs Night Mode",
 		"originalDigest": "7b628e2014931ac7ec8c25d6b93489247fe5eec9",
 		"_id": "ad14e080-b6e7-42ed-bc6f-a0bf8750a6c3",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 22
 	},
 	{
@@ -1050,7 +1050,7 @@
 		"name": "w3schools | andje22",
 		"originalDigest": "b36ea5b76a48b8d59cc29000d127b8321f949519",
 		"_id": "f1bb7485-e365-4653-bf67-5ad40fbd1b25",
-		"_rev": 1588555342256,
+		"_rev": 1597727602012,
 		"id": 23
 	},
 	{
@@ -1074,7 +1074,7 @@
 		"name": "Dark Mode for lifewire.com",
 		"originalDigest": "8f9e5b3c666a86770ea885e128852827db2ce391",
 		"_id": "b5cd4463-5365-4df0-901f-c2b72d872d67",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 24
 	},
 	{
@@ -1098,7 +1098,7 @@
 		"name": "Material Dark Laravel Docs",
 		"originalDigest": "8a57dae7292664f7ce9db3cefdeba36d0f79ff90",
 		"_id": "545f183b-b2bf-4a06-9ace-09b0ed1fb9b9",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 25
 	},
 	{
@@ -1236,7 +1236,7 @@
 		"name": "Google - Clean Dark",
 		"originalDigest": "ba031b83e108bb9ea96bc78d22a68241984452e3",
 		"_id": "c028907d-2dda-4472-bbad-a352244049e6",
-		"_rev": 1594925976113,
+		"_rev": 1597727602012,
 		"id": 26
 	},
 	{
@@ -1260,7 +1260,7 @@
 		"name": "Transmission dark theme",
 		"originalDigest": "870ff0bb623012a14a3ff083756fb0b94f6668a0",
 		"_id": "3f93f946-1142-4c7e-9b34-190e06dc8087",
-		"_rev": 1592183684612,
+		"_rev": 1597727602012,
 		"id": 27
 	},
 	{
@@ -1304,7 +1304,7 @@
 		"name": "Fixes for Bitbucket Dark + Fixes - by Prognoz (dep",
 		"originalDigest": "e64c92c3fa5722449e1a0f0f6b7af834cdc66dbc",
 		"_id": "5292b668-0c62-41b6-a3b4-2914c45af27d",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 28
 	},
 	{
@@ -1328,7 +1328,7 @@
 		"name": "Dark - bitbucket.org",
 		"originalDigest": "299830729522d4864f778941f41fce10b4b16381",
 		"_id": "978166a4-9049-4283-a810-cef7f966c8f3",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 29
 	},
 	{
@@ -1352,7 +1352,7 @@
 		"name": "fifty shades of tutorialspoint",
 		"originalDigest": "5427e05089245b21e0a8722827f90a63584c5e09",
 		"_id": "aafacc5d-9ebc-4529-a349-26e51096b0e4",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 30
 	},
 	{
@@ -1376,7 +1376,7 @@
 		"name": "zyBooks Dark",
 		"originalDigest": "b3d63b5b6fbf50d661918d6007bc8584e6dee6bd",
 		"_id": "ca16efa3-a3e2-4897-b1eb-b0686cb26cf5",
-		"_rev": 1590709692630,
+		"_rev": 1597727602012,
 		"id": 31,
 		"updateDate": 1590709692628,
 		"originalName": "zyBooks Dark"
@@ -1439,7 +1439,7 @@
 		"name": "AlliedModders Dark",
 		"originalDigest": "2fe1b277365082c33e04f7b22d8e4220df9c33b6",
 		"_id": "7efc0b9b-65cc-4bac-9cb5-f1970a68498c",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 32
 	},
 	{
@@ -1465,7 +1465,7 @@
 		"updateDate": 1580495490405,
 		"originalName": "Piazza Darker",
 		"_id": "eccd3953-d8d2-4055-a564-eb9912f67c2c",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 33
 	},
 	{
@@ -1504,7 +1504,7 @@
 		"originalDigest": "adf6eb8ccde2e154a23dd6e04864a69958fd6e1e",
 		"id": 34,
 		"_id": "29e65e5c-400d-4e5f-9b08-5eaf0b4fca55",
-		"_rev": 1596265240541,
+		"_rev": 1597727602012,
 		"updateDate": 1596265240540,
 		"originalName": "Dark Javadocs (Java 9-14 support)"
 	},
@@ -1528,7 +1528,7 @@
 		"originalDigest": "d47e18cb860ef324c4981ea091600b0f4cda2ba8",
 		"updateDate": 1572656427332,
 		"_id": "a797da02-9a58-41cd-b861-77d67c486c48",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 35
 	},
 	{
@@ -1551,7 +1551,7 @@
 		"id": 36,
 		"updateDate": 1576536895997,
 		"_id": "e4cc0d3e-55d1-46c9-bd08-ba558a53c712",
-		"_rev": 1587942980676
+		"_rev": 1597727602012
 	},
 	{
 		"enabled": true,
@@ -1584,7 +1584,7 @@
 		"id": 37,
 		"updateDate": 1592451186908,
 		"_id": "9a428ebd-c1fc-4b49-aa90-06a9ed8a0caf",
-		"_rev": 1592710495832
+		"_rev": 1597727602012
 	},
 	{
 		"enabled": true,
@@ -1703,7 +1703,7 @@
 		"name": "Free Quizlet Dark Theme [V1.7.2]",
 		"originalDigest": "37b0e4391b8767ee08e42b1cb46c2286d15d1638",
 		"_id": "dc54d19e-6763-4953-a6a2-5ebc4745ddf0",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 38,
 		"updateDate": 1584074444499
 	},
@@ -1731,7 +1731,7 @@
 		"name": "Dusky Gray Facebook [Dark Theme]",
 		"originalDigest": "87d295c6b53475ef405edc9882b92908955d98c5",
 		"_id": "1c74c557-3b2b-4c76-ac8e-021b64676c3d",
-		"_rev": 1592861265723,
+		"_rev": 1597727602012,
 		"id": 39,
 		"updateDate": 1588884063604,
 		"originalName": "Dusky Gray Facebook [Dark Theme]"
@@ -1759,7 +1759,7 @@
 		"updateDate": 1550800853599,
 		"originalName": "10FastFingers Dark Mode - 10FF (Bruhdooh) v1.4",
 		"_id": "b7b0f576-2b29-4bd8-9692-132341ecf525",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 40
 	},
 	{
@@ -1783,7 +1783,7 @@
 		"name": "Mailgun Dark with Accents",
 		"originalDigest": "118a069f01d85a91cdbba8d8b87f6b87595115f3",
 		"_id": "9c2f28e5-06c6-45db-bae7-7f28a176c16e",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 41
 	},
 	{
@@ -1820,7 +1820,7 @@
 		"name": "Medium (medium.com ) – Dark Grey",
 		"originalDigest": "eb46443b0d3ee350f81c7f7885aed809b7df76d9",
 		"_id": "bf564fdf-e509-41aa-838f-769a0acd5cef",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 42
 	},
 	{
@@ -1849,7 +1849,7 @@
 		"updateDate": 1560021584842,
 		"originalName": "A MDN Darkly",
 		"_id": "814dd026-0a71-441d-be60-b3fa57823168",
-		"_rev": 1595967044659,
+		"_rev": 1597727602012,
 		"id": 43
 	},
 	{
@@ -1873,7 +1873,7 @@
 		"name": "ArchLinux Wiki Dark",
 		"originalDigest": "156cba3d76d1d99baa8e1798fc9ab33ce1c7cea8",
 		"_id": "5228e759-6e90-4fd0-8511-335b9276a18b",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 44
 	},
 	{
@@ -1898,7 +1898,7 @@
 		"name": "Laravel Docs - Dark Theme",
 		"originalDigest": "2aea39d49346438a99d7684526c1803ab5a00b24",
 		"_id": "70734b76-b8c2-4ec1-8b44-30fcdf4d5e24",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 45
 	},
 	{
@@ -1940,7 +1940,7 @@
 		"name": "StackExchange Dark",
 		"originalDigest": "ce78ad218ea4e735ac86babbd088cf6709dfa384",
 		"_id": "d8186dc8-480e-464d-b585-34b256c95168",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"updateDate": 1585079093000,
 		"id": 46
 	},
@@ -1965,7 +1965,7 @@
 		"name": "Android Developer Dark Theme",
 		"originalDigest": "d4e509ef4b161ae07a0e96bf07e9ef693dc0c22d",
 		"_id": "4f7f6e28-86e8-4108-8e11-1c1193e98050",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 47
 	},
 	{
@@ -1996,7 +1996,7 @@
 		"name": "PassMark Modern",
 		"originalDigest": "56aac01d41b0229986fad7094545287b532128c7",
 		"_id": "bb118eaa-0fa0-4f3d-a660-e97ae0187c5c",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 48
 	},
 	{
@@ -2020,7 +2020,7 @@
 		"name": "LinkedDark",
 		"originalDigest": "2abf47a364e8c932dde10d2c499339997c90e51b",
 		"_id": "656aad33-8ba0-4c98-9f94-77db0fdaf0f3",
-		"_rev": 1588020061428,
+		"_rev": 1597727602012,
 		"updateDate": 1588020061427,
 		"originalName": "LinkedDark",
 		"id": 49
@@ -2046,7 +2046,7 @@
 		"name": "Dark chat.google.com",
 		"originalDigest": "0c2d1ebec3e191306e19d7ade82b2f3006d7e5a9",
 		"_id": "78a563ec-0b92-42d7-9f08-1b2cafece0d3",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 50
 	},
 	{
@@ -2074,7 +2074,7 @@
 		"name": "zDark - Blue Grey - Python Docs",
 		"originalDigest": "a35f73bc42209b61b0a093acc6136d6ba767a829",
 		"_id": "ef4fd3ba-e2a9-47af-9076-60bbb9e0a325",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 51,
 		"updateDate": 1586462899808
 	},
@@ -2099,7 +2099,7 @@
 		"name": "linkedin.com dark",
 		"originalDigest": "a6c1d346913bfcd4f2e5502dd7ec90be924249da",
 		"_id": "9db3c3e4-537c-4bf6-9ac0-36fd7d13b1e5",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 52
 	},
 	{
@@ -2123,7 +2123,7 @@
 		"name": "Dark LinkedIn by GexideL",
 		"originalDigest": "f6ff7d06f70f67eb07d462a325d7da4535416a5c",
 		"_id": "e5fe871a-f3e5-488a-9db7-7153ffcb74ff",
-		"_rev": 1589759285027,
+		"_rev": 1597727602012,
 		"id": 53,
 		"updateDate": 1589759285025,
 		"originalName": "Dark LinkedIn by GexideL"
@@ -2151,7 +2151,7 @@
 		"name": "GitHub Ice Dark",
 		"originalDigest": "503747861b25acd9dfc14f5984b82338f1216903",
 		"_id": "c19963da-9ae8-4f3f-ad4a-a18f973a9bea",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 54
 	},
 	{
@@ -2180,7 +2180,7 @@
 		"name": "Typeracer - Modern Dark By Hysteria",
 		"originalDigest": "6f02786a267dbb6fed42652075c9217509df2a22",
 		"_id": "6b98b7b4-acc6-4020-88d8-565bc7137652",
-		"_rev": 1594078417790,
+		"_rev": 1597727602012,
 		"id": 55
 	},
 	{
@@ -2214,7 +2214,7 @@
 		"name": "Bitbucket Org Dark",
 		"originalDigest": "ff0c911c395f0d7174b842eae2213f76deb67f95",
 		"_id": "d08f722d-aba9-4134-a214-f9b10a953725",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 56
 	},
 	{
@@ -2238,7 +2238,7 @@
 		"name": "Medium.com Dark Developer Theme",
 		"originalDigest": "3477a37a1d5ce7d40dcc04d00e4625c1a5978541",
 		"_id": "b14c5e4a-a473-41e3-9eb6-d2aa00a5a9b1",
-		"_rev": 1592339864958,
+		"_rev": 1597727602012,
 		"id": 57
 	},
 	{
@@ -2262,8 +2262,33 @@
 		"name": "Geeks For Geeks Darker",
 		"originalDigest": "683e0d21f8eee5d5382a6380b66dc306ced21b51",
 		"_id": "058d82d6-e6a4-4318-824b-a5d2dc67b056",
-		"_rev": 1587942980676,
+		"_rev": 1597727602012,
 		"id": 58
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/124792.json",
+		"md5Url": "https://update.userstyles.org/124792.md5",
+		"url": "http://userstyles.org/styles/124792",
+		"originalMd5": "d38557155de2f2f0cb2f4980ef7a6b21",
+		"installDate": 1587757928865,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [
+					"https://vulkan.lunarg.com/doc/",
+					"https://vulkan.lunarg.com/app/docs/"
+				],
+				"domains": [],
+				"regexps": [],
+				"code": "article p, article li, article td {\r\n   max-width: 40em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope p\r\n{\r\n    max-width: 43em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope ul,\r\ndiv.col div.padder-lg div.ng-scope ol\r\n{\r\n    max-width: 60em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope li\r\n{\r\n    max-width: 40em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope table\r\n{\r\n    max-width: 60em;\r\n}\r\n\r\ndiv.col div.padder-lg div.ng-scope td\r\n{\r\n    max-width: 40em;\r\n}\r\n\r\n#app > div.app-aside.hidden-xs.ng-scope > div > div:after\r\n{\r\n    display: block;\r\n    max-width: 80%;\r\n    margin: 0 auto 0 auto;\r\n    content: \"Get more examples and helper code at krust.org.\";\r\n}"
+			}
+		],
+		"name": "Readable Column - Vulkan SDK Documentation",
+		"originalDigest": "077e055a0f4af9268396eb88f7d927cb75a097c9",
+		"_id": "878116ea-df5e-4239-8c0b-de9cccaaf374",
+		"_rev": 1587757928866,
+		"id": 59
 	},
 	{
 		"enabled": true,
@@ -2286,80 +2311,121 @@
 		"name": "Simple Dark - vulkan-tutorial.com",
 		"originalDigest": "453039af9ec25740987ad5707fb0735a6d7665ea",
 		"_id": "9aff6320-aabf-4cb6-b5c8-f379fc16858f",
-		"_rev": 1587943335430,
-		"id": 59
-	},
-	{
-		"enabled": false,
-		"updateUrl": "https://userstyles.org/styles/chrome/172874.json",
-		"md5Url": "https://update.userstyles.org/172874.md5",
-		"url": "http://userstyles.org/styles/172874",
-		"originalMd5": "479ae7e5d8ca181fb9fcfa5a1678c2c6",
-		"installDate": 1588126988282,
-		"sections": [
-			{
-				"urls": [],
-				"urlPrefixes": [
-					"https://voice.google.com"
-				],
-				"domains": [],
-				"regexps": [],
-				"code": "/*--------------------------------------------------------------\r\n>>>\tTOPBAR\r\n--------------------------------------------------------------*/\r\n\r\n/* Top bar color */\r\n a[title=\"Google Voice\"] > span {\r\n   filter: invert(1) brightness(200%);\r\n}\r\n/* .gb_Wa .gb_Xd { Try using the style selector to avoid constant class name changes */\r\n header[role=\"banner\"] > div:nth-child(2) {\r\n   background: #10b2a2 !important;\r\n   color: white;\r\n}\r\n/* hamburger menu */\r\n header[role=\"banner\"] > div:nth-child(2) > div > div[aria-label=\"Main menu\"] {\r\n   filter: brightness(300%);\r\n}\r\n/* icons on the right */\r\n .mat-accent>span>mat-icon {\r\n   filter: brightness(200) invert(1);\r\n}\r\na[aria-label=\"Google apps\"] {\r\n   filter: brightness(200);\r\n}\r\nform[action=\"/search\"] {\r\n   filter: invert(1) brightness(200%);\r\n}\r\n/* top bar buttons */\r\nheader > div > div > div > div > * > gv-icon-button > base-icon-button > button {\r\n    filter: invert(1);\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tLeft Side Menu\r\n--------------------------------------------------------------*/\r\n/* brighter icons */\r\ngv-side-nav > div > div > gmat-nav-list > a[aria-selected=\"false\"] {\r\n   filter: invert(1);\r\n}\r\n/* badge icon blue *//*\r\naka span.navItemBadge\r\n*/\r\n/* collapsed */\r\ngv-side-nav > div > div > gmat-nav-list > a div > div > span {\r\n   filter: invert(1);\r\n}\r\n/* expanded */\r\ngv-side-nav > div.expanded > div > gmat-nav-list > a div > div > span {\r\n   filter: invert(0);\r\n}\r\n/* background */\r\n#gvPageRoot {\r\n   background: black;\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tConversation area\r\n--------------------------------------------------------------*/\r\n#messaging-view > div > md-content > gv-thread-details > div.layout-column {\r\n   background: black;\r\n   color: white !important;\r\n}\r\n/* buttons on the right */\r\ngv-message-list-header > div > div > div[role=\"toolbar\"] {\r\n   filter: invert(1) contrast(400%);\r\n}\r\nmd-content {\r\n   color: white !important;\r\n   background: black !important;\r\n}\r\ngv-icon-button > button.mat-icon-button {\r\n   filter: invert(1)\r\n}\r\n/* type a name or phone number label */\r\nmat-chip-list > div > md-input-container > label { \r\n   color: black !important;\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tConversation List\r\n--------------------------------------------------------------*/\r\n/* default name */\r\ngv-thread-item>div[aria-selected=\"false\"]>div>div>gv-annotation {\r\n   color: white !important;\r\n}\r\n/* default text */\r\ngv-thread-item>div[aria-selected=\"false\"] {\r\n   color: #AAAAAA;\r\n}\r\n/* default text hover */\r\ngv-thread-item>div[aria-selected=\"false\"]:hover {\r\n   color: #BBBBBB;\r\n   background: #222222;\r\n}\r\n\r\n/* selected name */\r\ngv-thread-item>div[aria-selected=\"true\"]>div>div>gv-annotation {\r\n   color: white !important;\r\n}\r\n/* selected text */\r\ngv-thread-item>div[aria-selected=\"true\"] {\r\n   color: white;\r\n\tbackground: #555555;\r\n}\r\n/* selected text hover */\r\ngv-thread-item>div[aria-selected=\"true\"]:hover {\r\n   color: white;\r\n\tbackground: #777777;\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tSuggested contact list\r\n--------------------------------------------------------------*/\r\ngv-contact-list {\r\n   background: #333333 !important;\r\n}\r\ngv-contact-list> div > div > div > p {\r\n   color: white !important;\r\n}\r\n/* Name */\r\ngv-contact-list> div > div > div > gv-frequent-contact-card > div > div:nth-child(2) > div {\r\n   color: white !important;\r\n}\r\n/* Phone Number */\r\ngv-contact-list> div > div > div > gv-frequent-contact-card > div > div:nth-child(2) > div > span {\r\n   color: #AAAAAA !important;\r\n}\r\n/* All Contacts */\r\n/* Name */\r\ngv-contact-item > div > div:nth-child(2) > gv-annotation {\r\n   color: white !important;\r\n}\r\n/* Phone Number */\r\ngv-contact-item > div > div:nth-child(2) > div {\r\n   color: #AAAAAA !important;\r\n}\r\n\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tBottom Bar\r\n--------------------------------------------------------------*/\r\n/* Compose textarea */\r\nmd-content > gv-thread-details > div > div:nth-child(3) > gv-message-entry > div > div > md-input-container > textarea {\r\n   color: white !important;\r\n}\r\n/* Add image button (on the bottom) */\r\nmd-content > gv-thread-details > div > div:nth-child(3) > gv-message-entry > div > div > gv-icon-button-ng2 > button.mat-icon-button {\r\n   filter: invert(0) !important;\r\n}\r\ngv-message-entry > div > div > gv-icon-button-ng2 > button > span > mat-icon {\r\n   color: white;\r\n}\r\nspan > gv-icon-button-ng2 > button > span > mat-icon {\r\n   color: black;\r\n}\r\n/* Attach image button */\r\ngv-icon-button-ng2[icon-name=\"image\"]>base-icon-button>button{\r\n    filter: invert(1);\r\n}\r\nbutton.mat-icon-button[disabled][disabled] {\r\n   color: grey !important;\r\n}\r\n/*--------------------------------------------------------------\r\n>>>\tTop Bar\r\n--------------------------------------------------------------*/\r\n/* Send new message button */\r\ngv-messaging-view > div > div > md-content > div > div > div > div {\r\n   color: #dbdad7 !important;\r\n}\r\n/* To button */\r\nmd-content > gv-thread-details > div > div > gv-recipient-picker > div > div > div {\r\n   filter: invert(1);\r\n}\r\n/* add recipients button */\r\nmat-chip-list > div > md-input-container {\r\n   filter: invert(1);\r\n}\r\na[title=\"Google Voice\"] {\r\n   background: unset !important;\r\n}\r\n\r\n/* search bar background */\r\nheader[role=\"banner\"] > div:nth-child(2) > div:nth-child(2) {\r\n\tbackground-color: unset !important\r\n}\r\n\r\n/* buttons to the right of search bar */\r\nheader[role=\"banner\"] > div:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div {\r\n\tbackground-color: unset !important\r\n}\r\ngv-message-list-header > div > div > p:nth-child(1){\r\n   color: white !important;\r\n}\r\ngv-message-list-header > div > div > p:nth-child(2) {\r\n\tcolor: grey !important;\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tConversation Overflow menu\r\n--------------------------------------------------------------*/\r\n/* phone number for item in list */\r\nmd-menu-content {\r\n   filter: invert(1) brightness(1.5);\r\n}\r\n\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tCall Log\r\n--------------------------------------------------------------*/\r\ngv-call-log-thread-item > gv-thread-item > div > div > div > div > *:nth-child(1) {\r\n   filter: invert(1);\r\n}\r\n\r\n/*--------------------------------------------------------------\r\n>>>\tSettings Page\r\n--------------------------------------------------------------*/\r\n\r\n/* top settings headings */\r\ngv-account-number>div {\r\n   color: white;\r\n}\r\n/* top captions */\r\ngv-settings-section-block-subheader {\r\n   color: gray;\r\n}\r\n\r\n/* calls captions */\r\ngv-settings-section-block-content>div>div>div {\r\n   color: gray !important;\r\n}\r\n\r\n/* lower section headings  */\r\ngv-settings-section>div>h3 {\r\n   color: white !important;\r\n}\r\n\r\n/* voicemail time */\r\ngv-settings-block-header>div>div>div.creditSubheader {\r\n   color: rgb(0, 121, 107);\r\n}\r\n/* sms time */\r\ndiv[gv-test-id=\"sms-sender-time-stamp\"]{\r\n   color:lightgray;\r\n}\r\n\r\n/* Web notifications caption */\r\ngv-settings-section>div>div>div>div>div {\r\n   color: white !important;\r\n}\r\n\r\n/* headings */\r\ngv-settings-block-header>div>div>div.header {\r\n   color: white !important;\r\n}\r\n/* captions */\r\ngv-settings-block-header>div>div>div.subheader:not(.creditSubheader) {\r\n   color: gray !important;\r\n}\r\n/* mat-select */\r\nmat-select>div>div {\r\n   color: white !important;\r\n}\r\n\r\n/* fix Peoples pane and \"Send new message\" at the top of conversation list */\r\ndiv.grey-900 {\r\n   color: grey !important;\r\n}\r\n\r\n/* fix all the broken text colors to not override */ \r\nh3.grey-900 {\r\n   color: unset !important;\r\n}\r\nh3.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-account-number>div>h3.grey-900 gv-settings-section-block>div>div>div>div>div>div.grey-900 gv-messaging-settings>div>h3.grey-900 {\r\n   color: unset;\r\n}\r\ngv-settings-section-block>div>div>div>div>div>div.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-settings-section-block-content>div.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-settings-section-block-content>div>div.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-forwarding-device>div>div>div>div.grey-900 {\r\n   color: unset !important;\r\n}\r\n\r\ngv-linked-device>div>div>div>div>div.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-linked-phone>div>div.grey-900 {\r\n   color: unset !important;\r\n}\r\ngv-voicemail-greeting>div>div>div>div>div.grey-900 {\r\n   color: unset !important;\r\n}"
-			}
-		],
-		"name": "Google Voice - Dark Theme",
-		"originalDigest": "4e95baa55a7a4ca0d3eab4f7793cbc4854c802c5",
-		"_id": "7e2eed03-eba1-4b4f-98e6-ff77f73fd007",
-		"_rev": 1588127363760,
+		"_rev": 1597727602012,
 		"id": 60
 	},
 	{
 		"enabled": true,
-		"updateUrl": "https://userstyles.org/styles/chrome/172391.json",
-		"md5Url": "https://update.userstyles.org/172391.md5",
-		"url": "http://userstyles.org/styles/172391",
-		"originalMd5": "58d3ccf55edef0770b06eca8aec333d1",
-		"installDate": 1588127352339,
-		"sections": [
-			{
-				"urls": [],
-				"urlPrefixes": [
-					"http://voice.google.com/",
-					"https://voice.google.com/"
-				],
-				"domains": [],
-				"regexps": [],
-				"code": ":root\r\n  {\r\n    --maincolor: #111;\r\n    --nav-sub: #01264d;\r\n    --header: #080809;\r\n    --nav-text: #395062;\r\n    --main-bg: #151515;\r\n    --white: #f6f6f7;\r\n    --error: #a80202;\r\n    --green: #02b74d;\r\n    --color001: #8f9190;\r\n    --color002: #ff7300;\r\n    --purple: #7602dd;\r\n    --purpledrk: #4a0171;\r\n    --hoverbg: #7901b72e;\r\n    --element: rgba(2, 89, 115, .39) !important;\r\n  }\r\n\r\n  ::-webkit-scrollbar\r\n  {\r\n    width: 0 !important;\r\n  }\r\n\r\n  img.gb_pa\r\n  {\r\n    content: url(http://icons.iconarchive.com/icons/danieledesantis/playstation-flat/64/playstation-circle-dark-icon.png);\r\n  }\r\n\r\n  .gb_ce\r\n  {\r\n    font-size: 32px !important;\r\n    padding-left: 15px !important;\r\n  }\r\n\r\n  .gb_B,.gb_sb\r\n  {\r\n    background: var(--nav-sub)!important;\r\n    color: var(--nav-text)!important;\r\n  }\r\n\r\n  .gb_sb .gb_tb\r\n  {\r\n    background: var(--maincolor)!important;\r\n    border: none;\r\n  }\r\n\r\n  .gb_kd.gb_Ic .gb_Ua, .gb_kd.gb_Ic .gb_Va, .gb_kd.gb_Ic .gb_B, .gb_Ic.gb_B\r\n  {\r\n    border-radius: 15px 15px 15px 15px;\r\n      \r\n  }\r\n\r\n\r\n\r\n\r\n/* All Items Using Main Background Color */\r\n\r\n  .gb_na:not(.gb_oa) .gb_Td, .layout-column, .root, .accountPhoneBanner, .YYoZ8c-VeKiLd, .wAp0Zd-H9tDt, .GYQtq-JjL0qc,\r\n\r\n.gmat-nav-list .gmat-nav-list-item.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item-ripple.gmat-list-item-active, .gmat-nav-list .BYjt6b-TJEFFc-DH6Rkf-rymPhb-ibnC6b.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item .mat-ripple-element, .gmat-nav-list .gmat-nav-list-item-ripple .mat-ripple-element, .gmat-nav-list .BYjt6b-TJEFFc-DH6Rkf-rymPhb-ibnC6b .mat-ripple-element, .BN08bf-H9tDt md-content.BN08bf-u9UW7e,\r\n\r\n.fFW7wc.XKSfm-Sx9Kwc-xJ5Hnf\r\n  {\r\n    background: var(--maincolor)!important;\r\n  }\r\n\r\n  .gb_Ze, .gb_0e\r\n  {\r\n    background: var(--element)!important;\r\n    box-shadow: 3px 3px 11px 2px #000000;\r\n    width: 25% !important;\r\n    transform: translate(100%,-15%);\r\n    border-radius: 0px 0px 15px 15px;\r\n  }\r\n\r\n\r\n\r\n\r\n/* Main text color */\r\n\r\n  .gvPageRoot .grey-900, .gb_na svg, .gb_Dc svg, .gb_6c .gb_ce, .gb_Qc .gb_ce, .BN08bf-H9tDt md-content.BN08bf-u9UW7e\r\n  {\r\n    color: var(--nav-text)!important;\r\n  }\r\n\r\n  input, .md-input\r\n  {\r\n    color: var(--error)!important;\r\n  }\r\n\r\n  .uM2Vn-VdSJob\r\n  {\r\n    color: var(--purpledrk)!important;\r\n  }\r\n\r\n  .gmat-nav-list-item.gmat-list-item-active .mat-icon svg,\r\n\r\n.gmat-nav-list .gmat-nav-list-item.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item.gmat-list-item-active .mat-icon\r\n  {\r\n    color: var(--purple)!important;\r\n  }\r\n\r\n\r\n/* Left hand list icons */\r\n\r\n  .gmat-nav-list .gmat-nav-list-item .mat-icon\r\n  {\r\n    color: #1aa3ff;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content\r\n  {\r\n    max-width: 2rem;\r\n    padding: .8rem;\r\n    background-color: #111;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content,\r\n.gmat-nav-list-reverse .gmat-nav-list-item\r\n  {\r\n    -webkit-box-shadow: 2px 5px 15px 7px #000000;\r\n    box-shadow: 2px 5px 15px 7px #000000;\r\n    height: 25px !important;\r\n    margin: 3rem 0;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content, .gmat-nav-list-reverse\r\n  {\r\n    box-shadow: none;\r\n  }\r\n\r\n  .navItemBadge\r\n  {\r\n    background: var(--error) !important;\r\n  }\r\n\r\n  .root[_ngcontent-xfw-c5]:not(.expanded) .gmat-nav-list-reverse .gmat-nav-list-item, .root[_ngcontent-xfw-c5]:not(.expanded) .gmat-nav-list-reverse .gmat-nav-list-item-ripple\r\n  {\r\n    background: var(--maincolor)!important;\r\n  }\r\n\r\n  .mat-divider\r\n  {\r\n    border-top-color: var(--maincolor)!important;\r\n  }\r\n\r\n  .A7jSV-YLEF4c\r\n  {\r\n    box-shadow: 3px 3px 11px 2px #000000, inset 5px 5px 15px 5px rgba(0,0,0,0.64);\r\n  }\r\n\r\n  .gmat-body-2:hover, .dOUild-H9tDt:focus, .rkljfb-gk6SMd,\r\n\r\n.rkljfb-Q4CtPe:hover\r\n  {\r\n    background: var(--hoverbg)!important;\r\n  }\r\n\r\n  .Bqxti-MJZihc.Bqxti-VCkuzd, .Bqxti-MJZihc.Bqxti-VCkuzd a\r\n  {\r\n    background-color: var(--element)!important;\r\n    color: rgba(255, 255, 255, .77) !important;\r\n  }\r\n\r\n  .Bqxti-VCkuzd, .Bqxti-VCkuzd a\r\n  {\r\n    color: hsla(197, 2%, 82%, .5) !important;\r\n    background-color: rgba(0, 0, 0, .3) !important;\r\n    border-radius: 3.5px;\r\n    background: linear-gradient(135deg, #15afce00 0%, #f4f4f421 50%, #15afce00 100%);\r\n    -webkit-box-shadow: 5px 5px 15px 1px #000000;\r\n  }\r\n\r\n  .gb_kf\r\n  {\r\n    border-color: var(--nav-text);\r\n  }\r\n\r\n\r\n\r\n\r\n.gb_ja{\r\n    \r\n    background: var(--maincolor)!important;\r\n}\r\n\r\n\r\n\r\n\r\n.gb_B, .gb_sb{\r\n    \r\n    background: var(--maincolor)!important;\r\n}\r\n\r\n\r\n\r\n.gb_Se{\r\n    background: var(--element)!important;\r\n    border-radius: 0px 0px 15px 15px;\r\n    width:25% !important;\r\n    transform: translate(100%, -25%);\r\n}\r\n\r\n\r\n.gb_ef{\r\n    border:none;\r\n    box-shadow: 5px 5px 15px 5px #000000;\r\n}\r\n\r\n\r\n\r\n.gb_Zc{\r\n    font-family: Tahoma, Geneva, sans-serif;\r\nfont-size: 50px;\r\nletter-spacing: 7px;\r\nword-spacing: 2px;\r\ncolor: #000000;\r\nfont-weight: normal;\r\ntext-decoration: line-through solid rgb(68, 68, 68);\r\nfont-style: normal;\r\nfont-variant: normal;\r\ntext-transform: UPPERCASE;\r\n    transform: translate(10px,0);\r\n    text-shadow: 5px 5px 5px #000000;\r\n}\r\n\r\n\r\nimg.gb_la{\r\n    width: 25px !important;\r\n    height: 25px !important;\r\n    border-radius: 50%;\r\n    \r\n}"
-			}
-		],
-		"name": "Dark Materialized Google Voice June 2019",
-		"originalDigest": "8039fbad0ff3eda80940d134df832c09a97840b0",
-		"_id": "1b06a587-cd50-4f9d-9784-7544741837ea",
-		"_rev": 1588127366080,
-		"id": 61
-	},
-	{
-		"enabled": true,
-		"updateUrl": "https://userstyles.org/styles/chrome/131676.json",
-		"md5Url": "https://update.userstyles.org/131676.md5",
-		"url": "http://userstyles.org/styles/131676",
-		"originalMd5": "5ef9e117865cd09d96c26bc2746e3c91",
-		"installDate": 1588267107818,
+		"updateUrl": "https://userstyles.org/styles/chrome/165560.json",
+		"md5Url": "https://update.userstyles.org/165560.md5",
+		"url": "http://userstyles.org/styles/165560",
+		"originalMd5": "90d89aa8e40451c3ec6dc84ed0d1884e",
+		"installDate": 1595816046379,
 		"sections": [
 			{
 				"urls": [],
 				"urlPrefixes": [],
 				"domains": [
-					"msdn.microsoft.com"
+					"jquery.com",
+					"jqueryui.com",
+					"jquerymobile.com",
+					"sizzlejs.com",
+					"qunitjs.com"
 				],
 				"regexps": [],
-				"code": "/* Background color for everything except footer */\r\n    body {\r\n        color: #dcdcdc;\r\n        background-color: #1e1e1e;\r\n\t\tbackground-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAgMAAAANjH3HAAAACVBMVEUaGhohISElJSUh9lebAAAB20lEQVRIx4XWuZXDMAwE0C0SAQtggIIYoAAEU+aKOHhYojTrYP2+QfOW/5QIJOih/q8HwF/pb3EX+UPIveYcQGgEHiu9hI+ihEc5Jz5KBIlRRRaJ1JtoSAl5Hw96hLB1/up1tnIXOck5jZQy+3iU2hAOKSH1JvwxHsp+5TLF5MOl1/MQXsVs1miXc+KDbYydyMeUgpPQreZ7fWidbNhkXNJSeAhc6qHmHD8AYovunYyEACWEbyIhNeB9fRrH3hFi0bGPLuEW7xCNaohw1vAlS805nfsrTspclB/hVdoqusg53eH7FWot+wjYpOViX8KbFFKTwlnzvj65P9H/vD0/hibYBGhPwlPO8TmxRsaxsNnrUmUXpNhirlJMPr6Hqq9k5Xn/8iYQHYIuQsWFC6Z87IOxLxHphSY4SpuiU87xJnJr5axfeRd+lnMExXpEWPpuZ1v7qZdNBOjiHzDREHX5fs5Zz9p6X0vVKbKKchlSl5rv+3p//FJ/PYvoKryI8vs+2G9lzRmnEKkh+BU8yDk515jDj/HAswu7CCz6U/Mxb/PnC9N41ndpU4hUU7JGk/C9PmP/M2xZYdvBW2PObyf1IUiIzoHmHW9yTncliYs9A9tVNppdShfgQaTLMf+j3X723tLeHgAAAABJRU5ErkJggg==) !important;\r\n    }\r\n\r\n    /* Normal text */\r\n    p {\r\n        color: #dcdcdc;\r\n    }\r\n\r\n    /* Main header */\r\n    h1, h1.title, .topic h1.title {\r\n        color: #ffffff;\r\n    }\r\n\r\n    /* Collapsible headers */\r\n    h1.heading, h2, h2.heading, h2.subheading, h3, h3.subheading, h4, h4.subheading, h5, h5.subheading, .LW_CollapsibleArea_Title {\r\n        color: #ffffff\r\n    }\r\n\r\n    /* Triangles */\r\n    .cl_CollapsibleArea_expanding {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAMCAIAAAA/PgD0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAAA9SURBVChTrclJEQAgDANAlGCizqKnXksYGM7wY7+b8tv3MzN97g5AHCMixLUQN4K2W4PmHUH97qB6MghAAclug7wgVoWFAAAAAElFTkSuQmCC') no-repeat scroll;\r\n    }\r\n\r\n    .cl_CollapsibleArea_collapsing {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAMCAIAAAA/PgD0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAACDSURBVChTY5DDDRgWL15sbGwM5aEChv///3/48KG7u1tVVRUqBgMgOQh49OhRfn4+VBgMEHIQcPHixaCgIOxyELBlyxZ9fX0scrdv305MTETX9/bt29raWkVFRRQzv3//PnXqVB0dHYgoBIDkNm7caGtrCxVAAgz+/v5QJgbAHWZycgDw4Y1P0FYkEQAAAABJRU5ErkJggg==') no-repeat scroll;\r\n    }\r\n    /* End: Collapsible headers */\r\n\r\n    /* Version of .NET framework under the main header */\r\n    #curversion {\r\n        color: #6e6e6e;\r\n    }\r\n\r\n    /* Links */\r\n    .topic a, .topic a:link {\r\n        color: #569CD6\r\n    }\r\n\r\n    /* Navigation links */\r\n    div#leftNav a, div#leftNav a:link, div#leftNav a:visited {\r\n        color: #569CD6\r\n    }\r\n\r\n    /* Expanded navigation section */\r\n    .toc_expanded {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAABGSURBVDhPY5AjHYwwPRoaGmZmZlAODODTA9Rw6tSpsLAwKB8GcOqBaPj//z+xeuAaiNWDrAEICOtB0wAEJPgHDxjVIycHADyYjlHnj01oAAAAAElFTkSuQmCC') no-repeat scroll\r\n    }\r\n\r\n    /* Collapsed navigation section */\r\n    .toc_collapsed {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAABxSURBVDhPY5AjHYwAPYmJibW1tYqKilA+BsCip6io6P///7dv3wZqhgqhApx6IODw4cMeHh5QCRggoAcINm7cqKqqCpUDA3x6Ll68GBQUBBVFAtj1PHv2LD8/H8rHAFj0mJmZoTkGDWDRQxAMLz1ycgC4PZRsBb4BMQAAAABJRU5ErkJggg==') no-repeat scroll\r\n    }\r\n\r\n    /* Current navigation section */\r\n    div#tocnav > div.current > a, div#tocnav > div.current > a:link, div#tocnav > div.current > a:hover, div#tocnav > div.current > a:focus, div#tocnav > div.current > a:visited {\r\n        color: #ffffff;\r\n    }\r\n\r\n    /* Description of members of a class */\r\n    td {\r\n        color: #dcdcdc;\r\n    }\r\n\r\n    /* Ordinary code color */\r\n    [style*=\"Black\"] {\r\n        color: #8AA !important;\r\n    }\r\n    \r\n    /* Keywords */\r\n    [style*=\"Blue\"] {\r\n        color: #569cd6 !important;\r\n    }\r\n    \r\n    /* Comments */\r\n    [style*=\"Green\"] {\r\n        color: #57a64a !important;\r\n    }\r\n    \r\n    /* String literals */\r\n    [style*=\"A31515\"] {\r\n        color: #d69d85 !important;\r\n    }\r\n\r\n    /* Inline code */\r\n    /* The color of user types in VS2013 */\r\n    .code {\r\n        color: #4ec9b0 !important;\r\n    }\r\n\r\n.shell-category-header.cat-theme-blue {\r\n    background-color: #111;\r\n}\r\n\r\n.stdr-content.stdr-vote {\r\n \tbackground-color: #111;   \r\n}\r\n\r\na:visited, a:active {\r\n    color: #FFF !important;\r\n    font-weight: bolder !important;\r\n}\r\n\r\nspan {\r\n\tcolor: #AAA;\r\n}\r\n\r\ndiv.alert {\r\n    background-color: #555;\r\n    border-radius: 5px;\r\n}\r\n\r\ndiv#tocnav div.tocselected {\r\n    background-color: #000;\r\n    border-left: 3px solid #fff;\r\n}\r\n\r\n.shell-category-header.cat-theme-blue .shell-category-nav-featured .c-nav-link {\r\n    background-color: #000;\r\n}\r\n\r\n.shell-header {\r\n display: none;   \r\n}\r\n\r\nh2 {\r\n    font-family: Courier New,sans-serif;\r\n    font-weight: bold;\r\n    color: #F99!important;\r\n}\r\n\r\ndt {\r\n    color: #696;\r\n    font-weight: bold;\r\n}\r\n\r\n.codeSnippetContainerCode {\r\n\tbackground-color: rgba(0, 43, 54, 0.65);    \r\n}\r\n\r\n.codeSnippetContainerTabSingle {\r\n    background-color: #222;\r\n}\r\n\r\n.topic a, .topic a:link {\r\n    color: #74A5AA;\r\n}\r\n\r\n#footerContainer, #baseFooter, .shell-footer {\r\n    background-color: #111;\r\n}\r\n\r\n/* Background color for everything except footer */\r\n    .inner {\r\n        color: #dcdcdc;\r\n        background-color: #1e1e1e;\r\n\t\tbackground-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAgMAAAANjH3HAAAACVBMVEUaGhohISElJSUh9lebAAAB20lEQVRIx4XWuZXDMAwE0C0SAQtggIIYoAAEU+aKOHhYojTrYP2+QfOW/5QIJOih/q8HwF/pb3EX+UPIveYcQGgEHiu9hI+ihEc5Jz5KBIlRRRaJ1JtoSAl5Hw96hLB1/up1tnIXOck5jZQy+3iU2hAOKSH1JvwxHsp+5TLF5MOl1/MQXsVs1miXc+KDbYydyMeUgpPQreZ7fWidbNhkXNJSeAhc6qHmHD8AYovunYyEACWEbyIhNeB9fRrH3hFi0bGPLuEW7xCNaohw1vAlS805nfsrTspclB/hVdoqusg53eH7FWot+wjYpOViX8KbFFKTwlnzvj65P9H/vD0/hibYBGhPwlPO8TmxRsaxsNnrUmUXpNhirlJMPr6Hqq9k5Xn/8iYQHYIuQsWFC6Z87IOxLxHphSY4SpuiU87xJnJr5axfeRd+lnMExXpEWPpuZ1v7qZdNBOjiHzDREHX5fs5Zz9p6X0vVKbKKchlSl5rv+3p//FJ/PYvoKryI8vs+2G9lzRmnEKkh+BU8yDk515jDj/HAswu7CCz6U/Mxb/PnC9N41ndpU4hUU7JGk/C9PmP/M2xZYdvBW2PObyf1IUiIzoHmHW9yTncliYs9A9tVNppdShfgQaTLMf+j3X723tLeHgAAAABJRU5ErkJggg==) !important;\r\n    }\r\n\r\nli.message {\r\n    background-color: transparent;\r\n}\r\n\r\ndiv.menu.message\r\n{\r\n\tbackground-color: transparent !important;\r\n}"
+				"code": "::-webkit-scrollbar {\r\n \t/* Width */\r\n \twidth: 1.2em!important;\r\n }\r\n\r\n /* Color of handle ___________________________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-thumb {\r\n \tbackground: #580303!important;\r\n \tbackground-image: linear-gradient(to right, rgba(93, 6, 6, 0.95), rgba(255, 4, 4, 0.1)), url(https://image.ibb.co/hCq4n5/Carbon_Fiber_2.jpg)!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n \tborder-radius: 22px!important;\r\n \tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n }\r\n\r\n ::-webkit-scrollbar-thumb:hover {\r\n \tbackground: #580303!important;\r\n \tbackground-image: linear-gradient(to left, rgba(93, 6, 6, 0.95), rgba(255, 4, 4, 0.1)), url(https://image.ibb.co/hCq4n5/Carbon_Fiber_2.jpg)!important;\r\n \tborder-radius: 22px!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n }\r\n\r\n /* Color of Track ______________________________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-track {\r\n \tbackground: #170000!important;\r\n \tbox-shadow: inset 8px 0 13px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n \tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n }\r\n\r\n /* Color of handles at top and bottom ___________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-button {\r\n \tbackground: #4c0707!important;\r\n \tbox-shadow: inset 0 12px 13px rgba(0, 0, 0, 0.6), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n }\r\n\r\n ::-webkit-scrollbar-button:hover {\r\n \tborder-radius: 22px!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n }"
+			},
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jquery.com",
+					"jqueryui.com",
+					"jquerymobile.com",
+					"sizzlejs.com",
+					"qunitjs.com"
+				],
+				"regexps": [],
+				"code": "/*__________________________________________________________________________________*/\r\n\r\na[href] {\r\n\ttext-decoration: none!important;\r\n}\r\n\r\nfooter h3 {\r\n\ttext-transform: capitalize!important;\r\n}\r\n\r\n#content .demo-list li,\r\n#content .section-title,\r\n#content-wrapper,\r\n#trac-content,\r\n.entry-meta aside.meta-details h3,\r\n.entry-meta aside.meta-details,\r\n.greyUnderline,\r\n.navBtnDisabled,\r\n.navBtnDisabled:hover,\r\n.navBtnEnabled,\r\n.navBtnEnabled:hover,\r\n.normalPhoto img,\r\n.normalPhoto,\r\n.responseHeight li,\r\n.singleTopicCont,\r\n.singleTopicContSel,\r\n.widgetBox,\r\nfooter .books li a:hover img {\r\n\tborder: none!important;\r\n\tbox-shadow: none!important;\r\n\toutline: none!important;\r\n}\r\n\r\n.pull-four {\r\n\tright: 2.33333%!important;\r\n}\r\n\r\nol.code {\r\n\twhite-space: pre-wrap!important;\r\n}\r\n\r\nbody {\r\n\tline-height: 31.5px;\r\n}\r\n\r\n/*___ Fonts ________________________________________________________________________*/\r\n\r\np {\r\n\tfont-size: 19px!important;\r\n}\r\n\r\npre,\r\ncode {\r\n\tfont-size: 18px!important;\r\n}\r\n\r\nbody {\r\n\tfont-size: 17px!important;\r\n}\r\n\r\n#content ul li,\r\n#content p {\r\n    line-height: 2.3em !important;\r\n}\r\n\r\n.syntaxhighlighter a,\r\n.syntaxhighlighter code,\r\n.syntaxhighlighter div,\r\n.syntaxhighlighter pre,\r\n.syntaxhighlighter table caption,\r\n.syntaxhighlighter table tbody,\r\n.syntaxhighlighter table td,\r\n.syntaxhighlighter table thead,\r\n.syntaxhighlighter table tr,\r\n.syntaxhighlighter table,\r\n.syntaxhighlighter textarea {\r\n\tline-height: 1.35em !important;\r\n\tfont-size: 1.03em !important;\r\n}\r\n\r\n/*___ Remove Items _________________________________________________________________*/\r\n\r\nselector {\r\n\tleft: -9999px!important;\r\n\tposition: absolute!important;\r\n\ttop: -9999px!important;\r\n}\r\n\r\n/*___ Left/Right/Top/Bottom ________________________________________________________*/\r\n\r\n.toc {\r\n\tmargin-top: 1rem!important;\r\n}\r\n\r\nh2 {\r\n\tmargin-top: 2rem!important;\r\n}\r\n\r\n.entry-header {\r\n\tmargin-bottom: 1rem!important;\r\n}\r\n\r\n.footer-site-links li a {\r\n\tpadding-left: 40px;\r\n}\r\n\r\n/*___ Margins ______________________________________________________________________*/\r\n\r\n#sidebar .widget,\r\n.leftcontentContainer,\r\n.sideBar,\r\n.singleTopicCont,\r\n.singleTopicContSel {\r\n\tmargin: 12px!important;\r\n}\r\n\r\n#content h3 {\r\n\tmargin: .5rem 0!important;\r\n}\r\n\r\n#banner-secondary {\r\n\tmargin: -13px -13px 15px!important;\r\n}\r\n\r\n#page-container {\r\n\tmargin: 0 auto!important;\r\n}\r\n\r\n.features {\r\n\tmargin: 35px 27px 78px!important;\r\n}\r\n\r\n#sidebar ul,\r\ndl,\r\nmenu,\r\nol {\r\n\tmargin: 0 1rem 0em!important;\r\n}\r\n\r\n#content .dev-links {\r\n    margin: -15px 10px .5em 2em;\r\n}\r\n\r\n.content-right #sidebar, .sidebar-left {\r\n    margin: 0 0 12px -25px;\r\n}\r\n\r\np,\r\npre {\r\n\tmargin: 1em 1rem!important;\r\n}\r\n\r\n/*___ Paddings _____________________________________________________________________*/\r\n\r\n#content,\r\n#sidebar .widget,\r\n.four.columns.resources,\r\n.spsingleReplyContainer,\r\n.widgetBox {\r\n\tpadding: 12px!important;\r\n}\r\n\r\n.__zd_findAndReplace,\r\npre,\r\ncode {\r\n\tpadding: 3px 6px!important;\r\n}\r\n\r\n#sidebar, .sidebar-left, .sidebar-right {\r\n    padding: 0px;\r\n}\r\n\r\n/*___ Heights ______________________________________________________________________*/\r\n\r\nselector {\r\n\tmax-height: none!important;\r\n}\r\n\r\n.column,\r\n.columns {\r\n\tpadding: 0 19px!important;\r\n}\r\n\r\nbody {\r\n\theight: 100%!important;\r\n}\r\n\r\n/*___ Widths _______________________________________________________________________*/\r\n\r\n#banner-secondary p.intro,\r\n#content .signatures,\r\n.algolia-autocomplete .ds-dropdown-menu,\r\n.constrain,\r\n.mainContainer {\r\n\tmax-width: none!important;\r\n}\r\n\r\n.features li,\r\n.row {\r\n\twidth: 100%!important;\r\n}\r\n\r\n#jq-siteContain,\r\n#page-container,\r\n#wrapper {\r\n\twidth: 98%!important;\r\n}\r\n\r\n#content,\r\n.eight,\r\n.row .eight {\r\n\twidth: 84.66667%!important;\r\n}\r\n\r\n#home-content article .eight,\r\n.row .eight {\r\n\twidth: 79.66667%!important;\r\n}\r\n\r\n.algolia-autocomplete .algolia-docsearch-suggestion--content,\r\n.leftcontentContainer {\r\n\twidth: 67%!important;\r\n}\r\n\r\n#banner-secondary p.intro {\r\n    width: 56%;\r\n}\r\n\r\n.features div {\r\n\twidth: 49%!important;\r\n}\r\n\r\n.algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {\r\n\twidth: 33%!important;\r\n}\r\n\r\n.sideBar {\r\n\twidth: 27%!important;\r\n}\r\n\r\n#content .dev-links {\r\n    width: 23%;\r\n}\r\n\r\n.four,\r\n.row .four {\r\n\twidth: 20.33333%!important;\r\n}\r\n\r\n#sidebar, .sidebar-left, .sidebar-right {\r\n    width: 16%;\r\n}\r\n\r\n.link {\r\n\twidth: 14%!important;\r\n}\r\n\r\n.algolia-autocomplete .ds-dropdown-menu {\r\n\twidth: 48rem!important;\r\n}"
+			},
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jquery.com",
+					"jqueryui.com",
+					"jquerymobile.com",
+					"sizzlejs.com",
+					"qunitjs.com"
+				],
+				"regexps": [],
+				"code": "/*__________________________________________________________________________________*/\r\n\r\na[href],\r\ntd span {\r\n\tcolor: #0ff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\na[href]:visited {\r\n\tcolor: #fc79fc!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.view-source a:hover,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--highlight,\r\na[href]:hover span,\r\na[href]:hover,\r\nheader h1,\r\ninput[type=\"checkbox\"]:checked+label,\r\ninput[type=\"radio\"]:checked+label {\r\n\tcolor: #ff0!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#banner-secondary p,\r\n#banner-secondary p.intro,\r\n#content .signatures li div:last-child,\r\n#content li,\r\n#content p,\r\n#header span,\r\n.Apple-style-span,\r\n.__zd_findAndReplace span,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--text,\r\n.category-archive-meta p,\r\n.desc,\r\n.entry-content,\r\n.entry-example p,\r\n.entry-summary p,\r\n.feature-box p,\r\n.line,\r\n.longdesc p,\r\n.sppostContent p,\r\n[style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif\"],\r\ndocument body,\r\ndocument li {\r\n\tcolor: #fff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Khaki ________________________________________________________________________*/\r\n\r\n#content h2,\r\n#sidebar h3,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--category-header,\r\n.responseHeight span,\r\nfooter h3 span,\r\nheader h1,\r\nheader h2 {\r\n\tcolor: #F0E890!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Burlywood ____________________________________________________________________*/\r\n\r\n#content,\r\n#content h3,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--title,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column,\r\nheader document b,\r\ncode,\r\nheader h3,\r\nheader h4,\r\nheader i,\r\nheader pre,\r\nstrong {\r\n\tcolor: #e0b880!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Sandy Brown __________________________________________________________________*/\r\n\r\n#content .signatures li div,\r\n.commit-tease,\r\n.desc strong,\r\n.header,\r\nem,\r\nh5,\r\nh6,\r\nlabel {\r\n\tcolor: #F0A060!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n#result {\r\n\tcolor: #000!important;\r\n}\r\n\r\n/*___ Blue _________________________________________________________________________*/\r\n\r\n.icon-calendar span,\r\n.entry-meta,\r\n.lightGreyText,\r\ntime {\r\n\tcolor: #07beff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\ndocument input,\r\ndocument input[type=email],\r\ndocument input[type=number],\r\ndocument input[type=password],\r\ndocument input[type=search],\r\ndocument input[type=tel],\r\ndocument input[type=text],\r\ndocument select,\r\ndocument textarea {\r\n\tbackground-color: #1d0909!important;\r\n\tborder-radius: 22px!important;\r\n\tcolor: #fff!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n::selection {\r\n\tbackground: #ff9!important;\r\n\tcolor: #000!important;\r\n}\r\n\r\npre ::selection {\r\n\tbackground: #ff9!important;\r\n\tcolor: #fff!important;\r\n}\r\n\r\n#ticket table.properties>tbody>tr>th {\r\n\tcolor: #fff!important;\r\n}"
+			},
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jquery.com",
+					"jqueryui.com",
+					"jquerymobile.com",
+					"sizzlejs.com",
+					"qunitjs.com"
+				],
+				"regexps": [],
+				"code": "/*__________________________________________________________________________________*/\r\n\r\nhtml {\r\n\tbackground: #fff!important;\r\n}\r\n\r\n#banner-secondary,\r\n#global-nav,\r\n.entry-meta .bottom-links,\r\n.multiplebgs.cssgradients footer,\r\nfooter h3 span\r\n{\r\n\tbackground-image: none!important;\r\n}\r\n\r\n#container,\r\n#jq-content,\r\n#page-container {\r\n\tbackground: url(https://image.ibb.co/hVmiOe/wallpaper_with_black_background_45_free_wallpaper.jpg)!important;\r\n\tbackground-attachment: fixed!important;\r\n}\r\n\r\n/*___ Background Gray ______________________________________________________________*/\r\n\r\n#global-nav,\r\n.entry-meta .github-feedback,\r\n.entry-meta aside.meta-details,\r\n.multiplebgs.cssgradients footer,\r\nfooter h3 span {\r\n\tbackground-color: #060505!important;\r\n}\r\n\r\nnav#main {\r\n\tbackground: #0a0909!important;\r\n\tbackground-color: #0a0909!important;\r\n}\r\n\r\n/*___ Background 0000 ______________________________________________________________*/\r\n\r\n#banner-secondary .download-box,\r\n#content .demo-list .active,\r\n#content .demo-list li,\r\n#content h1.block,\r\n#content h2.block,\r\n#content,\r\n#events header h2,\r\n#extension-points header h2,\r\n#header,\r\n#methods header h2,\r\n#options header h2,\r\n#quick-nav h2,\r\n#sidebar #chapter-listing li.active>a,\r\n.algolia-autocomplete .algolia-docsearch-suggestion,\r\n.bestresponsebg,\r\n.entry-meta aside.meta-details,\r\n.flRight,\r\n.searchBreadCrumb {\r\n\tbackground: rgba(0, 0, 0, 0)!important;\r\n}\r\n\r\n/*___ Background-color 0000 ________________________________________________________*/\r\n\r\n#content-wrapper,\r\n#content figcaption #mainnav li,\r\n#trac-content,\r\n.attachmentListCont,\r\n.goBtn,\r\n.listing .entry-meta .category,\r\n.mainFullHeader,\r\n.navBtnDisabled,\r\n.navBtnDisabled:hover,\r\n.navBtnEnabled,\r\n.navBtnEnabled:hover,\r\n.responseHeight li span,\r\n.responseHeight span,\r\n.searchPage .headerCont,\r\n.sppostContent p,\r\n.widgetBoxHeader,\r\n:link:hover,\r\n:visited:hover {\r\n\tbackground-color: rgba(0, 0, 0, 0)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.responseHeight li,\r\n.syntaxhighlighter,\r\nol.code li,\r\ncode,\r\npre {\r\n\tbackground: #111!important;\r\n\tbackground: url(https://image.ibb.co/jgTuFU/Dark-Red-1.jpg) #111!important;\r\n\tbackground-attachment: fixed!important;\r\n\ttext-shadow: 3px 3px 5px #000!important;\r\n}\r\n\r\n/*___ Highlight Background _________________________________________________________*/\r\n\r\n#sidebar h3,\r\n.content-right #sidebar,\r\n.sidebar-left,\r\nhr {\r\n\tbackground-image: none!important;\r\n}\r\n\r\n/*__ Blue __________________________________________________________________________*/\r\n\r\n#jq-footerNavigation,\r\n#jq-secondaryNavigation,\r\n.__zd_findAndReplace {\r\n\tbackground-image: linear-gradient(to bottom right, #043dda, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n#jq-footerNavigation:hover,\r\n#jq-secondaryNavigation:hover,\r\n.__zd_findAndReplace:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #154eeb, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n#jq-footerNavigation:active,\r\n#jq-secondaryNavigation:active,\r\n.__zd_findAndReplace:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*__ Orange ________________________________________________________________________*/\r\n\r\n.color.secondary-orange,\r\na.button,\r\n#content a.button,\r\n.button,\r\ninput[type=\"submit\"]:not(.ui-corner-all) {\r\n\tbackground-image: linear-gradient(to bottom right, #da3a04, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.secondary-orange:hover,\r\na.button:hover,\r\n#content a.button:hover,\r\n.button:hover,\r\ninput[type=\"submit\"]:not(.ui-corner-all):hover {\r\n\tbackground-image: linear-gradient(to bottom right, #eb4b15, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.secondary-orange:active,\r\na.button:active,\r\n#content a.button:active,\r\n.button:active,\r\ninput[type=\"submit\"]:not(.ui-corner-all):active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Green ________________________________________________________________________*/\r\n\r\n.color.secondary-green {\r\n\tbackground-image: linear-gradient(to bottom right, #81BC2E, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.secondary-green:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #92cd3f, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.secondary-green:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Purple _______________________________________________________________________*/\r\n\r\n.color.qunit-secondary-purple {\r\n\tbackground-image: linear-gradient(to bottom right, #390f39, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.qunit-secondary-purple:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #4a1f4a, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.qunit-secondary-purple:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Red __________________________________________________________________________*/\r\n\r\n.color.sizzle-red {\r\n\tbackground-image: linear-gradient(to bottom right, #9a1B1E, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.sizzle-red:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #ab2c2f, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.sizzle-red:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Plain Black __________________________________________________________________*/\r\n\r\n#content,\r\n.content-right #sidebar,\r\n.contentWrapper,\r\n.mainFullContent,\r\n.sideBar,\r\n.sidebar-left {\r\n\tbackground-color: #000!important;\r\n\tborder-radius: 22px!important;\r\n\tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0, 10px 10px 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n#content:hover,\r\n.content-right #sidebar:hover,\r\n.contentWrapper:hover,\r\n.mainFullContent:hover,\r\n.sidebar-left:hover,\r\n.sideBar:hover {\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0, 10px 10px 5px rgba(10, 10, 10, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n/*___ Plain ________________________________________________________________________*/\r\n\r\n#content .dev-links,\r\n#banner-secondary .download-box,\r\n#content .demo-list ul,\r\n#content .signatures,\r\n#sidebar .widget,\r\n.algolia-autocomplete .ds-dropdown-menu [class^=ds-dataset-],\r\n.download-box,\r\n.four.columns.resources,\r\n.listing .hentry,\r\n.singleTopicCont,\r\n.singleTopicContSel,\r\n.spsingleReplyContainer,\r\n.widgetBox {\r\n\tbackground-color: #11111159!important;\r\n\tborder-radius: 22px!important;\r\n\tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0, 10px 10px 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n#content .dev-links:hover,\r\n#banner-secondary .download-box:hover,\r\n#content .demo-list ul:hover,\r\n#content .signatures:hover,\r\n#sidebar .widget:hover,\r\n.algolia-autocomplete .ds-dropdown-menu [class^=ds-dataset-]:hover,\r\n.download-box:hover,\r\n.four.columns.resources:hover,\r\n.listing .hentry:hover,\r\n.singleTopicCont:hover,\r\n.singleTopicContSel:hover,\r\n.spsingleReplyContainer:hover,\r\n.widgetBox:hover {\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0, 10px 10px 5px rgba(10, 10, 10, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n/*___ Noise ________________________________________________________________________*/\r\n\r\nhr {\r\n\tbackground-image: linear-gradient(to bottom, rgba(0, 0, 0, .1), rgba(0, 0, 0, 0)), url(https://image.ibb.co/e39YEk/noise2.jpg)!important;\r\n\tbackground-repeat: repeat-x, repeat!important;\r\n\tbackground-size: 100px 15px, 140px 140px!important;\r\n}\r\n\r\nselector:hover {\r\n\tbackground-image: linear-gradient(to bottom, rgba(255, 255, 255, .1), rgba(0, 0, 0, 0)), url(https://image.ibb.co/e39YEk/noise2.jpg)!important;\r\n}\r\n\r\n/*___ Red Gradient _________________________________________________________________*/\r\n\r\n.warning {\r\n\tbackground: linear-gradient(to bottom, #300202 0%, #590505 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n\tborder-radius: 22px!important;\r\n}\r\n\r\n/*__ Blue Gradient _________________________________________________________________*/\r\n\r\n.note,\r\n.github-activity .info-block .caption,\r\n.signatures li h4 {\r\n\tbackground: linear-gradient(to bottom, #03193c, #000 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n}\r\n\r\n/*__ Yellow Gradient _______________________________________________________________*/\r\n\r\n#changelog .changes,\r\n#prefs,\r\n#ticket {\r\n\tbackground: linear-gradient(to bottom, #9d9d5d 0%, #000 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n\tborder-radius: 22px!important;\r\n\ttext-shadow: 1px 1px #555!important;\r\n}\r\n\r\n/*___ Highlight Background _________________________________________________________*/\r\n\r\n#sidebar li.active,\r\n.pst_row:hover {\r\n\tbackground: linear-gradient(to right, #383838, #0000)!important;\r\n\tborder-left-color: #434343!important;\r\n}"
+			},
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jquery.com",
+					"jqueryui.com",
+					"jquerymobile.com",
+					"sizzlejs.com",
+					"qunitjs.com"
+				],
+				"regexps": [],
+				"code": "/*__________________________________________________________________________________*/\r\n\r\n#content .signatures li,\r\n.algolia-autocomplete .ds-dropdown-menu .ds-suggestion,\r\n.feature-box,\r\n.listing .hentry,\r\n.singleTopicCont,\r\n.spsingleReplyContainer,\r\nfooter .books li\r\n{\r\n\tfilter: brightness(75%)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#content .signatures li:hover,\r\n.algolia-autocomplete .ds-dropdown-menu .ds-suggestion:hover,\r\n.feature-box:hover,\r\n.listing .hentry:hover,\r\n.singleTopicCont:hover,\r\n.singleTopicContSel,\r\n.spsingleReplyContainer:hover,\r\nfooter .books li:hover\r\n{\r\n\tfilter: brightness(100%)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.download a,\r\nimg {\r\n\tborder-radius: 22px!important;\r\n}\r\n\r\n#banner-secondary,\r\n#content .section-title,\r\n.signatures li h4:first-child {\r\n\tborder-top-left-radius: 22px!important;\r\n\tborder-top-right-radius: 22px!important;\t\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\nimg {\r\n\t-webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#content li,\r\n#content .demo-list .active,\r\n.features li,\r\np,\r\ntr {\r\n\tfilter: brightness(68%)!important;\r\n\ttransition: color .125s ease-in, color .5s ease-out, filter .5s ease-in, filter .8s ease-out, box-shadow .125s ease-in, box-shadow .5s ease-out!important;\r\n}\r\n\r\n#content li:hover,\r\n.features li:hover,\r\np:hover,\r\nselector:hover p,\r\ntr:hover {\r\n\tfilter: brightness(100%)!important;\r\n\ttransition: color .125s ease-in, color .5s ease-out, filter .5s ease-in, filter .8s ease-out, box-shadow .125s ease-in, box-shadow .5s ease-out!important;\r\n}"
+			},
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jquery.com",
+					"jqueryui.com"
+				],
+				"regexps": [],
+				"code": "[src=\"https://jquery.org/jquery-wp-content/themes/jquery/images/stackpath.png\"] {\r\n\tbackground: url(https://image.ibb.co/f0LtQA/stackpath.png)!important;\r\n\twidth: 200px!important;\r\n\theight: 40px!important;\r\n\tpadding-left: 200px!important;\r\n}\r\n\r\n.icon-eye-open:before,\r\n.icon-bolt:before,\r\n.icon-calendar:before,\r\n.icon-certificate:before,\r\n.icon-comments:before,\r\n.icon-dashboard:before,\r\n.icon-github:before,\r\n.icon-group:before,\r\n.icon-magnet:before,\r\n.icon-pencil:before,\r\n.icon-picture:before,\r\n.icon-refresh:before,\r\n.icon-search:before,\r\n.icon-sitemap:before,\r\n.icon-star-empty:before,\r\n.icon-tasks:before,\r\n.icon-th-large:before,\r\n.icon-wrench:before {\r\n\tcontent: \"\";\r\n}\r\n\r\n.nav li [class*=\" icon-\"],\r\n.nav li [class^=\"icon-\"],\r\nli [class*=\" icon-\"],\r\nli [class^=\"icon-\"]\r\n{\r\n    width: 3.25em;\r\n}\r\n\r\n/* About jQuery _____________*/\r\n\r\n.icon-certificate:before {\r\n\tbackground: url(https://i.ibb.co/0Cb1xy7/certificate.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-certificate:before {\r\n\tbackground-size: 25px!important;\r\n\theight: 32px!important;\r\n\tpadding-left: 30px!important;\r\n}\r\n\r\n/* Ajax _____________*/\r\n\r\n.icon-refresh:before {\r\n\tbackground: url(https://i.ibb.co/FHVJRKb/refresh.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-refresh:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* API (Wrench) _____________*/\r\n\r\n.icon-wrench:before {\r\n\tbackground: url(https://image.ibb.co/gam3yG/Wrench-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-wrench:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Calendar ___________________*/\r\n\r\n.icon-calendar:before {\r\n\tbackground: url(https://i.ibb.co/bQSKtFM/Calendar-Icon.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-calendar:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Code Organization _____________*/\r\n\r\n.icon-sitemap:before {\r\n\tbackground: url(https://i.ibb.co/n70NPJv/site-map.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-sitemap:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Effects _____________*/\r\n\r\n.icon-picture:before {\r\n\tbackground: url(https://i.ibb.co/VDYJmzf/gallery-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-picture:before {\r\n    background-size: 35px!important;\r\n    height: 27px!important;\r\n    padding-left: 36px!important;\r\n}\r\n\r\n/* Events _____________*/\r\n\r\n.icon-tasks:before {\r\n\tbackground: url(https://i.ibb.co/ZBMXYtc/j-Query-events.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-tasks:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Forum (People) _____________*/\r\n\r\n.icon-group:before {\r\n\tbackground: url(https://i.ibb.co/gSYsJnG/people-three.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-group:before {\r\n\tbackground-size: 33px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* GitHub (Logo) _____________*/\r\n\r\n.icon-github:before {\r\n\tbackground: url(https://i.ibb.co/pK89B3j/github-30x30.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-github:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* IRC (Double Comment) _____________*/\r\n\r\n.icon-comments:before {\r\n\tbackground: url(https://i.ibb.co/VHfjyf4/Inbox.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-comments:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* jQuery Mobile ____*/\r\n\r\n.icon-th-large:before {\r\n\tbackground: url(https://i.ibb.co/frx5kZV/jquery-mobile.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-th-large:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* jQuery UI _____________*/\r\n\r\n.icon-magnet:before {\r\n\tbackground: url(https://i.ibb.co/p3wyT8z/jquery-ui.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-magnet:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Learning Center (Pencil) _____________*/\r\n\r\n.icon-pencil:before {\r\n\tbackground: url(https://i.ibb.co/hD543B5/pencil-icon-28x28.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-pencil:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Performance _____________*/\r\n\r\n.icon-dashboard:before {\r\n\tbackground: url(https://i.ibb.co/WscD6Nv/status-change.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-dashboard:before {\r\n    background-size: 46px!important;\r\n    height: 27px!important;\r\n    padding-left: 48px!important;\r\n}\r\n\r\n/* Plugins _____________*/\r\n\r\n.icon-bolt:before {\r\n\tbackground: url(https://i.ibb.co/RBX7GgH/Harry-Potter-Lightning-svg.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-bolt:before {\r\n    background-size: 29px!important;\r\n    height: 40px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Search _______________________________________________________________*/\r\n\r\n.icon-search:before {\r\n\tbackground: url(https://image.ibb.co/hVxuzR/search.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-search:before {\r\n\tbackground-size: 15px!important;\r\n\theight: 26px!important;\r\n\tpadding-left: 22px!important;\r\n\twidth: 10px!important;\r\n}\r\n\r\n/* Social Media _________________________________________________________*/\r\n\r\n.icon-twitter:before {\r\n\tcontent: \"\";\r\n}\r\n\r\n/* Blog _____________*/\r\n\r\n[href=\"http://blog.homedepot.com/\"] svg {\r\n\tbackground: url(https://i.ibb.co/tMx5FKt/blog-logo.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://blog.homedepot.com/\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Facebook _____________*/\r\n\r\n[href=\"https://www.facebook.com/homedepot\"] svg {\r\n\tbackground: url(https://i.ibb.co/bvgwKNN/facebook-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"https://www.facebook.com/homedepot\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Hackernews _____________*/\r\n\r\n.et_social_hackernews i:before {\r\n\tbackground: url(https://i.ibb.co/M83c23Q/Hacker-News.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_hackernews i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Linkedin _____________*/\r\n\r\n.et_social_linkedin i:before {\r\n\tbackground: url(https://i.ibb.co/sVqbgYC/linkedin-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_linkedin i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Pinterest _____________*/\r\n\r\n[href=\"http://pinterest.com/homedepot/\"] svg {\r\n\tbackground: url(https://i.ibb.co/bbYn4KN/pinterest-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://pinterest.com/homedepot/\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Reddit _____________*/\r\n\r\n.et_social_reddit i:before {\r\n\tbackground: url(https://i.ibb.co/Hz3d91w/reddit.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_reddit i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Twitter _____________*/\r\n\r\n.icon-twitter:before {\r\n\tbackground: url(https://i.ibb.co/SQGCm92/twitter-48x39.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-twitter:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* YouTube _____________*/\r\n\r\n[href=\"http://www.youtube.com/user/homedepot\"] svg {\r\n\tbackground: url(https://i.ibb.co/8cHpnPV/You-Tube-logo-play-icon-30x23.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://www.youtube.com/user/homedepot\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Star _______________________________________________________________*/\r\n\r\n.icon-star-empty:before {\r\n\tbackground: url(https://image.ibb.co/ky9AXw/star-26x25.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-star-empty:before {\r\n    background-size: 24px!important;\r\n    height: 24px!important;\r\n    padding-left: 27px!important;\r\n}\r\n\r\n/* View  _______________________________________________________________*/\r\n\r\n.icon-eye-open:before {\r\n\tbackground: url(https://i.ibb.co/VSLvZzD/eye-clip-art-symbol-eye-makeup-brown.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-eye-open:before {\r\n    background-size: 24px!important;\r\n    height: 15px!important;\r\n    padding-left: 27px!important;\r\n}"
 			}
 		],
-		"name": "MSDN Dark / Solarized Dark",
-		"originalDigest": "e73bc4e8356d1f3721b67669599e0a3c29ae5e4b",
-		"_id": "ac96adeb-bb68-4111-bf34-c03895d68f7b",
-		"_rev": 1588267107821,
+		"name": "jquery Dark By BamaBraves",
+		"originalDigest": "0a8740a0b221c23883597e5c6db7b944ed845c2f",
+		"_id": "0d5444e5-5ee3-4a4a-9225-9f0e3d30110b",
+		"_rev": 1597727602012,
+		"id": 61
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/90940.json",
+		"md5Url": "https://update.userstyles.org/90940.md5",
+		"url": "http://userstyles.org/styles/90940",
+		"originalMd5": "5bf5cfa2bbbe9f9c5b5cfc9996cf638a",
+		"installDate": 1589531202481,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"api.jquery.com"
+				],
+				"regexps": [],
+				"code": "@namespace url(http://www.w3.org/1999/xhtml);\nbody p {\r\n        font-size: 13px;\r\n    }\r\n\r\n    h1, h2, h3, h4, h5, h6 {\r\n        font-family: 'helvetica', 'arial', sans-serif !important;\r\n    }\r\n    \r\n    .jquery h2.logo a, .jquery-learn h2.logo a {\r\n        background-size: 100% auto !important;\r\n        width: 200px !important;\r\n    }\r\n    \r\n    #container {\r\n        background-color: #222 !important;\r\n    }\r\n    \r\n    #global-nav nav {\r\n        height: 37px !important;\r\n    }\r\n    \r\n    nav#main{\r\n        box-shadow: 0 0 0 transparent !important;\r\n    }\r\n    \r\n    nav#main li {\r\n        font-family: 'helvetica', 'arial', sans-serif !important;\r\n        \r\n    }\r\n    \r\n    nav#main li a:hover, nav#main li.current a, nav#main .searchform {\r\n        background: rgba(255, 255, 255, .1);\r\n    }\r\n    \r\n    nav#main .searchform input:-moz-placeholder {\r\n        color: rgba(255, 255, 255, 0.3) !important;\r\n    }\r\n    \r\n    .constrain, #content-wrapper {\r\n        max-width: 1000px !important;\r\n    }\r\n    \r\n    #content-wrapper {\r\n        padding: 20px 40px 0 !important;\r\n        overflow: hidden !important;\r\n        background: #ccc !important;\r\n    }\r\n    \r\n    .entry-wrapper {\r\n        border: 1px solid #999 !important;\r\n    }\r\n    \r\n    .demo, .code-demo {\r\n        background: #eee !important;\r\n        padding: 10px !important;\r\n        border: 1px solid #999 !important;\r\n        margin-bottom: 20px !important;\r\n    }\r\n    \r\n    .demo iframe {\r\n        border: 0 !important;\r\n    }\r\n    \r\n    #sidebar {\r\n        background: #ddd !important;\r\n        border: 0 !important;\r\n    }\r\n    \r\n    .syntaxhighlighter {\r\n        font-size: 12px !important;\r\n        margin: 1.6em 0 !important;\r\n        background: #003947 !important;\r\n    }\r\n    \r\n    #content-wrapper {\r\n        max-width: 1000px;\r\n    }\r\n    \r\n    pre code {\r\n        color: #cecece !important;\r\n    }\r\n    \r\n    .string {\r\n        color: #00b1ac !important;\r\n    }\r\n    \r\n    .keyword {\r\n        color: #e0540d !important;\r\n    }\r\n    \r\n    .gutter .line {\r\n        color: #065c6d !important;\r\n        padding-bottom: 1px !important;\r\n    }\r\n    \r\n    .regexp {\r\n        color: #eb0012 !important;\r\n    }\r\n    \r\n    .tag, .title {\r\n        color: #009cde !important;\r\n    }\r\n    \r\n    .attribute {\r\n        color: #cecece !important;\r\n    }\r\n    \r\n    .value {\r\n        color: #00b4ac !important;\r\n    }\r\n    \r\n    .number {\r\n        color: #e7288f !important;\r\n    }\r\n    \r\n    .doctype {\r\n        font-weight: normal !important;\r\n    }\r\n    \r\n    .cat-item {\r\n        background-color: #cecece !important; \r\n        background-image: none !important;\r\n    }\r\n    \r\n    #categories > ul > .cat-item {\r\n        border-bottom: 1px solid #c7c7c7;\r\n        border-left: 2px solid #999 !important;\r\n        border-right: 1px solid #ccc !important;\r\n    }\r\n\r\n    #categories > ul > .cat-item a {\r\n        padding-top: 5px;\r\n        padding-bottom: 5px;\r\n    }\r\n    \r\n    .cat-item > ul {\r\n        border-top: 1px solid #c7c7c7;\r\n        border-bottom: 1px solid #c7c7c7;\r\n    }\r\n        \r\n    .children .cat-item {\r\n        background-color: #ddd !important;\r\n        border-bottom: 1px solid #cecece;\r\n        padding: 0px !important;\r\n        border-left: 2px solid #999 !important;\r\n    }\r\n    \r\n    #sidebar li a {\r\n        line-height: 120%;\r\n    }\r\n    \r\n    #sidebar li .children a {\r\n        padding-left: 20px !important;\r\n    }\r\n    \r\n    #sidebar li .children a:hover {\r\n        background-color: #CEDCEA;    \r\n    }\r\n    \r\n    .listing .hentry {\r\n        margin: 0 !important;\r\n        padding: 20px !important;\r\n        background-color: rgba(255, 255, 255, .3) !important;\r\n        border-radius: 0 !important;\r\n        border: 0 !important;\r\n        border-bottom: 1px solid #cecece !important;\r\n    }\r\n    \r\n    hr {\r\n        height: 0 !important;\r\n        border: 0 !important;\r\n        border-bottom: 1px solid #eee !important;\r\n        display: none;\r\n    }\r\n    \r\n    #content .section-title {\r\n        border-radius: 0 !important;\r\n    }\r\n    \r\n    .signatures li h4 {\r\n        background: #555 !important;\r\n        font-weight: normal !important;\r\n        padding-top: 10px !important;\r\n    }\r\n    \r\n    #content blockquote p {\r\n        font: normal 14px/24px 'helvetica', 'arial', sans-serif !important;\r\n    }\r\n    \r\n    .longdesc {\r\n        margin-bottom: 40px !important;\r\n    }\r\n    \r\n    .longdesc ul li, .toc ul li {\r\n        background: none !important;\r\n        list-style-type: disc !important;\r\n    }\r\n    \r\n    .desc {\r\n        font-weight: normal;\r\n        font-style: normal !important;\r\n    }\r\n    \r\n    strong {\r\n        display: block;\r\n        padding-bottom: 10px;\r\n    }\r\n    \r\n    pre .container .line {\r\n        padding-bottom: 1px !important;\r\n    }\r\n    \r\n    #container, footer {\r\n        border: 0 !important;\r\n    }"
+			}
+		],
+		"name": "Jquery Dark/Clean",
+		"originalDigest": "940f637757a53412e4913251f65e25a8338cab29",
+		"_id": "166b4cc8-1945-4c0d-91b4-8648abc10198",
+		"_rev": 1589531202481,
 		"id": 62
 	},
 	{
@@ -2390,7 +2456,7 @@
 		"name": "Die.net Dark",
 		"originalDigest": "895fe583fc72e756244584877d2fe66b0113b705",
 		"_id": "2a784961-4e42-4d26-b866-09705fe6f165",
-		"_rev": 1588478646137,
+		"_rev": 1597727602012,
 		"id": 63
 	},
 	{
@@ -2439,7 +2505,7 @@
 		"name": "Man Pages - die.net Dark Blue",
 		"originalDigest": "9f6ef081e88a8399104c770e6f081db7cf75f891",
 		"_id": "d746031a-954b-45f1-b2b9-6de23989c485",
-		"_rev": 1588478647491,
+		"_rev": 1597727602012,
 		"id": 64
 	},
 	{
@@ -2503,7 +2569,7 @@
 		"name": "The Dark and Flat - eBay",
 		"originalDigest": "55bc7d708f8fed80f3cb54d4d4d246f6199f0c55",
 		"_id": "abeb2478-d6bb-4f53-84e4-f6a5ca541540",
-		"_rev": 1593554313035,
+		"_rev": 1597727602012,
 		"id": 65
 	},
 	{
@@ -2527,7 +2593,7 @@
 		"name": "GNU dot org - darker and bluer",
 		"originalDigest": "0f08e426aa3f8104d5127393c5fa1a930820cf03",
 		"_id": "9f7b299b-28d9-419d-9ba9-fb6c363299c4",
-		"_rev": 1590058874356,
+		"_rev": 1597727602012,
 		"id": 66
 	},
 	{
@@ -2551,7 +2617,7 @@
 		"name": "Gnu.vbox",
 		"originalDigest": "3274c859db7a20780b9df41a26122a6b48afadbf",
 		"_id": "385c524d-ecfb-47d4-9674-5441953afb66",
-		"_rev": 1590058876528,
+		"_rev": 1597727602012,
 		"id": 67
 	},
 	{
@@ -2575,7 +2641,7 @@
 		"name": "UESP Slate",
 		"originalDigest": "9ff96a23c529df64299ff416f7a99027031d6f3d",
 		"_id": "4eacba86-521a-41ef-a239-758bb496aeb4",
-		"_rev": 1590774180690,
+		"_rev": 1597727602012,
 		"id": 68
 	},
 	{
@@ -2599,7 +2665,7 @@
 		"name": "UESP Dark-Gold by dahomej superior",
 		"originalDigest": "cfb18b35a21bd5116f05119da4793e59019b7c2e",
 		"_id": "71634bd5-c821-4d32-b151-afda3c262bb2",
-		"_rev": 1590774171523,
+		"_rev": 1597727602012,
 		"id": 69
 	},
 	{
@@ -2753,7 +2819,7 @@
 		"name": "Upwork :: Dark Nightlancer :: Dark Theme [BETA]",
 		"originalDigest": "cf62327aa8fc867da5f53eb440b7be352065409e",
 		"_id": "ff421f22-ecc4-4d63-bc15-462b7926315a",
-		"_rev": 1591689900768,
+		"_rev": 1597727602012,
 		"id": 71
 	},
 	{
@@ -2777,7 +2843,7 @@
 		"name": "Upwork Dark Blue",
 		"originalDigest": "dfcfe06a5e43bbb160a46fc5e7c3ceaf2580531e",
 		"_id": "eeec1681-89dc-46c5-806b-aa821ac45679",
-		"_rev": 1591689915475,
+		"_rev": 1597727602012,
 		"id": 72
 	},
 	{
@@ -2801,7 +2867,7 @@
 		"name": "MariaDb KB Dark",
 		"originalDigest": "182b4be7759b2950ede209ed81c7a4d6d4c36a8e",
 		"_id": "26cb2862-0e60-4cf7-a132-ecb6efb54c1a",
-		"_rev": 1591900079051,
+		"_rev": 1597727602012,
 		"id": 73
 	},
 	{
@@ -2831,7 +2897,7 @@
 		"name": "Amazon - Minimal Dark",
 		"originalDigest": "1286dedac0b34f394fbb027a6d390400e45c1680",
 		"_id": "ed6eca25-7a2e-4949-a741-986e0e03dd0d",
-		"_rev": 1592751384442,
+		"_rev": 1597727602012,
 		"id": 74
 	},
 	{
@@ -2855,7 +2921,7 @@
 		"name": "SQLShack",
 		"originalDigest": "f036751a4fcc7c52d5502fcab5e9e3ca9bf8494c",
 		"_id": "fcbf05d0-bab6-4404-a9a4-dd9f0baff234",
-		"_rev": 1592928039988,
+		"_rev": 1597727602012,
 		"id": 75
 	},
 	{
@@ -2879,7 +2945,7 @@
 		"name": "PitchBlack - Inverted colors",
 		"originalDigest": "efd7003d02b028287a0c2f29a9b4c4abbe1f7257",
 		"_id": "7ae1361b-d495-426e-ab72-5cee60ebacf9",
-		"_rev": 1594168232241,
+		"_rev": 1597727602012,
 		"id": 76,
 		"updateDate": 1594168232241,
 		"originalName": "PitchBlack - Inverted colors"
@@ -2905,7 +2971,7 @@
 		"name": "CoinBase Dark (CSharpner)",
 		"originalDigest": "89c6a30c20f80703df9f849e92e94f8e9a67a2c9",
 		"_id": "783fb103-3d30-4441-a948-04b11425e155",
-		"_rev": 1593669733869,
+		"_rev": 1597727602012,
 		"id": 77
 	},
 	{
@@ -2929,7 +2995,7 @@
 		"name": "Visual Studio Team Foundation Server TFS 2015 Dark",
 		"originalDigest": "ef4081a819c85052653e4a46ace57e2c50cc4be5",
 		"_id": "ac4ff7fd-3eb4-4d04-8aaa-6c2b5149e326",
-		"_rev": 1594322907926,
+		"_rev": 1597727602012,
 		"id": 78
 	},
 	{
@@ -2953,7 +3019,7 @@
 		"name": "RPerkins TFS Dark Theme",
 		"originalDigest": "532ad3dcdcd9c06119964dfa118bbb10b6e72155",
 		"_id": "adff1067-7c8c-4935-8d36-7a90ebc0e664",
-		"_rev": 1594322908105,
+		"_rev": 1597727602012,
 		"id": 79
 	},
 	{
@@ -2974,33 +3040,37 @@
 		"name": "TFS Dark Theme",
 		"originalDigest": "c8b6e434710c8971a1d10dfae282c3d1ea0502ff",
 		"_id": "d84b08c9-7162-40ed-9b87-c12e50ae2229",
-		"_rev": 1595868061856,
+		"_rev": 1597727602012,
 		"id": 80,
 		"updateDate": 1595868061856
 	},
 	{
 		"enabled": true,
-		"updateUrl": "https://userstyles.org/styles/chrome/185929.json",
-		"md5Url": "https://update.userstyles.org/185929.md5",
-		"url": "http://userstyles.org/styles/185929",
-		"originalMd5": "14a144b51091ffd81fad43d28864162f",
-		"installDate": 1594653713056,
+		"updateUrl": "https://userstyles.org/styles/chrome/160377.json",
+		"md5Url": "https://update.userstyles.org/160377.md5",
+		"url": "http://userstyles.org/styles/160377",
+		"originalMd5": "622ca8ae3b23875233addad0c875724e",
+		"installDate": 1597727320760,
 		"sections": [
 			{
-				"urls": [],
-				"urlPrefixes": [],
+				"code": "body {\n    color: #293134;\n}\n\n/*Start of Scrollbar elements*/\n::-webkit-scrollbar-thumb {\n    border: solid 6px #414242!important;\n    background-color: #b53e3e;\n}\n\n::-webkit-scrollbar-track {\n    background-color: #414242!important;\n}\n\n::-webkit-scrollbar-button {\n    background-color: #515a5e!important;\n}\n\n._mcp_c2 {\n    background-color: #293134;\n}\n\n.ms-border-color-neutralLight {\n    background-color: #293134;\n}\n\n/*End of Scrollbar elements*/\n.ms-border-color-themeLighter {\n    background-color: #293134;\n}\n\n/*Menu Popup*/\n.o365cs-base.o365cst,\n.ms-bgc-w,\n.o365cs-base.o365cst,\n.ms-bgc-w-h:hover,\n.o365cs-base.o365cst.ms-bgc- {\n    background-color: #293134!important;\n}\n\n/*Reminder PopUP*/\n.o365cs-notifications-notificationHeader,\n.ms-bcl-nl {\n    background-color: #293134;\n}\n\n/*Text Format Box*/\n.ms-border-color-neutralTertiaryAlt,\n.ms-bcl-nta,\n.ms-border-color-neutralTertiaryAlt-hover:hover,\n.ms-border-color-neutralTertiaryAlt-focus:focus,\n.ms-border-color-neutralTertiaryAlt-before:before,\n.ms-bcl-nta-h:hover,\n.ms-bcl-nta-f:focus,\n.ms-bcl-nta-b:before,\n._mcp_p2,\n._mcp_q2 {\n    background-color: #293134!important;\n}\n\n\n\nelement.style {\n    background-color: rgba(55, 66, 75, 0.53);\n    color: #293134;\n}\n\n/*Search Results filters*/\n._fce_u1 {\n    background-color: #293134!important;\n}\n\n/*Highlight Colour, reminder*/\nspan {\n    color: #C0C0C0!important;\n}\n.ms-bg-color-themeLight,\n.ms-bgc-tl,\n.ms-bg-color-themeLight-hover:hover,\n.ms-bg-color-themeLight-before:before,\n.ms-bgc-tl-h:hover,\n.ms-bgc-tl-b:before {\n    background-color: #483c6c!important;\n    transition: background-color .2s;\n}\n\n._is_4 {\n    background-color: #293134!important;\n}\n\n/*Background for standard emails*/\n.listItemDefaultBackground {\n    background: #293134!important;\n    color: #D3D3D3!important;\n}\n\n/* Subject */\nstrong {\n    color: #fff;\n}\n\n.conductorContent {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n/*Highlight Filter-button*/\n.ms-bg-color-white,\n.ms-bgc-w,\n.ms-bg-color-white-hover:hover,\n.ms-bg-color-white-before:before,\nms-bgc-w-h:hover,\n.ms-bgc-w-b:before {\n    background: #293134!important;\n    color: #fff!important;\n    transition: background-color .2s;\n}\n\n.owa-color-neutral-orange {\n    color: #D82300!important;\n}\n.owa-color-neutral-red {\n    color: #A80F22!important;\n}\n\n.ms-border-color-neutralSecondary,\n.ms-bcl-ns,\n.ms-border-color-neutralSecondary-hover:hover,\n.ms-border-color-neutralSecondary-before:before,\n.ms-bcl-ns-h:hover,\n.ms-bcl-ns-b:before {\n    background: #293134!important;\n    color: #D3D3D3!important;\n    transition: background-color .2s;\n}\n\n._n_W2 {\n    background-color: rgba(41, 56, 63, 0.53)!important;\n}\n\n._rp_D5 {\n    background-color: rgba(47, 49, 56, 0.69)!important;\n}\n\n\n._n_V4 {\n    background-color: #293134!important;\n}\n\n\n.ms-bg-color-themeLighter,\n.ms-bgc-tlr,\n.ms-bg-color-themeLighter-hover:hover,\n.ms-bg-color-themeLighter-before:before,\n.ms-bgc-tlr-h:hover,\n.ms-bgc-tlr-b:before {\n    background-color: #495251!important;\n    transition: background-color .2s;\n}\n.ms-bg-color-neutralLighter,\n.ms-bgc-nlr,\n.ms-bg-color-neutralLighter-hover:hover,\n.ms-bg-color-neutralLighter-before:before,\n.ms-bgc-nlr-h:hover,\n.ms-bgc-nlr-b:before {\n    background-color: #293134!important;\n    transition: background-color .2s;\n}\n.ms-font-color-neutralPrimary,\n.ms-fcl-np,\n.ms-font-color-neutralPrimary-hover:hover,\n.ms-font-color-neutralPrimary-before:before,\n.ms-fcl-np-h:hover,\n.ms-fcl-np-b:before {\n    color: #0cffe1 !important;\n}\n.ms-font-color-themePrimary,\n.ms-fcl-tp,\n.ms-font-color-themePrimary-hover:hover,\n.ms-font-color-themePrimary-before:before,\n.ms-fcl-tp-h:hover,\n.ms-fcl-tp-b:before {\n    color: #0cffe1;\n}\n._llv_7 {\n    width: 14px;\n}\n._n_j8:hover {\n    background-color: transparent!important;\n    transition: background-color .2s;\n}\n._ad_2 {\n    background: -webkit-gradient(linear, 0% 0, 0% 100%, from(#465B7A), to(#2D3A49))!important;\n}\n._n_T1:hover {\n    background-color: #496170!important;\n    transition: background-color .2s;\n}\n._rpc_2 {\n    background: -webkit-gradient(linear, 0% 0, 0% 100%, from(#30393D), to(#425161))!important;\n}\n.ms-contactCard,\n.ms-mysite-profileHeader-content {\n    background: -webkit-gradient(linear, 0% 0, 0% 100%, from(#30393D), to(#425161))!important;\n}\n.popupPanel {\n    background-color: rgba(27, 32, 39, 0.82)!important;\n    transition: background-color .4s;\n}\n.modalPanelBackground {\n    background-color: #4D4E50!important;\n    transition: background-color .4s;\n}\n.textbox {\n    background-color: #293134!important;\n}\n.ms-core-overlay {\n    background-color: rgba(219, 218, 208, 0.85)!important;\n    transition: background-color .4s;\n}\n.o365cs-base.o365cst .ms-bgc-w,\n.o365cs-base.o365cst .ms-bgc-w-h:hover,\n.o365cs-base.o365cst.ms-bgc-w {\n    background-color: rgba(60, 62, 70, 0.65)!important;\n    transition: background-color .2s;\n}\n.ms-bg-color-neutralLight,\n.ms-bgc-nl,\n.ms-bg-color-neutralLight-hover:hover,\n.ms-bg-color-neutralLight-before:before,\n.ms-bgc-nl-h:hover,\n.ms-bgc-nl-b:before {\n    background-color: #293134!important;\n}\n.textboxEnabled:hover {\n    background-color: #3B4752!important;\n    transition: background-color .2s;\n}\n._fp_f:hover {\n    background-color: #3B5163!important;\n    transition: background-color .2s;\n}\n.o365cs-nav-contextMenu {\n    background-color: rgba(44, 48, 53, 0.78)!important;\n    transition: background-color .4s;\n}\n\n._mgdn_y,\n._n_S6 {\n    background-color: transparent !important;\n}\n\n._pi_A {\n    background-color: #293134!important;\n}\n\n._zy_x {\n    background: #293134!important;\n    color: #D3D3D3!important;\n}\n\n._n_y2 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._lv_J {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._lv_h3 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n\n._lv_v ._lv_J {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._lv_63 ._lv_h3 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._lv_v ._lv_K {\n    font: 'Segoe UI WPC', 'Segoe UI', Tahoma, 'Microsoft Sans Serif', Verdana, sans-serif!important;\n    background: #463C3C!important;\n    color: #D7FBAE!important;\n}\n._lv_63 ._lv_i3 {\n    font: 'Segoe UI WPC', 'Segoe UI', Tahoma, 'Microsoft Sans Serif', Verdana, sans-serif!important;\n    background: #425966!important;\n    color: #C9D6E0!important;\n}\n\n/*Calendar Bar - Other Days */\n.ms-bg-color-neutralLighterAlt {\n    background-color: #483c6c!important;\n}\n\n._lv_t {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._lv_43 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._lv_y {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._lv_83 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._lv_E {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._lv_c3 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n\n.pivotNavClassical {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._n_w2 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._n_37 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._n_67 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._n_d2 ._n_92 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n\n._rp_Z3 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n\n.folderPaneGradient {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._n_16 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n\n._n_e2 {\n    background: #293134!important;\n    color: #C0C0C0!important;\n}\n._n_07 {\n    background-color: transparent!important;\n}\n\n.lvHighlightSubjectClass {\n    color: #fff !important;\n}\n\n\n.rpHighlightAllClass,\n.lvHighlightFromClass {\n    color: #ff217c !important;\n}\n\n/* defaults for all links */\na:link,\n.link,\na font[color],\n.mn-hd-txt,\na.fl:link,\n.fl a,\n.flt,\na.flt,\n.gl a:link,\na.mblink,\n.mblink b,\n._Hg ._qA,\n._Hg ._Pn,\n._Hg ._Uq,\n#gt-feedback,\n#gb a {\n    color: #0cffe1 !important;\n    transition: color .4s, text-shadow .4s !important;\n}\n\na:visited {\n    color: #F92672 !important;\n}\n\n/* hovers */\n.menuitem:hover,\na:hover,\na span:hover,\n.actbar-btn:hover,\n#gt-feedback:hover,\n#gb a:hover {\n    color: #E5E5E5 !important;\n    text-shadow: #ffffff 0px 0px 2px !important;\n    transition: color .4s, text-shadow .4s !important;\n}\n\n/* big link visited */\n#res .g a:visited {\n    opacity: 0.5 !important;\n}\n\n/* URL text */\n.a,\ncite,\n.cite,\n.cite:link,\ncite b,\n#resultStats {\n    color: #ff217c !important;\n}\n\n/* dashes between Cached and Similar links */\n.gl {\n    color: #999 !important;\n}\n\n/* disable dashed outline on focused elements */\n:focus {\n    outline: none;\n}\n\n/* image thumbnails */\n#res .g img,\n#ImgContent td img {\n    border: none !important;\n    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8) !important;\n}\n\n/* Main text color */\ndiv,\ntd,\nfont[color=\"#000000\"],\n.qbtbha .qbtbtxt.qbclr,\n.gt-rw-span,\n.gt-syn-span,\n.gt-card-ttl-txt,\n#contribute-target,\n#source {\n    color: #999999;\n}\n\n/* fix for google suggest */\n.aAutoComplete .cAutoComplete,\n.google-ac-a .google-ac-c,\n.gac_a > .gac_c {\n    color: #CCCCCC !important;\n}\n.aAutoComplete .dAutoComplete,\n.google-ac-a .google-ac-d,\n.gac_a > .gac_d {\n    color: white !important;\n}\n.google-ac-e td,\n.gac_e {\n    color: #380000 !important;\n}\n\n/* make sure web forms (and google suggest) don't get their colors changed */\ninput *,\ntextarea *,\n.aAutoComplete {\n    background: -moz-Field !important;\n    color: #999999 !important;\n}\n\n/*Fix Perso --------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n/*Top Bar  Next to Search*/\n.ms-bg-color-themeLighterAlt {\n    background-color: #495251;\n}\n\n/*Highlighted Email and other stuff*/\n.ms-bg-color-themeLighterAlt-hover:hover,\n.ms-bg-color-themeLighterAlt-focus:focus,\n.ms-bg-color-themeLighterAlt-before::before,\n.ms-bgc-tlra-h:hover,\n.ms-bgc-tlra-f:focus,\n.ms-bgc-tlra-b::before {\n    background-color: #483c6c;\n}\n\n/*Pinned Emails*/\n.ms-bgc-tlra {\n    background-color: #004249;\n}\n\n\n._n_m1 {\n    background-color: #495251;\n}\n\n.listItemDefaultBackground {\n    background-color: #495251;\n}\n\n.ms-icon-font-size-16-circle {\n    background-color: #495251;\n}\n\n._mgdn_v {\n    background-color: inherit;\n}\n\n/*Anti-flash on outlook load*/\n#owaLoading {\n    background-color: #1C2126;\n}\n\n/*Weird boxes on left of inbox and probably other things*/\n.ms-bg-color-white,\n.ms-bgc-w,\n.ms-bg-color-white-hover:hover,\n.ms-bg-color-white-focus:focus,\n.ms-bg-color-white-before::before,\n.ms-bgc-w-h:hover,\n.ms-bgc-w-b::before {\n    background-color: #293134;\n}\n\n.contextMenuPopup {\n    background-color: #293134;\n}\n\n/*Outlook Calendar*/",
 				"domains": [
-					"www.twitlonger.com"
-				],
-				"regexps": [],
-				"code": "body {\r\n    background: #121212;\r\n    color: #CCC;\r\n}\r\n.navbar {\r\n    background: #00000095;\r\n    box-shadow: none;\r\n    border-bottom: 2px solid #00000050;\r\n}\r\n.navbar-brand {\r\n    text-shadow: none;\r\n}\r\n.media-body {\r\n    color: #FFF;\r\n}\r\n#timeclient {\r\n    color: #CCC;\r\n}\r\n#postinfo, #postcontent, #footer {\r\n    box-shadow: none;\r\n    background: #222;\r\n    color: #CCC;\r\n    padding: 0.5em 1em;\r\n    border: 1px solid #333;\r\n}\r\n#postinfo {\r\n    margin-bottom: 5px;\r\n}"
+					"owa.sonoma-county.org"
+				]
+			},
+			{
+				"code": "body {\ncolor: #293134;\n}\n\n/*Start of Scrollbar elements*/\n::-webkit-scrollbar-thumb {\n \tborder: solid 6px #414242!important;\n    background-color: #b53e3e;\n}\n\n::-webkit-scrollbar-track {\n    background-color: #414242!important;\n}\n\n::-webkit-scrollbar-button {\n    background-color: #515a5e!important;\n}\n\n._mcp_c2 {\n  background-color: #293134;\n  }\n\n._fp_n, .ms-border-color-neutralLight {\nbackground-color: #293134;\n}\n\n/*End of Scrollbar elements*/\n\n.ms-border-color-themeLighter {\n  background-color: #293134;\n}\n\n  /*Menu Popup*/\n.o365cs-base.o365cst, .ms-bgc-w, .o365cs-base.o365cst, .ms-bgc-w-h:hover, .o365cs-base.o365cst.ms-bgc- {\nbackground-color: #293134!important;\n}\n  \n/*Reminder PopUP*/\n.o365cs-notifications-notificationHeader, .ms-bcl-nl{\n  background-color: #293134;\n}\n\n/*Text Format Box*/\n.ms-border-color-neutralTertiaryAlt, .ms-bcl-nta, .ms-border-color-neutralTertiaryAlt-hover:hover, .ms-border-color-neutralTertiaryAlt-focus:focus, .ms-border-color-neutralTertiaryAlt-before:before, .ms-bcl-nta-h:hover, .ms-bcl-nta-f:focus, .ms-bcl-nta-b:before, ._mcp_p2, ._mcp_q2 {\n      background-color: #293134!important;\n}\n\n\nelement.style {\n\tbackground-color: rgba(55, 66, 75, 0.53);\n\tcolor: #293134;\n}\n\n/*Main Text header Colour, reminder*/\nspan {\tcolor:#939393!important;}\n.ms-bg-color-themeLight, .ms-bgc-tl, .ms-bg-color-themeLight-hover:hover, .ms-bg-color-themeLight-before:before, .ms-bgc-tl-h:hover, .ms-bgc-tl-b:before {\nbackground-color: #483c6c!important;\ntransition: background-color .2s;\n}\n\n/*Background for standard emails*/\n.listItemDefaultBackground {\n\tbackground: #293134!important;color: #D3D3D3!important;\n}\n\n/* Subject */\nstrong {\n\tcolor:#fff;\n}\n\n.conductorContent{\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n/*Highlight Filter-button*/\n.ms-bg-color-white, .ms-bgc-w, .ms-bg-color-white-hover:hover, .ms-bg-color-white-before:before, ms-bgc-w-h:hover, .ms-bgc-w-b:before {\nbackground: #293134!important;color: #fff!important;\ntransition: background-color .2s;\n}\n\n.owa-color-neutral-orange {\ncolor: #D82300!important;\n}\n.owa-color-neutral-red {\ncolor: #A80F22!important;\n}\n\n.ms-border-color-neutralSecondary, .ms-bcl-ns, .ms-border-color-neutralSecondary-hover:hover, .ms-border-color-neutralSecondary-before:before, .ms-bcl-ns-h:hover, .ms-bcl-ns-b:before {\nbackground: #293134!important;color: #D3D3D3!important;\ntransition: background-color .2s;\n}\n\n._n_W2 {\nbackground-color: rgba(41, 56, 63, 0.53)!important;\n}\n\n._rp_D5 {\nbackground-color: rgba(47, 49, 56, 0.69)!important;\n}\n\n\n._n_V4 {\nbackground-color: #293134!important;\n}\n.ms-bg-color-themeLighter, .ms-bgc-tlr, .ms-bg-color-themeLighter-hover:hover, .ms-bg-color-themeLighter-before:before, .ms-bgc-tlr-h:hover, .ms-bgc-tlr-b:before {\nbackground-color: #495251!important;\ntransition: background-color .2s;\n}\n.ms-bg-color-neutralLighter, .ms-bgc-nlr, .ms-bg-color-neutralLighter-hover:hover, .ms-bg-color-neutralLighter-before:before, .ms-bgc-nlr-h:hover, .ms-bgc-nlr-b:before {\nbackground-color: #293134!important;\ntransition: background-color .2s;\n}\n.ms-font-color-neutralPrimary, .ms-fcl-np, .ms-font-color-neutralPrimary-hover:hover, .ms-font-color-neutralPrimary-before:before, .ms-fcl-np-h:hover, .ms-fcl-np-b:before {\ncolor: #0cffe1 !important;\n}\n.ms-font-color-themePrimary, .ms-fcl-tp, .ms-font-color-themePrimary-hover:hover, .ms-font-color-themePrimary-before:before, .ms-fcl-tp-h:hover, .ms-fcl-tp-b:before {\ncolor: #0cffe1;\n}\n._llv_7 {\nwidth: 14px;\n}\n._n_j8:hover {\nbackground-color: transparent!important;\ntransition: background-color .2s;\n}\n._ad_2 {\nbackground: -webkit-gradient(linear,0% 0,0% 100%,from(#465B7A),to(#2D3A49))!important;\n}\n._n_T1:hover {\nbackground-color: #496170!important;\ntransition: background-color .2s;\n}\n._rpc_2 {\nbackground: -webkit-gradient(linear,0% 0,0% 100%,from(#30393D),to(#425161))!important;\n}\n.ms-contactCard, .ms-mysite-profileHeader-content {\nbackground: -webkit-gradient(linear,0% 0,0% 100%,from(#30393D),to(#425161))!important;\n}\n.popupPanel {\nbackground-color: rgba(27, 32, 39, 0.82)!important;\ntransition: background-color .4s;\n}\n.modalPanelBackground {\nbackground-color: #4D4E50!important;\ntransition: background-color .4s;\n}\n.textbox {\nbackground-color: #293134!important;\n}\n.ms-core-overlay {\nbackground-color: rgba(219, 218, 208, 0.85)!important;\ntransition: background-color .4s;\n}\n.o365cs-base.o365cst .ms-bgc-w, .o365cs-base.o365cst .ms-bgc-w-h:hover, .o365cs-base.o365cst.ms-bgc-w {\nbackground-color: rgba(60, 62, 70, 0.65)!important;\ntransition: background-color .2s;\n}\n.ms-bg-color-neutralLight, .ms-bgc-nl, .ms-bg-color-neutralLight-hover:hover, .ms-bg-color-neutralLight-before:before, .ms-bgc-nl-h:hover, .ms-bgc-nl-b:before {\nbackground-color: #293134!important;\n}\n.textboxEnabled:hover {\nbackground-color: #3B4752!important;\ntransition: background-color .2s;\n}\n._fp_f:hover {\nbackground-color: #3B5163!important;\ntransition: background-color .2s;\n}\n.o365cs-nav-contextMenu {\nbackground-color: rgba(44, 48, 53, 0.78)!important;\ntransition: background-color .4s;\n}\n\n._mgdn_y, ._n_S6 {\nbackground-color: transparent !important;\n}\n\n._pi_A {\nbackground-color: #293134!important;\n}\n\n._zy_x {\nbackground: #293134!important;color: #D3D3D3!important;\n}\n\n._n_y2 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._lv_J {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._lv_h3 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n\n._lv_v ._lv_J {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._lv_63 ._lv_h3 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._lv_v ._lv_K {\nfont: 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif!important;\nbackground: #463C3C!important;\ncolor: #D7FBAE!important;\n}\n._lv_63 ._lv_i3{\nfont: 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif!important;\nbackground: #425966!important;\ncolor: #C9D6E0!important;\n}\n\n/*Calendar Bar - Other Days */\n.ms-bg-color-neutralLighterAlt {\nbackground-color: #483c6c!important;\n}\n\n._lv_t {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._lv_43 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._lv_y {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._lv_83 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._lv_E {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._lv_c3 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n\n.pivotNavClassical {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._n_w2 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._n_37 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._n_67 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._n_d2 ._n_92{\nbackground: #293134!important;color: #C0C0C0!important;\n  }\n\n\n._rp_Z3{\nbackground: #293134!important;color: #C0C0C0!important;\n  }\n\n\n.folderPaneGradient {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._n_16 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n\n._n_e2 {\nbackground: #293134!important;color: #C0C0C0!important;\n}\n._n_07 {\nbackground-color: transparent!important;\n}\n\n.lvHighlightSubjectClass {\n\tcolor: #fff !important;\n}\n\n\n.rpHighlightAllClass, .lvHighlightFromClass {\n\tcolor: #ff217c !important;\n}\n\n/* defaults for all links */\na:link, .link, a font[color], .mn-hd-txt,\n    a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b, ._Hg ._qA, ._Hg ._Pn, ._Hg ._Uq, #gt-feedback, #gb a  {\n        color: #0cffe1 !important;\n        transition: color .4s, text-shadow .4s !important;\n    }\n\na:visited {\n    color: #F92672 !important;\n}\n\n/* hovers */\n.menuitem:hover, a:hover, a span:hover, .actbar-btn:hover, #gt-feedback:hover, #gb a:hover {\ncolor: #E5E5E5 !important; text-shadow: #ffffff 0px 0px 2px !important;\ntransition: color .4s, text-shadow .4s !important;\n}\n\n/* big link visited */\n#res .g a:visited { opacity: 0.5 !important; }\n\n/* URL text */\n.a, cite, .cite, .cite:link, cite b, #resultStats { color: #ff217c !important; }\n\n/* dashes between Cached and Similar links */\n.gl { color: #999 !important; }\n\n/* disable dashed outline on focused elements */\n:focus { outline: none; }\n\n/* image thumbnails */\n#res .g img, #ImgContent td img {\n  border: none !important;\nbox-shadow: 4px 4px 10px rgba(0,0,0,0.8) !important;\n}\n\n\n\n/* Main text color */\ndiv, td, font[color=\"#000000\"], .qbtbha .qbtbtxt.qbclr, .gt-rw-span, .gt-syn-span, .gt-card-ttl-txt, #contribute-target, #source { color: #999999; }\n\n/* fix for google suggest */\n.aAutoComplete .cAutoComplete, .google-ac-a .google-ac-c, .gac_a > .gac_c { color: #CCCCCC !important; }\n.aAutoComplete .dAutoComplete, .google-ac-a .google-ac-d, .gac_a > .gac_d { color: #ffffff !important; }\n.google-ac-e td, .gac_e { color: #380000 !important; }\n\n/* make sure web forms (and google suggest) don't get their colors changed */\ninput *, textarea *, .aAutoComplete {\n    background: -moz-Field !important;\n    color: #999999 !important;\n}\n\n    /*Fix Perso --------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n\n/*Top Bar  Next to Search*/\n    .ms-bg-color-themeLighterAlt{\n       background-color: #495251;\n    }\n\n/*Highlighted Email and other stuff*/\n\t\t .ms-bg-color-themeLighterAlt-hover:hover, .ms-bg-color-themeLighterAlt-focus:focus, .ms-bg-color-themeLighterAlt-before::before, .ms-bgc-tlra-h:hover, .ms-bgc-tlra-f:focus, .ms-bgc-tlra-b::before {\n\t       background-color: #483c6c;\n    }\n\n/*Pinned Emails*/\n\t\t.ms-bgc-tlra {\n       background-color: #004249;\n    }\n\n\n    ._n_m1 {\n       background-color: #495251;\n    }\n\n    .listItemDefaultBackground {\n       background-color: #495251;\n    }\n\n    .ms-icon-font-size-16-circle {\n       background-color: #495251;\n    }\n\n    ._mgdn_v {\n       background-color: inherit;\n    }\n\n       /*Anti-flash on outlook load*/\n\n    #owaLoading {\n       background-color: #1C2126;\n    }\n\n/*Weird boxes on left of inbox and probably other things*/\n    .ms-bg-color-white, .ms-bgc-w, .ms-bg-color-white-hover:hover, .ms-bg-color-white-focus:focus, .ms-bg-color-white-before::before, .ms-bgc-w-h:hover, .ms-bgc-w-b::before {\n       background-color: #293134;\n    }\n\n    .contextMenuPopup {\n       background-color: #293134;\n    }",
+				"urlPrefixes": [
+					"https://outlook.office.com/owa/?path=/calendar/"
+				]
 			}
 		],
-		"name": "TwitLonger Material Dark",
-		"originalDigest": "e39d412ebac7c47ed1da706bc8d73abe4e4ac509",
-		"_id": "18f6b06a-39a7-4c1b-a5cd-13bb2f188c3a",
-		"_rev": 1594653713078,
-		"id": 81
+		"name": "Outlook OWA - Dark.Mode Meteor",
+		"originalDigest": "3fb7c5ee8af8254c7a5cdf4bdd4891a932112cfe",
+		"_id": "b59625d3-3bcb-4942-b261-5f4590c9e1b0",
+		"_rev": 1597727534212,
+		"id": 81,
+		"updateDate": 1597727384746
 	},
 	{
 		"enabled": false,
@@ -3020,99 +3090,31 @@
 		"name": "Outlook Mail - Dark Minimal",
 		"originalDigest": "f8184e8c2b1732aae5972c3f61870b32349488d8",
 		"_id": "1e7a52e5-73a0-46cb-b555-c0273c5ba2e3",
-		"_rev": 1594911194079,
+		"_rev": 1597727602012,
 		"id": 82,
 		"updateDate": 1594869885387
 	},
 	{
-		"enabled": true,
-		"updateUrl": "https://userstyles.org/styles/chrome/165560.json",
-		"md5Url": "https://update.userstyles.org/165560.md5",
-		"url": "http://userstyles.org/styles/165560",
-		"originalMd5": "90d89aa8e40451c3ec6dc84ed0d1884e",
-		"installDate": 1595816046379,
+		"enabled": false,
+		"updateUrl": "https://userstyles.org/styles/chrome/156545.json",
+		"md5Url": "https://update.userstyles.org/156545.md5",
+		"url": "http://userstyles.org/styles/156545",
+		"originalMd5": "a286bc564aefaa8426995242889aacdc",
+		"installDate": 1597727444421,
 		"sections": [
 			{
-				"urls": [],
-				"urlPrefixes": [],
+				"code": "@-moz-keyframes briefHighlightFrames {\n    from {\n       background-color:#2683d2;\n    }\n}\n\nbody, tbody, td, tr {\nbackground-color:#1c1c1c;\n}\n\ndiv#MicrosoftOWAEditorRegion.ms-rtestate-write, \n#MicrosoftOWAEditorRegion > div > p\n{\nbackground-color: white !important;\ncolor:#1c1c1c;\n}\n\ndiv._mcp_01.ms-bg-color-white.customScrollBar,\ndiv#MessageUniqueBody,\ndiv#MessageUniqueBody *,\ndiv#Item.MessagePartBody,\ndiv#Item.MessagePartBody *,\ndiv [role=listitem] *:not(._pe_f),\ndiv#Signature\n{\nbackground-color: #1c1c1c !important;\ncolor:#fff;\n}\n\n._lv_q:hover, ._lv_u:hover, ._lv_t:hover{\nbackground-color:#666666;\n}\n\n._lv_q, ._lv_u{\nbackground-color:black;\n}\n\n#Signature > div {\nbackground-color:#fff;\ncolor:black;\n}\n\n.folderPaneGradient {\n color:white;   \n}\n\n._ph_e:hover {\n    background-color: #4a4a4a;\n}\n\n._lv_t{\nbackground-color:#1c1c1c;\n}\n\n\ndiv[role=heading]{\nbackground-color:#1c1c1c;\n}\n\ndiv[role=heading]{\nbackground-color:#1c1c1c;\n}\n\ndiv[role=textbox]{\nborder-radius:5px;\n}\n\n._lv_71\n{\n color:white;   \n}\n\n.allowTextSelection {\nbackground-color:#000;\ncolor: #ffffff !important;\n}\n\n.Item.MessagePartBody {\ncolor: #ff0000 !important;\n}\n\n.folderPaneGradient {\nbackground-color:#1c1c1c;\n}\n\n.screenView.composeScreenView>.childView {\nbackground-color:#1c1c1c\n}\n.highlight {\nbackground-color:#2683d2\n}\n.currentHitHighlight {\nbackground-color:#2683d2;\ncolor:#1c1c1c\n}\n.extensionHighlight {\ncolor:#1c1c1c;\nbackground-color:#674428\n}\n.psearchHighlightPeopleHub {\nbackground-color:#2683d2\n}\n.showAsPinned {\nbackground:#2683d2;\nbackground-color:rgba(255,255,0,.2)\n}\n.calendarFree {\nbackground:#1c1c1c;\n}\n.calendarAway {\nbackground:#61B361\n}\n.calendarAwayEmphasis {\nbackground:#66FF66\n}\n.modalPanelBackground {\nbackground-color:#1c1c1c\n}\n.modalPanelBackgroundWin8 {\nbackground-color:#1c1c1c;\n}\n.popupPanel {\nbackground-color:#1c1c1c\n}\n.peekPopup {\nbackground-color:#1c1c1c\n}\n.peekShadowIE8 {\nborder-color:#151515;\n}\n.imErrorMessage {\ncolor:#2683d2\n}\n.activityIndicatorOverlay {\nbackground-color:#1c1c1c;\n}\nspan.catName {\ncolor:#2683d2!important\n}\n#OwaReferenceAttachmentFileName a {\ncolor:#F6680A\n}\n\n  /* /boot generated */\n  /* boot manual */\n.presenceAvailable {\n\tbackground-color:#5dd255\n}\n.presenceAway {\n\tbackground-color:#ffd200\n}\n.presenceOffline {\n\tbackground-color:#c8c8c8\n}\n.presenceUnknown {\n\tbackground-color:#fff\n}\n  /* /boot manual*/\n/* first try manual */\n/* /first try manual */\n/* inline auto */\n    /* inverted */\n.customScrollBar::-webkit-scrollbar-button    {\nbackground-color: #1c1c1c;\n}\n.customScrollBar::-webkit-scrollbar-track {\nbackground-color: #1c1c1c;\n}\n.customScrollBarLight::-webkit-scrollbar-track {\nbackground-color: #FF8D39;\n}\n.customScrollBar::-webkit-scrollbar-thumb {\nbackground-color: #373737;\n}\n.customScrollBarLight::-webkit-scrollbar-thumb {\nborder-color: #FF8D39;\nbackground-color: #6A4E3E;\n}\n.customScrollBar::-webkit-scrollbar-thumb:hover {\nbackground-color: #675C59;\n}\n.customScrollBar::-webkit-scrollbar-corner {\nbackground-color: #1c1c1c;\n}\n.textbox {\nbackground-color: #1c1c1c;\n}\n.textbox:hover {\nborder-color:#999999;\nbackground-color: #1c1c1c;\n}\n.placeholderText {\ncolor: #595959;\n}\n.modalBackground {\nbackground-color: #1c1c1c;\n}\n.clearModalBackground {\nbackground-color: #1c1c1c;\n}\n.contextMenuPopup  {\nbackground-color: #1c1c1c;\n}\n.ms-font-su {\ncolor: #CCCCCC;\n}\n.ms-font-xxl {\ncolor: #CCCCCC;\n}\n.ms-font-xl {\ncolor: #CCCCCC;\n}\n.ms-font-l {\ncolor: #ff44ff;\n}\n.ms-font-m {\ncolor: #CCCCCC;\n}\n.ms-font-s {\ncolor: #CCCCCC;\n}\n.ms-font-xs {\ncolor: #CCCCCC;\n}\n.ms-font-mi {\ncolor: #CCCCCC;\n}\n/*Background Colors*/\n.ms-bg-color-themeDark, .ms-bgc-td, .ms-bg-color-themeDark-hover:hover, .ms-bgc-td-h:hover {\nbackground-color: #E0E0E0;\n}\n.ms-bg-color-themeDarker, .ms-bgc-tdr, .ms-bg-color-themeDarker-hover:hover, .ms-bgc-tdr-h:hover {\nbackground-color: #F3F3F3;\n}\n.ms-bg-color-themePrimary, .ms-bgc-tp, .ms-bg-color-themePrimary-hover:hover, .ms-bgc-tp-h:hover {\nbackground-color: #2683d2;\n}\n.ms-bg-color-themeSecondary, .ms-bgc-ts, .ms-bg-color-themeSecondary-hover:hover, .ms-bgc-ts-h:hover {\nbackground-color: #ff44ff;\n}\n.ms-bg-color-themeTertiary, .ms-bgc-tt, .ms-bg-color-themeTertiary-hover:hover, .ms-bgc-tt-h:hover {\nbackground-color: #767676;\n}\n.ms-bg-color-themeLight, .ms-bgc-tl, .ms-bg-color-themeLight-hover:hover, .ms-bgc-tl-h:hover {\nbackground-color: #2683d2;\n}\n.ms-bg-color-themeLighter, .ms-bgc-tlr, .ms-bg-color-themeLighter-hover:hover, .ms-bgc-tlr-h:hover {\nbackground-color: #3F3F3F;\n}\n/*Border Colors*/\n.ms-border-color-themeDark, .ms-bcl-td, .ms-border-color-themeDark-hover:hover, .ms-bcl-td-h:hover {\nborder-color: #E0E0E0;\n}\n.ms-border-color-themeDarker, .ms-bcl-tdr, .ms-border-color-themeDarker-hover:hover, .ms-bcl-tdr-h:hover {\nborder-color: #F3F3F3;\n}\n.ms-border-color-themePrimary, .ms-bcl-tp, .ms-border-color-themePrimary-hover:hover, .ms-bcl-tp-h:hover {\nborder-color: #eeeef0;\n}\n.ms-border-color-themeSecondary, .ms-bcl-ts, .ms-border-color-themeSecondary-hover:hover, .ms-bcl-ts-h:hover {\nborder-color: #AAAAAA;\n}\n.ms-border-color-themeTertiary, .ms-bcl-tt, .ms-border-color-themeTertiary-hover:hover, .ms-bcl-tt-h:hover {\nborder-color: #767676;\n}\n.ms-border-color-themeLight, .ms-bcl-tl, .ms-border-color-themeLight-hover:hover, .ms-bcl-tl-h:hover {\nborder-color: #4D4D4D;\n}\n.ms-border-color-themeLighter, .ms-bcl-tlr, .ms-border-color-themeLighter-hover:hover, .ms-bcl-tlr-h:hover {\nborder-color: #bb0000;\n}\n/*Foreground colors*/\n.ms-font-color-white, .ms-fcl-w, .ms-font-color-white-hover:hover, .ms-fcl-w-h:hover {\n    color: #ffffff !important;\n}\n.ms-font-color-themeDark, .ms-fcl-td, .ms-font-color-themeDark-hover:hover, .ms-fcl-td-h:hover {\ncolor: #E0E0E0;\n}\n.ms-font-color-themeDarker, .ms-fcl-tdr, .ms-font-color-themeDarker-hover:hover, .ms-fcl-tdr-h:hover {\ncolor: #F3F3F3;\n}\n.ms-font-color-themePrimary, .ms-fcl-tp, .ms-font-color-themePrimary-hover:hover, .ms-fcl-tp-h:hover {\ncolor: #2683d2;\n}\n.ms-font-color-themeSecondary, .ms-fcl-ts, .ms-font-color-themeSecondary-hover:hover, .ms-fcl-ts-h:hover {\ncolor: #AAAAAA;\n}\n.ms-font-color-themeTertiary, .ms-fcl-tt, .ms-font-color-themeTertiary-hover:hover, .ms-fcl-tt-h:hover {\ncolor: #767676;\n}\n.ms-font-color-themeLight, .ms-fcl-tl, .ms-font-color-themeLight-hover:hover, .ms-fcl-tl-h:hover {\ncolor: #4D4D4D;\n}\n.ms-font-color-themeLighter, .ms-fcl-tlr, .ms-font-color-themeLighter-hover:hover, .ms-fcl-tlr-h:hover {\ncolor: #3F3F3F;\n}\n.o365cs-topnavBGColor {\nbackground-color: #CCCCCC;\n}\n.o365cs-topnavLinkBackground {\nbackground-color: #CCCCCC;\nbackground-color: rgba(51,51,51,.8);\n}\n.o365cs-topnavText {\ncolor: #1c1c1c;\n}\n.o365cs-o365logo {\ncolor: #1c1c1c;\n}\n.o365cs-navMenuButton {\ncolor: #1c1c1c;\n}\n/*Background Colors*/\n.ms-bg-color-black, .ms-bgc-b, .ms-bg-color-black-hover:hover, .ms-bgc-b-h:hover {\nbackground-color: white;\n}\n.ms-bg-color-neutralDark, .ms-bgc-nd, .ms-bg-color-neutralDark-hover:hover, .ms-bgc-nd-h:hover {\nbackground-color: #DEDEDE;\n}\n.ms-bg-color-neutralPrimary, .ms-bgc-np, .ms-bg-color-neutralPrimary-hover:hover, .ms-bgc-np-h:hover {\nbackground-color: #CCCCCC;\n}\n.ms-bg-color-neutralSecondary, .ms-bgc-ns, .ms-bg-color-neutralSecondary-hover:hover, .ms-bgc-ns-h:hover {\nbackground-color: #999999;\n}\n.ms-bg-color-neutralSecondaryAlt, .ms-bgc-nsa, .ms-bg-color-neutralSecondaryAlt-hover:hover, .ms-bgc-nsa-h:hover {\nbackground-color: #898989;\n}\n.ms-bg-color-neutralTertiary, .ms-bgc-nt, .ms-bg-color-neutralTertiary-hover:hover, .ms-bgc-nt-h:hover {\nbackground-color: #595959;\n}\n.ms-bg-color-neutralTertiaryAlt, .ms-bgc-nta, .ms-bg-color-neutralTertiaryAlt-hover:hover, .ms-bgc-nta-h:hover {\nbackground-color: #373737;\n}\n.ms-bg-color-neutralLight, .ms-bgc-nl, .ms-bg-color-neutralLight-hover:hover, .ms-bgc-nl-h:hover {\nbackground-color: #151515;\n}\n.ms-bg-color-neutralLighter, .ms-bgc-nlr, .ms-bg-color-neutralLighter-hover:hover, .ms-bgc-nlr-h:hover {\nbackground-color: #0B0B0B;\n}\n.ms-bg-color-white, .ms-bgc-w, .ms-bg-color-white-hover:hover, .ms-bgc-w-h:hover {\nbackground-color: #2683d2;\n}\n\n/*Foreground colors*/\n.ms-font-color-black, .ms-fcl-b, .ms-font-color-black-hover:hover, .ms-fcl-b-h:hover {\ncolor: #2683d2;\n}\n.ms-font-color-neutralDark, .ms-fcl-nd, .ms-font-color-neutralDark-hover:hover, .ms-fcl-nd-h:hover {\ncolor: #DEDEDE;\n}\n.ms-font-color-neutralPrimary, .ms-fcl-np, .ms-font-color-neutralPrimary-hover:hover, .ms-fcl-np-h:hover {\ncolor: #CCCCCC;\n}\n.ms-font-color-neutralSecondary, .ms-fcl-ns, .ms-font-color-neutralSecondary-hover:hover, .ms-fcl-ns-h:hover {\ncolor: #AAAAAA;\n}\n.ms-font-color-neutralSecondaryAlt, .ms-fcl-nsa, .ms-font-color-neutralSecondaryAlt-hover:hover, .ms-fcl-nsa-h:hover {\ncolor: #898989;\n}\n.ms-font-color-neutralTertiary, .ms-fcl-nt, .ms-font-color-neutralTertiary-hover:hover, .ms-fcl-nt-h:hover {\ncolor: #595959;\n}\n.ms-font-color-neutralTertiaryAlt, .ms-fcl-nta, .ms-font-color-neutralTertiaryAlt-hover:hover, .ms-fcl-nta-h:hover {\ncolor: #373737;\n}\n.ms-font-color-neutralLight, .ms-fcl-nl, .ms-font-color-neutralLight-hover:hover, .ms-fcl-nl-h:hover {\ncolor: #151515;\n}\n.ms-font-color-neutralLighter, .ms-fcl-nlr, .ms-font-color-neutralLighter-hover:hover, .ms-fcl-nlr-h:hover {\ncolor: #0B0B0B;\n}\n.ms-font-color-white, .ms-fcl-w, .ms-font-color-white-hover:hover, .ms-fcl-w-h:hover {\ncolor: #1c1c1c;\n}\n\n.ms-border-color-neutralLight {\n background-color: #2683d2;\n}\n._rp_H3\n{\n    background-color: #151515;\n}\n  .lvHighlightFromClass\n{\n    color: #2683d2\n}\n.vResize\n{\n background-color:#1c1c1c;   \n}\n._rp_e, ._rp_f, ._rp_w3, ._rp_X, ._rp_T, ._rp_91, ._rp_y1, ._b_z, ._rp_b1, ._rp_05._rp_15, .folderPaneGradient, ._pe_61, ._rp_V .ms-font-l, .rpHighlightAllClass, .rpHighlightFromClass, .ms-font-color-neutralPrimary, ._rp_x3, ._pe_7, ._pe_P, ._pe_8, ._pe_b, .allowTextSelection, ._zy_i, .ms-bg-color-white, .ms-bgc-w, .ms-bg-color-white-hover:hover, .ms-bgc-w-h:hover, ._n_m7, ._n_17\n{ background-color: #1c1c1c;\n}\n._n_o1, .o365button, .ms-font-m, .ms-border-color-themeLighter {\nborder-color:#1c1c1c;\n}\n.ms-bg-color-themeLight, .ms-bgc-tl, .ms-bg-color-themeLight-hover:hover, .ms-bgc-tl-h:hover \n{\n background-color:#3d3c3c; \n}\n.ms-border-color-neutralLight, .ms-bcl-nl, .ms-border-color-neutralLight-hover:hover, .ms-bcl-nl-h:hover\n{\n border-color:#1c1c1c;   \n}\n._lv_q \n{\n border-bottom:1px solid #1c1c1c;   \n}\n .ms-font-weight-regular, .ms-font-color-themePrimary, .ms-border-color-neutralLight\n{\n    border-radius:5px;\n}\n.wf, .wf-size-doughboy-person-64, .wf-owa-doughboy-person-64, .wf-family-owa\n{\n    border-radius:50px;\n}\n._b_c>._b_d, ._b_c>._b_e {color:white;}\n\n.ms-bg-color-themeSecondary, .ms-bgc-ts, .ms-bg-color-themeSecondary-hover:hover, .ms-bgc-ts-h:hover {\n    background-color:#2683d2;\n}\n._n_B6 {\n    border-radius:10px;\n}\n\n/**************Calendar**************/\n._ce_22 {\nbackground-color:#1c1c1c;\n}\n\n._cb_k, ._cb_p, ._cb_m, ._cb_n1, ._cb_p1 {\ncolor:#FFFFFF;\n}",
 				"domains": [
-					"jquery.com",
-					"jqueryui.com",
-					"jquerymobile.com",
-					"sizzlejs.com",
-					"qunitjs.com"
-				],
-				"regexps": [],
-				"code": "::-webkit-scrollbar {\r\n \t/* Width */\r\n \twidth: 1.2em!important;\r\n }\r\n\r\n /* Color of handle ___________________________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-thumb {\r\n \tbackground: #580303!important;\r\n \tbackground-image: linear-gradient(to right, rgba(93, 6, 6, 0.95), rgba(255, 4, 4, 0.1)), url(https://image.ibb.co/hCq4n5/Carbon_Fiber_2.jpg)!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n \tborder-radius: 22px!important;\r\n \tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n }\r\n\r\n ::-webkit-scrollbar-thumb:hover {\r\n \tbackground: #580303!important;\r\n \tbackground-image: linear-gradient(to left, rgba(93, 6, 6, 0.95), rgba(255, 4, 4, 0.1)), url(https://image.ibb.co/hCq4n5/Carbon_Fiber_2.jpg)!important;\r\n \tborder-radius: 22px!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n }\r\n\r\n /* Color of Track ______________________________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-track {\r\n \tbackground: #170000!important;\r\n \tbox-shadow: inset 8px 0 13px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n \tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n }\r\n\r\n /* Color of handles at top and bottom ___________________________________________________________*/\r\n\r\n ::-webkit-scrollbar-button {\r\n \tbackground: #4c0707!important;\r\n \tbox-shadow: inset 0 12px 13px rgba(0, 0, 0, 0.6), rgba(55, 55, 55, 1) 0 1px 0!important;\r\n }\r\n\r\n ::-webkit-scrollbar-button:hover {\r\n \tborder-radius: 22px!important;\r\n \tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n }"
-			},
-			{
-				"urls": [],
-				"urlPrefixes": [],
-				"domains": [
-					"jquery.com",
-					"jqueryui.com",
-					"jquerymobile.com",
-					"sizzlejs.com",
-					"qunitjs.com"
-				],
-				"regexps": [],
-				"code": "/*__________________________________________________________________________________*/\r\n\r\na[href] {\r\n\ttext-decoration: none!important;\r\n}\r\n\r\nfooter h3 {\r\n\ttext-transform: capitalize!important;\r\n}\r\n\r\n#content .demo-list li,\r\n#content .section-title,\r\n#content-wrapper,\r\n#trac-content,\r\n.entry-meta aside.meta-details h3,\r\n.entry-meta aside.meta-details,\r\n.greyUnderline,\r\n.navBtnDisabled,\r\n.navBtnDisabled:hover,\r\n.navBtnEnabled,\r\n.navBtnEnabled:hover,\r\n.normalPhoto img,\r\n.normalPhoto,\r\n.responseHeight li,\r\n.singleTopicCont,\r\n.singleTopicContSel,\r\n.widgetBox,\r\nfooter .books li a:hover img {\r\n\tborder: none!important;\r\n\tbox-shadow: none!important;\r\n\toutline: none!important;\r\n}\r\n\r\n.pull-four {\r\n\tright: 2.33333%!important;\r\n}\r\n\r\nol.code {\r\n\twhite-space: pre-wrap!important;\r\n}\r\n\r\nbody {\r\n\tline-height: 31.5px;\r\n}\r\n\r\n/*___ Fonts ________________________________________________________________________*/\r\n\r\np {\r\n\tfont-size: 19px!important;\r\n}\r\n\r\npre,\r\ncode {\r\n\tfont-size: 18px!important;\r\n}\r\n\r\nbody {\r\n\tfont-size: 17px!important;\r\n}\r\n\r\n#content ul li,\r\n#content p {\r\n    line-height: 2.3em !important;\r\n}\r\n\r\n.syntaxhighlighter a,\r\n.syntaxhighlighter code,\r\n.syntaxhighlighter div,\r\n.syntaxhighlighter pre,\r\n.syntaxhighlighter table caption,\r\n.syntaxhighlighter table tbody,\r\n.syntaxhighlighter table td,\r\n.syntaxhighlighter table thead,\r\n.syntaxhighlighter table tr,\r\n.syntaxhighlighter table,\r\n.syntaxhighlighter textarea {\r\n\tline-height: 1.35em !important;\r\n\tfont-size: 1.03em !important;\r\n}\r\n\r\n/*___ Remove Items _________________________________________________________________*/\r\n\r\nselector {\r\n\tleft: -9999px!important;\r\n\tposition: absolute!important;\r\n\ttop: -9999px!important;\r\n}\r\n\r\n/*___ Left/Right/Top/Bottom ________________________________________________________*/\r\n\r\n.toc {\r\n\tmargin-top: 1rem!important;\r\n}\r\n\r\nh2 {\r\n\tmargin-top: 2rem!important;\r\n}\r\n\r\n.entry-header {\r\n\tmargin-bottom: 1rem!important;\r\n}\r\n\r\n.footer-site-links li a {\r\n\tpadding-left: 40px;\r\n}\r\n\r\n/*___ Margins ______________________________________________________________________*/\r\n\r\n#sidebar .widget,\r\n.leftcontentContainer,\r\n.sideBar,\r\n.singleTopicCont,\r\n.singleTopicContSel {\r\n\tmargin: 12px!important;\r\n}\r\n\r\n#content h3 {\r\n\tmargin: .5rem 0!important;\r\n}\r\n\r\n#banner-secondary {\r\n\tmargin: -13px -13px 15px!important;\r\n}\r\n\r\n#page-container {\r\n\tmargin: 0 auto!important;\r\n}\r\n\r\n.features {\r\n\tmargin: 35px 27px 78px!important;\r\n}\r\n\r\n#sidebar ul,\r\ndl,\r\nmenu,\r\nol {\r\n\tmargin: 0 1rem 0em!important;\r\n}\r\n\r\n#content .dev-links {\r\n    margin: -15px 10px .5em 2em;\r\n}\r\n\r\n.content-right #sidebar, .sidebar-left {\r\n    margin: 0 0 12px -25px;\r\n}\r\n\r\np,\r\npre {\r\n\tmargin: 1em 1rem!important;\r\n}\r\n\r\n/*___ Paddings _____________________________________________________________________*/\r\n\r\n#content,\r\n#sidebar .widget,\r\n.four.columns.resources,\r\n.spsingleReplyContainer,\r\n.widgetBox {\r\n\tpadding: 12px!important;\r\n}\r\n\r\n.__zd_findAndReplace,\r\npre,\r\ncode {\r\n\tpadding: 3px 6px!important;\r\n}\r\n\r\n#sidebar, .sidebar-left, .sidebar-right {\r\n    padding: 0px;\r\n}\r\n\r\n/*___ Heights ______________________________________________________________________*/\r\n\r\nselector {\r\n\tmax-height: none!important;\r\n}\r\n\r\n.column,\r\n.columns {\r\n\tpadding: 0 19px!important;\r\n}\r\n\r\nbody {\r\n\theight: 100%!important;\r\n}\r\n\r\n/*___ Widths _______________________________________________________________________*/\r\n\r\n#banner-secondary p.intro,\r\n#content .signatures,\r\n.algolia-autocomplete .ds-dropdown-menu,\r\n.constrain,\r\n.mainContainer {\r\n\tmax-width: none!important;\r\n}\r\n\r\n.features li,\r\n.row {\r\n\twidth: 100%!important;\r\n}\r\n\r\n#jq-siteContain,\r\n#page-container,\r\n#wrapper {\r\n\twidth: 98%!important;\r\n}\r\n\r\n#content,\r\n.eight,\r\n.row .eight {\r\n\twidth: 84.66667%!important;\r\n}\r\n\r\n#home-content article .eight,\r\n.row .eight {\r\n\twidth: 79.66667%!important;\r\n}\r\n\r\n.algolia-autocomplete .algolia-docsearch-suggestion--content,\r\n.leftcontentContainer {\r\n\twidth: 67%!important;\r\n}\r\n\r\n#banner-secondary p.intro {\r\n    width: 56%;\r\n}\r\n\r\n.features div {\r\n\twidth: 49%!important;\r\n}\r\n\r\n.algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {\r\n\twidth: 33%!important;\r\n}\r\n\r\n.sideBar {\r\n\twidth: 27%!important;\r\n}\r\n\r\n#content .dev-links {\r\n    width: 23%;\r\n}\r\n\r\n.four,\r\n.row .four {\r\n\twidth: 20.33333%!important;\r\n}\r\n\r\n#sidebar, .sidebar-left, .sidebar-right {\r\n    width: 16%;\r\n}\r\n\r\n.link {\r\n\twidth: 14%!important;\r\n}\r\n\r\n.algolia-autocomplete .ds-dropdown-menu {\r\n\twidth: 48rem!important;\r\n}"
-			},
-			{
-				"urls": [],
-				"urlPrefixes": [],
-				"domains": [
-					"jquery.com",
-					"jqueryui.com",
-					"jquerymobile.com",
-					"sizzlejs.com",
-					"qunitjs.com"
-				],
-				"regexps": [],
-				"code": "/*__________________________________________________________________________________*/\r\n\r\na[href],\r\ntd span {\r\n\tcolor: #0ff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\na[href]:visited {\r\n\tcolor: #fc79fc!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.view-source a:hover,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--highlight,\r\na[href]:hover span,\r\na[href]:hover,\r\nheader h1,\r\ninput[type=\"checkbox\"]:checked+label,\r\ninput[type=\"radio\"]:checked+label {\r\n\tcolor: #ff0!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#banner-secondary p,\r\n#banner-secondary p.intro,\r\n#content .signatures li div:last-child,\r\n#content li,\r\n#content p,\r\n#header span,\r\n.Apple-style-span,\r\n.__zd_findAndReplace span,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--text,\r\n.category-archive-meta p,\r\n.desc,\r\n.entry-content,\r\n.entry-example p,\r\n.entry-summary p,\r\n.feature-box p,\r\n.line,\r\n.longdesc p,\r\n.sppostContent p,\r\n[style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif\"],\r\ndocument body,\r\ndocument li {\r\n\tcolor: #fff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Khaki ________________________________________________________________________*/\r\n\r\n#content h2,\r\n#sidebar h3,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--category-header,\r\n.responseHeight span,\r\nfooter h3 span,\r\nheader h1,\r\nheader h2 {\r\n\tcolor: #F0E890!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Burlywood ____________________________________________________________________*/\r\n\r\n#content,\r\n#content h3,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--title,\r\n.algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column,\r\nheader document b,\r\ncode,\r\nheader h3,\r\nheader h4,\r\nheader i,\r\nheader pre,\r\nstrong {\r\n\tcolor: #e0b880!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*___ Sandy Brown __________________________________________________________________*/\r\n\r\n#content .signatures li div,\r\n.commit-tease,\r\n.desc strong,\r\n.header,\r\nem,\r\nh5,\r\nh6,\r\nlabel {\r\n\tcolor: #F0A060!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n#result {\r\n\tcolor: #000!important;\r\n}\r\n\r\n/*___ Blue _________________________________________________________________________*/\r\n\r\n.icon-calendar span,\r\n.entry-meta,\r\n.lightGreyText,\r\ntime {\r\n\tcolor: #07beff!important;\r\n\ttext-shadow: 1px 1px #000!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\ndocument input,\r\ndocument input[type=email],\r\ndocument input[type=number],\r\ndocument input[type=password],\r\ndocument input[type=search],\r\ndocument input[type=tel],\r\ndocument input[type=text],\r\ndocument select,\r\ndocument textarea {\r\n\tbackground-color: #1d0909!important;\r\n\tborder-radius: 22px!important;\r\n\tcolor: #fff!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n::selection {\r\n\tbackground: #ff9!important;\r\n\tcolor: #000!important;\r\n}\r\n\r\npre ::selection {\r\n\tbackground: #ff9!important;\r\n\tcolor: #fff!important;\r\n}\r\n\r\n#ticket table.properties>tbody>tr>th {\r\n\tcolor: #fff!important;\r\n}"
-			},
-			{
-				"urls": [],
-				"urlPrefixes": [],
-				"domains": [
-					"jquery.com",
-					"jqueryui.com",
-					"jquerymobile.com",
-					"sizzlejs.com",
-					"qunitjs.com"
-				],
-				"regexps": [],
-				"code": "/*__________________________________________________________________________________*/\r\n\r\nhtml {\r\n\tbackground: #fff!important;\r\n}\r\n\r\n#banner-secondary,\r\n#global-nav,\r\n.entry-meta .bottom-links,\r\n.multiplebgs.cssgradients footer,\r\nfooter h3 span\r\n{\r\n\tbackground-image: none!important;\r\n}\r\n\r\n#container,\r\n#jq-content,\r\n#page-container {\r\n\tbackground: url(https://image.ibb.co/hVmiOe/wallpaper_with_black_background_45_free_wallpaper.jpg)!important;\r\n\tbackground-attachment: fixed!important;\r\n}\r\n\r\n/*___ Background Gray ______________________________________________________________*/\r\n\r\n#global-nav,\r\n.entry-meta .github-feedback,\r\n.entry-meta aside.meta-details,\r\n.multiplebgs.cssgradients footer,\r\nfooter h3 span {\r\n\tbackground-color: #060505!important;\r\n}\r\n\r\nnav#main {\r\n\tbackground: #0a0909!important;\r\n\tbackground-color: #0a0909!important;\r\n}\r\n\r\n/*___ Background 0000 ______________________________________________________________*/\r\n\r\n#banner-secondary .download-box,\r\n#content .demo-list .active,\r\n#content .demo-list li,\r\n#content h1.block,\r\n#content h2.block,\r\n#content,\r\n#events header h2,\r\n#extension-points header h2,\r\n#header,\r\n#methods header h2,\r\n#options header h2,\r\n#quick-nav h2,\r\n#sidebar #chapter-listing li.active>a,\r\n.algolia-autocomplete .algolia-docsearch-suggestion,\r\n.bestresponsebg,\r\n.entry-meta aside.meta-details,\r\n.flRight,\r\n.searchBreadCrumb {\r\n\tbackground: rgba(0, 0, 0, 0)!important;\r\n}\r\n\r\n/*___ Background-color 0000 ________________________________________________________*/\r\n\r\n#content-wrapper,\r\n#content figcaption #mainnav li,\r\n#trac-content,\r\n.attachmentListCont,\r\n.goBtn,\r\n.listing .entry-meta .category,\r\n.mainFullHeader,\r\n.navBtnDisabled,\r\n.navBtnDisabled:hover,\r\n.navBtnEnabled,\r\n.navBtnEnabled:hover,\r\n.responseHeight li span,\r\n.responseHeight span,\r\n.searchPage .headerCont,\r\n.sppostContent p,\r\n.widgetBoxHeader,\r\n:link:hover,\r\n:visited:hover {\r\n\tbackground-color: rgba(0, 0, 0, 0)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.responseHeight li,\r\n.syntaxhighlighter,\r\nol.code li,\r\ncode,\r\npre {\r\n\tbackground: #111!important;\r\n\tbackground: url(https://image.ibb.co/jgTuFU/Dark-Red-1.jpg) #111!important;\r\n\tbackground-attachment: fixed!important;\r\n\ttext-shadow: 3px 3px 5px #000!important;\r\n}\r\n\r\n/*___ Highlight Background _________________________________________________________*/\r\n\r\n#sidebar h3,\r\n.content-right #sidebar,\r\n.sidebar-left,\r\nhr {\r\n\tbackground-image: none!important;\r\n}\r\n\r\n/*__ Blue __________________________________________________________________________*/\r\n\r\n#jq-footerNavigation,\r\n#jq-secondaryNavigation,\r\n.__zd_findAndReplace {\r\n\tbackground-image: linear-gradient(to bottom right, #043dda, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n#jq-footerNavigation:hover,\r\n#jq-secondaryNavigation:hover,\r\n.__zd_findAndReplace:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #154eeb, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n#jq-footerNavigation:active,\r\n#jq-secondaryNavigation:active,\r\n.__zd_findAndReplace:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*__ Orange ________________________________________________________________________*/\r\n\r\n.color.secondary-orange,\r\na.button,\r\n#content a.button,\r\n.button,\r\ninput[type=\"submit\"]:not(.ui-corner-all) {\r\n\tbackground-image: linear-gradient(to bottom right, #da3a04, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.secondary-orange:hover,\r\na.button:hover,\r\n#content a.button:hover,\r\n.button:hover,\r\ninput[type=\"submit\"]:not(.ui-corner-all):hover {\r\n\tbackground-image: linear-gradient(to bottom right, #eb4b15, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.secondary-orange:active,\r\na.button:active,\r\n#content a.button:active,\r\n.button:active,\r\ninput[type=\"submit\"]:not(.ui-corner-all):active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Green ________________________________________________________________________*/\r\n\r\n.color.secondary-green {\r\n\tbackground-image: linear-gradient(to bottom right, #81BC2E, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.secondary-green:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #92cd3f, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.secondary-green:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Purple _______________________________________________________________________*/\r\n\r\n.color.qunit-secondary-purple {\r\n\tbackground-image: linear-gradient(to bottom right, #390f39, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.qunit-secondary-purple:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #4a1f4a, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.qunit-secondary-purple:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Red __________________________________________________________________________*/\r\n\r\n.color.sizzle-red {\r\n\tbackground-image: linear-gradient(to bottom right, #9a1B1E, #000)!important;\r\n\tborder-radius: 10px!important;\r\n\tborder: none!important;\r\n\tbox-shadow: 1px 1px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n.color.sizzle-red:hover {\r\n\tbackground-image: linear-gradient(to bottom right, #ab2c2f, #000)!important;\r\n\tcolor: #ff0!important;\r\n}\r\n\r\n.color.sizzle-red:active {\r\n\tbox-shadow: inset 2px 2px 1px black, inset 2px 3px 5px rgba(0, 0, 0, 0.3), inset -2px -3px 5px rgba(255, 255, 255, 0.5)!important;\r\n}\r\n\r\n/*___ Plain Black __________________________________________________________________*/\r\n\r\n#content,\r\n.content-right #sidebar,\r\n.contentWrapper,\r\n.mainFullContent,\r\n.sideBar,\r\n.sidebar-left {\r\n\tbackground-color: #000!important;\r\n\tborder-radius: 22px!important;\r\n\tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0, 10px 10px 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n#content:hover,\r\n.content-right #sidebar:hover,\r\n.contentWrapper:hover,\r\n.mainFullContent:hover,\r\n.sidebar-left:hover,\r\n.sideBar:hover {\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0, 10px 10px 5px rgba(10, 10, 10, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n/*___ Plain ________________________________________________________________________*/\r\n\r\n#content .dev-links,\r\n#banner-secondary .download-box,\r\n#content .demo-list ul,\r\n#content .signatures,\r\n#sidebar .widget,\r\n.algolia-autocomplete .ds-dropdown-menu [class^=ds-dataset-],\r\n.download-box,\r\n.four.columns.resources,\r\n.listing .hentry,\r\n.singleTopicCont,\r\n.singleTopicContSel,\r\n.spsingleReplyContainer,\r\n.widgetBox {\r\n\tbackground-color: #11111159!important;\r\n\tborder-radius: 22px!important;\r\n\tborder: 1px solid rgba(0, 0, 0, .25)!important;\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(55, 55, 55, 1) 0 1px 0, 10px 10px 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n#content .dev-links:hover,\r\n#banner-secondary .download-box:hover,\r\n#content .demo-list ul:hover,\r\n#content .signatures:hover,\r\n#sidebar .widget:hover,\r\n.algolia-autocomplete .ds-dropdown-menu [class^=ds-dataset-]:hover,\r\n.download-box:hover,\r\n.four.columns.resources:hover,\r\n.listing .hentry:hover,\r\n.singleTopicCont:hover,\r\n.singleTopicContSel:hover,\r\n.spsingleReplyContainer:hover,\r\n.widgetBox:hover {\r\n\tbox-shadow: inset 0 0 5px rgba(0, 0, 0, .4), rgba(155, 155, 155, 1) 0 1px 0, 10px 10px 5px rgba(10, 10, 10, .4), rgba(155, 155, 155, 1) 0 1px 0!important;\r\n}\r\n\r\n/*___ Noise ________________________________________________________________________*/\r\n\r\nhr {\r\n\tbackground-image: linear-gradient(to bottom, rgba(0, 0, 0, .1), rgba(0, 0, 0, 0)), url(https://image.ibb.co/e39YEk/noise2.jpg)!important;\r\n\tbackground-repeat: repeat-x, repeat!important;\r\n\tbackground-size: 100px 15px, 140px 140px!important;\r\n}\r\n\r\nselector:hover {\r\n\tbackground-image: linear-gradient(to bottom, rgba(255, 255, 255, .1), rgba(0, 0, 0, 0)), url(https://image.ibb.co/e39YEk/noise2.jpg)!important;\r\n}\r\n\r\n/*___ Red Gradient _________________________________________________________________*/\r\n\r\n.warning {\r\n\tbackground: linear-gradient(to bottom, #300202 0%, #590505 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n\tborder-radius: 22px!important;\r\n}\r\n\r\n/*__ Blue Gradient _________________________________________________________________*/\r\n\r\n.note,\r\n.github-activity .info-block .caption,\r\n.signatures li h4 {\r\n\tbackground: linear-gradient(to bottom, #03193c, #000 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n}\r\n\r\n/*__ Yellow Gradient _______________________________________________________________*/\r\n\r\n#changelog .changes,\r\n#prefs,\r\n#ticket {\r\n\tbackground: linear-gradient(to bottom, #9d9d5d 0%, #000 100%)!important;\r\n\tborder-bottom: 1px solid #000!important;\r\n\tborder-radius: 22px!important;\r\n\ttext-shadow: 1px 1px #555!important;\r\n}\r\n\r\n/*___ Highlight Background _________________________________________________________*/\r\n\r\n#sidebar li.active,\r\n.pst_row:hover {\r\n\tbackground: linear-gradient(to right, #383838, #0000)!important;\r\n\tborder-left-color: #434343!important;\r\n}"
-			},
-			{
-				"urls": [],
-				"urlPrefixes": [],
-				"domains": [
-					"jquery.com",
-					"jqueryui.com",
-					"jquerymobile.com",
-					"sizzlejs.com",
-					"qunitjs.com"
-				],
-				"regexps": [],
-				"code": "/*__________________________________________________________________________________*/\r\n\r\n#content .signatures li,\r\n.algolia-autocomplete .ds-dropdown-menu .ds-suggestion,\r\n.feature-box,\r\n.listing .hentry,\r\n.singleTopicCont,\r\n.spsingleReplyContainer,\r\nfooter .books li\r\n{\r\n\tfilter: brightness(75%)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#content .signatures li:hover,\r\n.algolia-autocomplete .ds-dropdown-menu .ds-suggestion:hover,\r\n.feature-box:hover,\r\n.listing .hentry:hover,\r\n.singleTopicCont:hover,\r\n.singleTopicContSel,\r\n.spsingleReplyContainer:hover,\r\nfooter .books li:hover\r\n{\r\n\tfilter: brightness(100%)!important;\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n.download a,\r\nimg {\r\n\tborder-radius: 22px!important;\r\n}\r\n\r\n#banner-secondary,\r\n#content .section-title,\r\n.signatures li h4:first-child {\r\n\tborder-top-left-radius: 22px!important;\r\n\tborder-top-right-radius: 22px!important;\t\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\nimg {\r\n\t-webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));\r\n}\r\n\r\n/*__________________________________________________________________________________*/\r\n\r\n#content li,\r\n#content .demo-list .active,\r\n.features li,\r\np,\r\ntr {\r\n\tfilter: brightness(68%)!important;\r\n\ttransition: color .125s ease-in, color .5s ease-out, filter .5s ease-in, filter .8s ease-out, box-shadow .125s ease-in, box-shadow .5s ease-out!important;\r\n}\r\n\r\n#content li:hover,\r\n.features li:hover,\r\np:hover,\r\nselector:hover p,\r\ntr:hover {\r\n\tfilter: brightness(100%)!important;\r\n\ttransition: color .125s ease-in, color .5s ease-out, filter .5s ease-in, filter .8s ease-out, box-shadow .125s ease-in, box-shadow .5s ease-out!important;\r\n}"
-			},
-			{
-				"urls": [],
-				"urlPrefixes": [],
-				"domains": [
-					"jquery.com",
-					"jqueryui.com"
-				],
-				"regexps": [],
-				"code": "[src=\"https://jquery.org/jquery-wp-content/themes/jquery/images/stackpath.png\"] {\r\n\tbackground: url(https://image.ibb.co/f0LtQA/stackpath.png)!important;\r\n\twidth: 200px!important;\r\n\theight: 40px!important;\r\n\tpadding-left: 200px!important;\r\n}\r\n\r\n.icon-eye-open:before,\r\n.icon-bolt:before,\r\n.icon-calendar:before,\r\n.icon-certificate:before,\r\n.icon-comments:before,\r\n.icon-dashboard:before,\r\n.icon-github:before,\r\n.icon-group:before,\r\n.icon-magnet:before,\r\n.icon-pencil:before,\r\n.icon-picture:before,\r\n.icon-refresh:before,\r\n.icon-search:before,\r\n.icon-sitemap:before,\r\n.icon-star-empty:before,\r\n.icon-tasks:before,\r\n.icon-th-large:before,\r\n.icon-wrench:before {\r\n\tcontent: \"\";\r\n}\r\n\r\n.nav li [class*=\" icon-\"],\r\n.nav li [class^=\"icon-\"],\r\nli [class*=\" icon-\"],\r\nli [class^=\"icon-\"]\r\n{\r\n    width: 3.25em;\r\n}\r\n\r\n/* About jQuery _____________*/\r\n\r\n.icon-certificate:before {\r\n\tbackground: url(https://i.ibb.co/0Cb1xy7/certificate.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-certificate:before {\r\n\tbackground-size: 25px!important;\r\n\theight: 32px!important;\r\n\tpadding-left: 30px!important;\r\n}\r\n\r\n/* Ajax _____________*/\r\n\r\n.icon-refresh:before {\r\n\tbackground: url(https://i.ibb.co/FHVJRKb/refresh.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-refresh:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* API (Wrench) _____________*/\r\n\r\n.icon-wrench:before {\r\n\tbackground: url(https://image.ibb.co/gam3yG/Wrench-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-wrench:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Calendar ___________________*/\r\n\r\n.icon-calendar:before {\r\n\tbackground: url(https://i.ibb.co/bQSKtFM/Calendar-Icon.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-calendar:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Code Organization _____________*/\r\n\r\n.icon-sitemap:before {\r\n\tbackground: url(https://i.ibb.co/n70NPJv/site-map.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-sitemap:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Effects _____________*/\r\n\r\n.icon-picture:before {\r\n\tbackground: url(https://i.ibb.co/VDYJmzf/gallery-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-picture:before {\r\n    background-size: 35px!important;\r\n    height: 27px!important;\r\n    padding-left: 36px!important;\r\n}\r\n\r\n/* Events _____________*/\r\n\r\n.icon-tasks:before {\r\n\tbackground: url(https://i.ibb.co/ZBMXYtc/j-Query-events.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-tasks:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Forum (People) _____________*/\r\n\r\n.icon-group:before {\r\n\tbackground: url(https://i.ibb.co/gSYsJnG/people-three.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-group:before {\r\n\tbackground-size: 33px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* GitHub (Logo) _____________*/\r\n\r\n.icon-github:before {\r\n\tbackground: url(https://i.ibb.co/pK89B3j/github-30x30.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-github:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* IRC (Double Comment) _____________*/\r\n\r\n.icon-comments:before {\r\n\tbackground: url(https://i.ibb.co/VHfjyf4/Inbox.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-comments:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* jQuery Mobile ____*/\r\n\r\n.icon-th-large:before {\r\n\tbackground: url(https://i.ibb.co/frx5kZV/jquery-mobile.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-th-large:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* jQuery UI _____________*/\r\n\r\n.icon-magnet:before {\r\n\tbackground: url(https://i.ibb.co/p3wyT8z/jquery-ui.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-magnet:before {\r\n    background-size: 29px!important;\r\n    height: 27px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Learning Center (Pencil) _____________*/\r\n\r\n.icon-pencil:before {\r\n\tbackground: url(https://i.ibb.co/hD543B5/pencil-icon-28x28.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-pencil:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Performance _____________*/\r\n\r\n.icon-dashboard:before {\r\n\tbackground: url(https://i.ibb.co/WscD6Nv/status-change.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-dashboard:before {\r\n    background-size: 46px!important;\r\n    height: 27px!important;\r\n    padding-left: 48px!important;\r\n}\r\n\r\n/* Plugins _____________*/\r\n\r\n.icon-bolt:before {\r\n\tbackground: url(https://i.ibb.co/RBX7GgH/Harry-Potter-Lightning-svg.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-bolt:before {\r\n    background-size: 29px!important;\r\n    height: 40px!important;\r\n    padding-left: 30px!important;\r\n}\r\n\r\n/* Search _______________________________________________________________*/\r\n\r\n.icon-search:before {\r\n\tbackground: url(https://image.ibb.co/hVxuzR/search.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-search:before {\r\n\tbackground-size: 15px!important;\r\n\theight: 26px!important;\r\n\tpadding-left: 22px!important;\r\n\twidth: 10px!important;\r\n}\r\n\r\n/* Social Media _________________________________________________________*/\r\n\r\n.icon-twitter:before {\r\n\tcontent: \"\";\r\n}\r\n\r\n/* Blog _____________*/\r\n\r\n[href=\"http://blog.homedepot.com/\"] svg {\r\n\tbackground: url(https://i.ibb.co/tMx5FKt/blog-logo.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://blog.homedepot.com/\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Facebook _____________*/\r\n\r\n[href=\"https://www.facebook.com/homedepot\"] svg {\r\n\tbackground: url(https://i.ibb.co/bvgwKNN/facebook-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"https://www.facebook.com/homedepot\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Hackernews _____________*/\r\n\r\n.et_social_hackernews i:before {\r\n\tbackground: url(https://i.ibb.co/M83c23Q/Hacker-News.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_hackernews i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Linkedin _____________*/\r\n\r\n.et_social_linkedin i:before {\r\n\tbackground: url(https://i.ibb.co/sVqbgYC/linkedin-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_linkedin i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Pinterest _____________*/\r\n\r\n[href=\"http://pinterest.com/homedepot/\"] svg {\r\n\tbackground: url(https://i.ibb.co/bbYn4KN/pinterest-48x48.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://pinterest.com/homedepot/\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Reddit _____________*/\r\n\r\n.et_social_reddit i:before {\r\n\tbackground: url(https://i.ibb.co/Hz3d91w/reddit.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.et_social_reddit i:before {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Twitter _____________*/\r\n\r\n.icon-twitter:before {\r\n\tbackground: url(https://i.ibb.co/SQGCm92/twitter-48x39.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-twitter:before {\r\n\tbackground-size: 26px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* YouTube _____________*/\r\n\r\n[href=\"http://www.youtube.com/user/homedepot\"] svg {\r\n\tbackground: url(https://i.ibb.co/8cHpnPV/You-Tube-logo-play-icon-30x23.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n[href=\"http://www.youtube.com/user/homedepot\"] svg {\r\n\tbackground-size: 41px!important;\r\n\theight: 46px!important;\r\n\tpadding-left: 53px;\r\n}\r\n\r\n/* Star _______________________________________________________________*/\r\n\r\n.icon-star-empty:before {\r\n\tbackground: url(https://image.ibb.co/ky9AXw/star-26x25.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-star-empty:before {\r\n    background-size: 24px!important;\r\n    height: 24px!important;\r\n    padding-left: 27px!important;\r\n}\r\n\r\n/* View  _______________________________________________________________*/\r\n\r\n.icon-eye-open:before {\r\n\tbackground: url(https://i.ibb.co/VSLvZzD/eye-clip-art-symbol-eye-makeup-brown.png) no-repeat!important;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\n.icon-eye-open:before {\r\n    background-size: 24px!important;\r\n    height: 15px!important;\r\n    padding-left: 27px!important;\r\n}"
+					"owa.sonoma-county.org"
+				]
 			}
 		],
-		"name": "jquery Dark By BamaBraves",
-		"originalDigest": "0a8740a0b221c23883597e5c6db7b944ed845c2f",
-		"_id": "0d5444e5-5ee3-4a4a-9225-9f0e3d30110b",
-		"_rev": 1595816046386,
-		"id": 83
+		"name": "Outlook Web App Clean Dark",
+		"originalDigest": "0a0bb92cd50bc2769765493f9d063df8d5f7e1fa",
+		"_id": "3d28a2ea-ce2a-40b5-85a9-a8726ca6e7b7",
+		"_rev": 1597727533351,
+		"id": 83,
+		"updateDate": 1597727525356
 	},
 	{
 		"enabled": true,
@@ -3135,7 +3137,80 @@
 		"name": "Patreon 2020 Dark Mode",
 		"originalDigest": "74887b12edd4ddfdd60215410f06a0258cc73a5d",
 		"_id": "720f2ae4-3b56-4c1f-9d76-727ebb95d3c0",
-		"_rev": 1597041658933,
+		"_rev": 1597727602012,
 		"id": 84
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/172391.json",
+		"md5Url": "https://update.userstyles.org/172391.md5",
+		"url": "http://userstyles.org/styles/172391",
+		"originalMd5": "58d3ccf55edef0770b06eca8aec333d1",
+		"installDate": 1588127352339,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [
+					"http://voice.google.com/",
+					"https://voice.google.com/"
+				],
+				"domains": [],
+				"regexps": [],
+				"code": ":root\r\n  {\r\n    --maincolor: #111;\r\n    --nav-sub: #01264d;\r\n    --header: #080809;\r\n    --nav-text: #395062;\r\n    --main-bg: #151515;\r\n    --white: #f6f6f7;\r\n    --error: #a80202;\r\n    --green: #02b74d;\r\n    --color001: #8f9190;\r\n    --color002: #ff7300;\r\n    --purple: #7602dd;\r\n    --purpledrk: #4a0171;\r\n    --hoverbg: #7901b72e;\r\n    --element: rgba(2, 89, 115, .39) !important;\r\n  }\r\n\r\n  ::-webkit-scrollbar\r\n  {\r\n    width: 0 !important;\r\n  }\r\n\r\n  img.gb_pa\r\n  {\r\n    content: url(http://icons.iconarchive.com/icons/danieledesantis/playstation-flat/64/playstation-circle-dark-icon.png);\r\n  }\r\n\r\n  .gb_ce\r\n  {\r\n    font-size: 32px !important;\r\n    padding-left: 15px !important;\r\n  }\r\n\r\n  .gb_B,.gb_sb\r\n  {\r\n    background: var(--nav-sub)!important;\r\n    color: var(--nav-text)!important;\r\n  }\r\n\r\n  .gb_sb .gb_tb\r\n  {\r\n    background: var(--maincolor)!important;\r\n    border: none;\r\n  }\r\n\r\n  .gb_kd.gb_Ic .gb_Ua, .gb_kd.gb_Ic .gb_Va, .gb_kd.gb_Ic .gb_B, .gb_Ic.gb_B\r\n  {\r\n    border-radius: 15px 15px 15px 15px;\r\n      \r\n  }\r\n\r\n\r\n\r\n\r\n/* All Items Using Main Background Color */\r\n\r\n  .gb_na:not(.gb_oa) .gb_Td, .layout-column, .root, .accountPhoneBanner, .YYoZ8c-VeKiLd, .wAp0Zd-H9tDt, .GYQtq-JjL0qc,\r\n\r\n.gmat-nav-list .gmat-nav-list-item.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item-ripple.gmat-list-item-active, .gmat-nav-list .BYjt6b-TJEFFc-DH6Rkf-rymPhb-ibnC6b.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item .mat-ripple-element, .gmat-nav-list .gmat-nav-list-item-ripple .mat-ripple-element, .gmat-nav-list .BYjt6b-TJEFFc-DH6Rkf-rymPhb-ibnC6b .mat-ripple-element, .BN08bf-H9tDt md-content.BN08bf-u9UW7e,\r\n\r\n.fFW7wc.XKSfm-Sx9Kwc-xJ5Hnf\r\n  {\r\n    background: var(--maincolor)!important;\r\n  }\r\n\r\n  .gb_Ze, .gb_0e\r\n  {\r\n    background: var(--element)!important;\r\n    box-shadow: 3px 3px 11px 2px #000000;\r\n    width: 25% !important;\r\n    transform: translate(100%,-15%);\r\n    border-radius: 0px 0px 15px 15px;\r\n  }\r\n\r\n\r\n\r\n\r\n/* Main text color */\r\n\r\n  .gvPageRoot .grey-900, .gb_na svg, .gb_Dc svg, .gb_6c .gb_ce, .gb_Qc .gb_ce, .BN08bf-H9tDt md-content.BN08bf-u9UW7e\r\n  {\r\n    color: var(--nav-text)!important;\r\n  }\r\n\r\n  input, .md-input\r\n  {\r\n    color: var(--error)!important;\r\n  }\r\n\r\n  .uM2Vn-VdSJob\r\n  {\r\n    color: var(--purpledrk)!important;\r\n  }\r\n\r\n  .gmat-nav-list-item.gmat-list-item-active .mat-icon svg,\r\n\r\n.gmat-nav-list .gmat-nav-list-item.gmat-list-item-active, .gmat-nav-list .gmat-nav-list-item.gmat-list-item-active .mat-icon\r\n  {\r\n    color: var(--purple)!important;\r\n  }\r\n\r\n\r\n/* Left hand list icons */\r\n\r\n  .gmat-nav-list .gmat-nav-list-item .mat-icon\r\n  {\r\n    color: #1aa3ff;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content\r\n  {\r\n    max-width: 2rem;\r\n    padding: .8rem;\r\n    background-color: #111;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content,\r\n.gmat-nav-list-reverse .gmat-nav-list-item\r\n  {\r\n    -webkit-box-shadow: 2px 5px 15px 7px #000000;\r\n    box-shadow: 2px 5px 15px 7px #000000;\r\n    height: 25px !important;\r\n    margin: 3rem 0;\r\n  }\r\n\r\n  .mat-list-base .mat-list-item .mat-list-item-content, .gmat-nav-list-reverse\r\n  {\r\n    box-shadow: none;\r\n  }\r\n\r\n  .navItemBadge\r\n  {\r\n    background: var(--error) !important;\r\n  }\r\n\r\n  .root[_ngcontent-xfw-c5]:not(.expanded) .gmat-nav-list-reverse .gmat-nav-list-item, .root[_ngcontent-xfw-c5]:not(.expanded) .gmat-nav-list-reverse .gmat-nav-list-item-ripple\r\n  {\r\n    background: var(--maincolor)!important;\r\n  }\r\n\r\n  .mat-divider\r\n  {\r\n    border-top-color: var(--maincolor)!important;\r\n  }\r\n\r\n  .A7jSV-YLEF4c\r\n  {\r\n    box-shadow: 3px 3px 11px 2px #000000, inset 5px 5px 15px 5px rgba(0,0,0,0.64);\r\n  }\r\n\r\n  .gmat-body-2:hover, .dOUild-H9tDt:focus, .rkljfb-gk6SMd,\r\n\r\n.rkljfb-Q4CtPe:hover\r\n  {\r\n    background: var(--hoverbg)!important;\r\n  }\r\n\r\n  .Bqxti-MJZihc.Bqxti-VCkuzd, .Bqxti-MJZihc.Bqxti-VCkuzd a\r\n  {\r\n    background-color: var(--element)!important;\r\n    color: rgba(255, 255, 255, .77) !important;\r\n  }\r\n\r\n  .Bqxti-VCkuzd, .Bqxti-VCkuzd a\r\n  {\r\n    color: hsla(197, 2%, 82%, .5) !important;\r\n    background-color: rgba(0, 0, 0, .3) !important;\r\n    border-radius: 3.5px;\r\n    background: linear-gradient(135deg, #15afce00 0%, #f4f4f421 50%, #15afce00 100%);\r\n    -webkit-box-shadow: 5px 5px 15px 1px #000000;\r\n  }\r\n\r\n  .gb_kf\r\n  {\r\n    border-color: var(--nav-text);\r\n  }\r\n\r\n\r\n\r\n\r\n.gb_ja{\r\n    \r\n    background: var(--maincolor)!important;\r\n}\r\n\r\n\r\n\r\n\r\n.gb_B, .gb_sb{\r\n    \r\n    background: var(--maincolor)!important;\r\n}\r\n\r\n\r\n\r\n.gb_Se{\r\n    background: var(--element)!important;\r\n    border-radius: 0px 0px 15px 15px;\r\n    width:25% !important;\r\n    transform: translate(100%, -25%);\r\n}\r\n\r\n\r\n.gb_ef{\r\n    border:none;\r\n    box-shadow: 5px 5px 15px 5px #000000;\r\n}\r\n\r\n\r\n\r\n.gb_Zc{\r\n    font-family: Tahoma, Geneva, sans-serif;\r\nfont-size: 50px;\r\nletter-spacing: 7px;\r\nword-spacing: 2px;\r\ncolor: #000000;\r\nfont-weight: normal;\r\ntext-decoration: line-through solid rgb(68, 68, 68);\r\nfont-style: normal;\r\nfont-variant: normal;\r\ntext-transform: UPPERCASE;\r\n    transform: translate(10px,0);\r\n    text-shadow: 5px 5px 5px #000000;\r\n}\r\n\r\n\r\nimg.gb_la{\r\n    width: 25px !important;\r\n    height: 25px !important;\r\n    border-radius: 50%;\r\n    \r\n}"
+			}
+		],
+		"name": "Dark Materialized Google Voice June 2019",
+		"originalDigest": "8039fbad0ff3eda80940d134df832c09a97840b0",
+		"_id": "1b06a587-cd50-4f9d-9784-7544741837ea",
+		"_rev": 1597727602012,
+		"id": 85
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/131676.json",
+		"md5Url": "https://update.userstyles.org/131676.md5",
+		"url": "http://userstyles.org/styles/131676",
+		"originalMd5": "5ef9e117865cd09d96c26bc2746e3c91",
+		"installDate": 1588267107818,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"msdn.microsoft.com"
+				],
+				"regexps": [],
+				"code": "/* Background color for everything except footer */\r\n    body {\r\n        color: #dcdcdc;\r\n        background-color: #1e1e1e;\r\n\t\tbackground-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAgMAAAANjH3HAAAACVBMVEUaGhohISElJSUh9lebAAAB20lEQVRIx4XWuZXDMAwE0C0SAQtggIIYoAAEU+aKOHhYojTrYP2+QfOW/5QIJOih/q8HwF/pb3EX+UPIveYcQGgEHiu9hI+ihEc5Jz5KBIlRRRaJ1JtoSAl5Hw96hLB1/up1tnIXOck5jZQy+3iU2hAOKSH1JvwxHsp+5TLF5MOl1/MQXsVs1miXc+KDbYydyMeUgpPQreZ7fWidbNhkXNJSeAhc6qHmHD8AYovunYyEACWEbyIhNeB9fRrH3hFi0bGPLuEW7xCNaohw1vAlS805nfsrTspclB/hVdoqusg53eH7FWot+wjYpOViX8KbFFKTwlnzvj65P9H/vD0/hibYBGhPwlPO8TmxRsaxsNnrUmUXpNhirlJMPr6Hqq9k5Xn/8iYQHYIuQsWFC6Z87IOxLxHphSY4SpuiU87xJnJr5axfeRd+lnMExXpEWPpuZ1v7qZdNBOjiHzDREHX5fs5Zz9p6X0vVKbKKchlSl5rv+3p//FJ/PYvoKryI8vs+2G9lzRmnEKkh+BU8yDk515jDj/HAswu7CCz6U/Mxb/PnC9N41ndpU4hUU7JGk/C9PmP/M2xZYdvBW2PObyf1IUiIzoHmHW9yTncliYs9A9tVNppdShfgQaTLMf+j3X723tLeHgAAAABJRU5ErkJggg==) !important;\r\n    }\r\n\r\n    /* Normal text */\r\n    p {\r\n        color: #dcdcdc;\r\n    }\r\n\r\n    /* Main header */\r\n    h1, h1.title, .topic h1.title {\r\n        color: #ffffff;\r\n    }\r\n\r\n    /* Collapsible headers */\r\n    h1.heading, h2, h2.heading, h2.subheading, h3, h3.subheading, h4, h4.subheading, h5, h5.subheading, .LW_CollapsibleArea_Title {\r\n        color: #ffffff\r\n    }\r\n\r\n    /* Triangles */\r\n    .cl_CollapsibleArea_expanding {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAMCAIAAAA/PgD0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAAA9SURBVChTrclJEQAgDANAlGCizqKnXksYGM7wY7+b8tv3MzN97g5AHCMixLUQN4K2W4PmHUH97qB6MghAAclug7wgVoWFAAAAAElFTkSuQmCC') no-repeat scroll;\r\n    }\r\n\r\n    .cl_CollapsibleArea_collapsing {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAMCAIAAAA/PgD0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAACDSURBVChTY5DDDRgWL15sbGwM5aEChv///3/48KG7u1tVVRUqBgMgOQh49OhRfn4+VBgMEHIQcPHixaCgIOxyELBlyxZ9fX0scrdv305MTETX9/bt29raWkVFRRQzv3//PnXqVB0dHYgoBIDkNm7caGtrCxVAAgz+/v5QJgbAHWZycgDw4Y1P0FYkEQAAAABJRU5ErkJggg==') no-repeat scroll;\r\n    }\r\n    /* End: Collapsible headers */\r\n\r\n    /* Version of .NET framework under the main header */\r\n    #curversion {\r\n        color: #6e6e6e;\r\n    }\r\n\r\n    /* Links */\r\n    .topic a, .topic a:link {\r\n        color: #569CD6\r\n    }\r\n\r\n    /* Navigation links */\r\n    div#leftNav a, div#leftNav a:link, div#leftNav a:visited {\r\n        color: #569CD6\r\n    }\r\n\r\n    /* Expanded navigation section */\r\n    .toc_expanded {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAABGSURBVDhPY5AjHYwwPRoaGmZmZlAODODTA9Rw6tSpsLAwKB8GcOqBaPj//z+xeuAaiNWDrAEICOtB0wAEJPgHDxjVIycHADyYjlHnj01oAAAAAElFTkSuQmCC') no-repeat scroll\r\n    }\r\n\r\n    /* Collapsed navigation section */\r\n    .toc_collapsed {\r\n        background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuM4zml1AAAABxSURBVDhPY5AjHYwAPYmJibW1tYqKilA+BsCip6io6P///7dv3wZqhgqhApx6IODw4cMeHh5QCRggoAcINm7cqKqqCpUDA3x6Ll68GBQUBBVFAtj1PHv2LD8/H8rHAFj0mJmZoTkGDWDRQxAMLz1ycgC4PZRsBb4BMQAAAABJRU5ErkJggg==') no-repeat scroll\r\n    }\r\n\r\n    /* Current navigation section */\r\n    div#tocnav > div.current > a, div#tocnav > div.current > a:link, div#tocnav > div.current > a:hover, div#tocnav > div.current > a:focus, div#tocnav > div.current > a:visited {\r\n        color: #ffffff;\r\n    }\r\n\r\n    /* Description of members of a class */\r\n    td {\r\n        color: #dcdcdc;\r\n    }\r\n\r\n    /* Ordinary code color */\r\n    [style*=\"Black\"] {\r\n        color: #8AA !important;\r\n    }\r\n    \r\n    /* Keywords */\r\n    [style*=\"Blue\"] {\r\n        color: #569cd6 !important;\r\n    }\r\n    \r\n    /* Comments */\r\n    [style*=\"Green\"] {\r\n        color: #57a64a !important;\r\n    }\r\n    \r\n    /* String literals */\r\n    [style*=\"A31515\"] {\r\n        color: #d69d85 !important;\r\n    }\r\n\r\n    /* Inline code */\r\n    /* The color of user types in VS2013 */\r\n    .code {\r\n        color: #4ec9b0 !important;\r\n    }\r\n\r\n.shell-category-header.cat-theme-blue {\r\n    background-color: #111;\r\n}\r\n\r\n.stdr-content.stdr-vote {\r\n \tbackground-color: #111;   \r\n}\r\n\r\na:visited, a:active {\r\n    color: #FFF !important;\r\n    font-weight: bolder !important;\r\n}\r\n\r\nspan {\r\n\tcolor: #AAA;\r\n}\r\n\r\ndiv.alert {\r\n    background-color: #555;\r\n    border-radius: 5px;\r\n}\r\n\r\ndiv#tocnav div.tocselected {\r\n    background-color: #000;\r\n    border-left: 3px solid #fff;\r\n}\r\n\r\n.shell-category-header.cat-theme-blue .shell-category-nav-featured .c-nav-link {\r\n    background-color: #000;\r\n}\r\n\r\n.shell-header {\r\n display: none;   \r\n}\r\n\r\nh2 {\r\n    font-family: Courier New,sans-serif;\r\n    font-weight: bold;\r\n    color: #F99!important;\r\n}\r\n\r\ndt {\r\n    color: #696;\r\n    font-weight: bold;\r\n}\r\n\r\n.codeSnippetContainerCode {\r\n\tbackground-color: rgba(0, 43, 54, 0.65);    \r\n}\r\n\r\n.codeSnippetContainerTabSingle {\r\n    background-color: #222;\r\n}\r\n\r\n.topic a, .topic a:link {\r\n    color: #74A5AA;\r\n}\r\n\r\n#footerContainer, #baseFooter, .shell-footer {\r\n    background-color: #111;\r\n}\r\n\r\n/* Background color for everything except footer */\r\n    .inner {\r\n        color: #dcdcdc;\r\n        background-color: #1e1e1e;\r\n\t\tbackground-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAgMAAAANjH3HAAAACVBMVEUaGhohISElJSUh9lebAAAB20lEQVRIx4XWuZXDMAwE0C0SAQtggIIYoAAEU+aKOHhYojTrYP2+QfOW/5QIJOih/q8HwF/pb3EX+UPIveYcQGgEHiu9hI+ihEc5Jz5KBIlRRRaJ1JtoSAl5Hw96hLB1/up1tnIXOck5jZQy+3iU2hAOKSH1JvwxHsp+5TLF5MOl1/MQXsVs1miXc+KDbYydyMeUgpPQreZ7fWidbNhkXNJSeAhc6qHmHD8AYovunYyEACWEbyIhNeB9fRrH3hFi0bGPLuEW7xCNaohw1vAlS805nfsrTspclB/hVdoqusg53eH7FWot+wjYpOViX8KbFFKTwlnzvj65P9H/vD0/hibYBGhPwlPO8TmxRsaxsNnrUmUXpNhirlJMPr6Hqq9k5Xn/8iYQHYIuQsWFC6Z87IOxLxHphSY4SpuiU87xJnJr5axfeRd+lnMExXpEWPpuZ1v7qZdNBOjiHzDREHX5fs5Zz9p6X0vVKbKKchlSl5rv+3p//FJ/PYvoKryI8vs+2G9lzRmnEKkh+BU8yDk515jDj/HAswu7CCz6U/Mxb/PnC9N41ndpU4hUU7JGk/C9PmP/M2xZYdvBW2PObyf1IUiIzoHmHW9yTncliYs9A9tVNppdShfgQaTLMf+j3X723tLeHgAAAABJRU5ErkJggg==) !important;\r\n    }\r\n\r\nli.message {\r\n    background-color: transparent;\r\n}\r\n\r\ndiv.menu.message\r\n{\r\n\tbackground-color: transparent !important;\r\n}"
+			}
+		],
+		"name": "MSDN Dark / Solarized Dark",
+		"originalDigest": "e73bc4e8356d1f3721b67669599e0a3c29ae5e4b",
+		"_id": "ac96adeb-bb68-4111-bf34-c03895d68f7b",
+		"_rev": 1597727602012,
+		"id": 86
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/185929.json",
+		"md5Url": "https://update.userstyles.org/185929.md5",
+		"url": "http://userstyles.org/styles/185929",
+		"originalMd5": "14a144b51091ffd81fad43d28864162f",
+		"installDate": 1594653713056,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"www.twitlonger.com"
+				],
+				"regexps": [],
+				"code": "body {\r\n    background: #121212;\r\n    color: #CCC;\r\n}\r\n.navbar {\r\n    background: #00000095;\r\n    box-shadow: none;\r\n    border-bottom: 2px solid #00000050;\r\n}\r\n.navbar-brand {\r\n    text-shadow: none;\r\n}\r\n.media-body {\r\n    color: #FFF;\r\n}\r\n#timeclient {\r\n    color: #CCC;\r\n}\r\n#postinfo, #postcontent, #footer {\r\n    box-shadow: none;\r\n    background: #222;\r\n    color: #CCC;\r\n    padding: 0.5em 1em;\r\n    border: 1px solid #333;\r\n}\r\n#postinfo {\r\n    margin-bottom: 5px;\r\n}"
+			}
+		],
+		"name": "TwitLonger Material Dark",
+		"originalDigest": "e39d412ebac7c47ed1da706bc8d73abe4e4ac509",
+		"_id": "18f6b06a-39a7-4c1b-a5cd-13bb2f188c3a",
+		"_rev": 1597727602012,
+		"id": 87
 	}
 ]
