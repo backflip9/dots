@@ -1,0 +1,584 @@
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>-16777194
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>65535
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>869764
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16777215
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+FieldEditor_Set<|||>3<|||>1
+LastSessions<|||>1<|||>hr-tun
+LastActiveSession<|||>1<|||>hr-tun
+ColWidths_frmTableEditor.listColumns<|||>1<|||>54,100,90,90,60,65,50,100,130,100,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+GroupTreeObjects<|||>3<|||>1
+MainWinMaximized<|||>3<|||>1
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>297,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>1
+sqloutheight<|||>3<|||>272
+FieldColor_Numeric<|||>3<|||>-16777203
+MemoEditorWidth<|||>3<|||>723
+MemoEditorHeight<|||>3<|||>387
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,394,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+CopyTable_Data<|||>3<|||>1
+DateTimeEditor_CursorPos_Type4<|||>3<|||>19
+SessionManager_WindowLeft<|||>3<|||>-935
+SessionManager_WindowTop<|||>3<|||>259
+dbtreewidth<|||>3<|||>245
+querymemoheight<|||>3<|||>229
+queryhelperswidth<|||>3<|||>317
+LogToFile<|||>3<|||>1
+logsqlwidth<|||>3<|||>0
+logsqlnum<|||>3<|||>5000
+FindDialogSearchHistory<|||>1<|||>140<{{{><}}}>Node<{{{><}}}>
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Real<|||>3<|||>16711752
+MainWinLeft<|||>3<|||>0
+MainWinWidth<|||>3<|||>960
+MainWinHeight<|||>3<|||>1080
+MainWinTop<|||>3<|||>0
+UpdatecheckLastrun<|||>1<|||>2020-11-26 10:12:18
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+Theme<|||>1<|||>Windows
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Other<|||>3<|||>32896
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Text<|||>3<|||>32768
+LastUsageStatisticCall<|||>1<|||>2020-11-10 07:09:09
+SQLFile0<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-11-19_13-06-55-255.sql
+SQLFile1<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-09-14_11-35-25-944.sql
+SQLFile2<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-06-28_20-23-55-757.sql
+SQLFile3<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-06-03_14-52-44-839.sql
+SQLFile4<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-05-25_00-35-29-407.sql
+SQLFile5<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-05-22_10-57-43-058.sql
+SQLFile6<|||>1<|||>C:\Users\liam\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-05-22_10-05-52-795.sql
+Servers\droplet\SessionCreated<|||>1<|||>2020-07-18 12:33:52
+Servers\droplet\Host<|||>1<|||>127.0.0.1
+Servers\droplet\WindowsAuth<|||>3<|||>0
+Servers\droplet\CleartextPluginEnabled<|||>3<|||>0
+Servers\droplet\User<|||>1<|||>backflip
+Servers\droplet\Password<|||>1<|||>504F4D4E6C3C527B5B4A807E545D4A73407E7F419
+Servers\droplet\LoginPrompt<|||>3<|||>0
+Servers\droplet\Port<|||>1<|||>3311
+Servers\droplet\NetType<|||>3<|||>0
+Servers\droplet\Compressed<|||>3<|||>0
+Servers\droplet\LocalTimeZone<|||>3<|||>0
+Servers\droplet\QueryTimeout<|||>3<|||>30
+Servers\droplet\KeepAlive<|||>3<|||>20
+Servers\droplet\FullTableStatus<|||>3<|||>1
+Servers\droplet\Databases<|||>1<|||>
+Servers\droplet\Library<|||>1<|||>libmariadb.dll
+Servers\droplet\Comment<|||>1<|||>
+Servers\droplet\StartupScriptFilename<|||>1<|||>
+Servers\droplet\TreeBackground<|||>3<|||>536870911
+Servers\droplet\SSHtunnelHost<|||>1<|||>
+Servers\droplet\SSHtunnelHostPort<|||>3<|||>22
+Servers\droplet\SSHtunnelUser<|||>1<|||>
+Servers\droplet\SSHtunnelPassword<|||>1<|||>3
+Servers\droplet\SSHtunnelTimeout<|||>3<|||>4
+Servers\droplet\SSHtunnelPrivateKey<|||>1<|||>
+Servers\droplet\SSHtunnelPort<|||>3<|||>3307
+Servers\droplet\SSL_Active<|||>3<|||>0
+Servers\droplet\SSL_Key<|||>1<|||>
+Servers\droplet\SSL_Cert<|||>1<|||>
+Servers\droplet\SSL_CA<|||>1<|||>
+Servers\droplet\SSL_Cipher<|||>1<|||>
+Servers\droplet\RefusedCount<|||>3<|||>4
+Servers\droplet\ServerVersionFull<|||>1<|||>10.1.44-MariaDB-0+deb9u1 - Debian 9.11
+Servers\droplet\ConnectCount<|||>3<|||>2
+Servers\droplet\ServerVersion<|||>3<|||>100144
+Servers\droplet\LastConnect<|||>1<|||>2020-07-20 02:51:37
+Servers\droplet\lastUsedDB<|||>1<|||>memcached_test
+Servers\hr-tun\SessionCreated<|||>1<|||>2020-04-26 20:34:47
+Servers\hr-tun\Host<|||>1<|||>127.0.0.1
+Servers\hr-tun\WindowsAuth<|||>3<|||>0
+Servers\hr-tun\CleartextPluginEnabled<|||>3<|||>0
+Servers\hr-tun\User<|||>1<|||>backflip
+Servers\hr-tun\Password<|||>1<|||>4E4D4B4C6A3A507959487E7C525B48713E7C7D3F7
+Servers\hr-tun\LoginPrompt<|||>3<|||>0
+Servers\hr-tun\Port<|||>1<|||>3309
+Servers\hr-tun\NetType<|||>3<|||>0
+Servers\hr-tun\Compressed<|||>3<|||>0
+Servers\hr-tun\LocalTimeZone<|||>3<|||>0
+Servers\hr-tun\QueryTimeout<|||>3<|||>30
+Servers\hr-tun\KeepAlive<|||>3<|||>20
+Servers\hr-tun\FullTableStatus<|||>3<|||>1
+Servers\hr-tun\Databases<|||>1<|||>
+Servers\hr-tun\Library<|||>1<|||>libmariadb.dll
+Servers\hr-tun\Comment<|||>1<|||>
+Servers\hr-tun\StartupScriptFilename<|||>1<|||>
+Servers\hr-tun\TreeBackground<|||>3<|||>536870911
+Servers\hr-tun\SSHtunnelHost<|||>1<|||>
+Servers\hr-tun\SSHtunnelHostPort<|||>3<|||>22
+Servers\hr-tun\SSHtunnelUser<|||>1<|||>
+Servers\hr-tun\SSHtunnelPassword<|||>1<|||>6
+Servers\hr-tun\SSHtunnelTimeout<|||>3<|||>4
+Servers\hr-tun\SSHtunnelPrivateKey<|||>1<|||>
+Servers\hr-tun\SSHtunnelPort<|||>3<|||>3307
+Servers\hr-tun\SSL_Active<|||>3<|||>0
+Servers\hr-tun\SSL_Key<|||>1<|||>
+Servers\hr-tun\SSL_Cert<|||>1<|||>
+Servers\hr-tun\SSL_CA<|||>1<|||>
+Servers\hr-tun\SSL_Cipher<|||>1<|||>
+Servers\hr-tun\RefusedCount<|||>3<|||>31
+Servers\hr-tun\ServerVersionFull<|||>1<|||>10.1.44-MariaDB-0+deb9u1 - Debian 9.11
+Servers\hr-tun\ConnectCount<|||>3<|||>208
+Servers\hr-tun\ServerVersion<|||>3<|||>100144
+Servers\hr-tun\LastConnect<|||>1<|||>2020-11-26 10:12:29
+Servers\hr-tun\lastUsedDB<|||>1<|||>hr_prod
+Servers\hr-tun\haloruns_test|coop_teams\Filter<|||>1<|||>id = '2052'
+Servers\hr-tun\haloruns_test|coop_teams\RecentFilters\1<|||>1<|||>id = '2052'
+Servers\hr-tun\haloruns_test|times_view\Filter<|||>1<|||>id = '57954'
+Servers\hr-tun\haloruns_test|times_view\RecentFilters\1<|||>1<|||>id = '57954'
+Servers\hr-tun\haloruns_test|times_view\RecentFilters\2<|||>1<|||>id = '45304'
+Servers\hr-tun\haloruns_test|times_view\RecentFilters\3<|||>1<|||>category = '4101'
+Servers\hr-tun\haloruns_test|times_view\RecentFilters\4<|||>1<|||>id = '47861'
+Servers\hr-tun\hr_prod|activation_codes\Sort<|||>1<|||>1_user_id|
+Servers\hr-tun\hr_prod|audit\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|audit_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|audit_view\RecentFilters\1<|||>1<|||>user_id = '549'
+Servers\hr-tun\hr_prod|audit_view\RecentFilters\2<|||>1<|||>username = 'Krunk'
+Servers\hr-tun\hr_prod|audit_view\RecentFilters\3<|||>1<|||>username IN ('A_Concerned_Froge')
+Servers\hr-tun\hr_prod|coop_teams\Filter<|||>1<|||>id = '1292'
+Servers\hr-tun\hr_prod|coop_teams\RecentFilters\1<|||>1<|||>id = '1292'
+Servers\hr-tun\hr_prod|flags\Filter<|||>1<|||>iso = 'ge'
+Servers\hr-tun\hr_prod|flags\RecentFilters\1<|||>1<|||>iso = 'ge'
+Servers\hr-tun\hr_prod|flags\RecentFilters\2<|||>1<|||>iso = 'rw'
+Servers\hr-tun\hr_prod|levels\Filter<|||>1<|||>name LIKE '%armory%'
+Servers\hr-tun\hr_prod|levels\RecentFilters\1<|||>1<|||>name LIKE '%armory%'
+Servers\hr-tun\hr_prod|levels\RecentFilters\2<|||>1<|||>game = '4'
+Servers\hr-tun\hr_prod|points_aggregate\Sort<|||>1<|||>1_user_id|
+Servers\hr-tun\hr_prod|times\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|times\Filter<|||>1<|||>game = '2' AND is_coop IN ('1') AND difficulty = '1'
+Servers\hr-tun\hr_prod|times\RecentFilters\21<|||>1<|||>id = '63504'
+Servers\hr-tun\hr_prod|times\RecentFilters\1<|||>1<|||>game = '2' AND is_coop IN ('1') AND difficulty = '1'
+Servers\hr-tun\hr_prod|times\RecentFilters\2<|||>1<|||>game = '2' AND is_coop IN ('1')
+Servers\hr-tun\hr_prod|times\RecentFilters\3<|||>1<|||>is_coop IN ('1')
+Servers\hr-tun\hr_prod|times\RecentFilters\4<|||>1<|||>game = '2'
+Servers\hr-tun\hr_prod|times\RecentFilters\5<|||>1<|||>id = '65583'
+Servers\hr-tun\hr_prod|times\RecentFilters\6<|||>1<|||>id = '3132'
+Servers\hr-tun\hr_prod|times\RecentFilters\7<|||>1<|||>id = '56477'
+Servers\hr-tun\hr_prod|times\RecentFilters\8<|||>1<|||>id = '56503'
+Servers\hr-tun\hr_prod|times\RecentFilters\9<|||>1<|||>id = '65391'
+Servers\hr-tun\hr_prod|times\RecentFilters\10<|||>1<|||>id = '58282'
+Servers\hr-tun\hr_prod|times\RecentFilters\11<|||>1<|||>id IN ('65214', '65212')
+Servers\hr-tun\hr_prod|times\RecentFilters\12<|||>1<|||>id IN ('65075', '65212')
+Servers\hr-tun\hr_prod|times\RecentFilters\13<|||>1<|||>id = '57615'
+Servers\hr-tun\hr_prod|times\RecentFilters\14<|||>1<|||>id IN('61453', '58997')
+Servers\hr-tun\hr_prod|times\RecentFilters\15<|||>1<|||>id = '62147'
+Servers\hr-tun\hr_prod|times\RecentFilters\16<|||>1<|||>id = '49759'
+Servers\hr-tun\hr_prod|times\RecentFilters\17<|||>1<|||>id = '61453'
+Servers\hr-tun\hr_prod|times\RecentFilters\18<|||>1<|||>id = '63682'
+Servers\hr-tun\hr_prod|times\RecentFilters\19<|||>1<|||>id = '60408'
+Servers\hr-tun\hr_prod|times\RecentFilters\20<|||>1<|||>id = '51459'
+Servers\hr-tun\hr_prod|times_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|times_view\Filter<|||>1<|||>id > 64897 AND approved_by IS NOT NULL
+Servers\hr-tun\hr_prod|times_view\RecentFilters\21<|||>1<|||>id = '62122'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\1<|||>1<|||>id > 64897 AND approved_by IS NOT NULL
+Servers\hr-tun\hr_prod|times_view\RecentFilters\2<|||>1<|||>approved_by IS NOT NULL
+Servers\hr-tun\hr_prod|times_view\RecentFilters\3<|||>1<|||>category IN ('8205')
+Servers\hr-tun\hr_prod|times_view\RecentFilters\4<|||>1<|||>id = '65583'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\5<|||>1<|||>vid = 'https://www.youtube.com/watch?v=9U-9dehGv0Q'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\6<|||>1<|||>id IN ('65214', '65212')
+Servers\hr-tun\hr_prod|times_view\RecentFilters\7<|||>1<|||>id IN ('65075', '65212')
+Servers\hr-tun\hr_prod|times_view\RecentFilters\8<|||>1<|||>id IN ('65075')
+Servers\hr-tun\hr_prod|times_view\RecentFilters\9<|||>1<|||>id = '65075'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\10<|||>1<|||>id IN('57782', '57615')
+Servers\hr-tun\hr_prod|times_view\RecentFilters\11<|||>1<|||>id = '57782'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\12<|||>1<|||>id = '63826'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\13<|||>1<|||>id = '50942'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\14<|||>1<|||>id = '15763'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\15<|||>1<|||>id = '51459'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\16<|||>1<|||>id = '32792'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\17<|||>1<|||>id = '63504'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\18<|||>1<|||>id = '63254'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\19<|||>1<|||>id = '63246'
+Servers\hr-tun\hr_prod|times_view\RecentFilters\20<|||>1<|||>id = '63293'
+Servers\hr-tun\hr_prod|userMail\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|users\Sort<|||>1<|||>0_ip|
+Servers\hr-tun\hr_prod|users\Filter<|||>1<|||>username = 'TipsyLathes'
+Servers\hr-tun\hr_prod|users\RecentFilters\21<|||>1<|||>id = '3246'
+Servers\hr-tun\hr_prod|users\RecentFilters\1<|||>1<|||>username = 'TipsyLathes'
+Servers\hr-tun\hr_prod|users\RecentFilters\2<|||>1<|||>username = 'Jangoosed'
+Servers\hr-tun\hr_prod|users\RecentFilters\3<|||>1<|||>username = 'onlyontuesdays'
+Servers\hr-tun\hr_prod|users\RecentFilters\4<|||>1<|||>username = 'Backflip'
+Servers\hr-tun\hr_prod|users\RecentFilters\5<|||>1<|||>username = 'Wackee'
+Servers\hr-tun\hr_prod|users\RecentFilters\6<|||>1<|||>username = 'Koskar63'
+Servers\hr-tun\hr_prod|users\RecentFilters\7<|||>1<|||>id = '183'
+Servers\hr-tun\hr_prod|users\RecentFilters\8<|||>1<|||>username = 'GarishGoblin'
+Servers\hr-tun\hr_prod|users\RecentFilters\9<|||>1<|||>gamertag = 'KeyOsprey814473'
+Servers\hr-tun\hr_prod|users\RecentFilters\10<|||>1<|||>username = 'Nightrider1216'
+Servers\hr-tun\hr_prod|users\RecentFilters\11<|||>1<|||>username = 'burnt'
+Servers\hr-tun\hr_prod|users\RecentFilters\12<|||>1<|||>twitch = 'eggplanthydra53'
+Servers\hr-tun\hr_prod|users\RecentFilters\13<|||>1<|||>id = '18'
+Servers\hr-tun\hr_prod|users\RecentFilters\14<|||>1<|||>username = 'RoyalEggplant53'
+Servers\hr-tun\hr_prod|users\RecentFilters\15<|||>1<|||>discord = 'RoyalEggplant53#4065'
+Servers\hr-tun\hr_prod|users\RecentFilters\16<|||>1<|||>discord = 'RoyalEggplant53\r\n#4065'
+Servers\hr-tun\hr_prod|users\RecentFilters\17<|||>1<|||>discord = 'Cosmo#8247'
+Servers\hr-tun\hr_prod|users\RecentFilters\18<|||>1<|||>discord = 'Cosmo\r\n#8247'
+Servers\hr-tun\hr_prod|users\RecentFilters\19<|||>1<|||>discord = 'Fallenultima#1641'
+Servers\hr-tun\hr_prod|users\RecentFilters\20<|||>1<|||>discord = 'Fallenultima\r\n#1641'
+Servers\hr-tun\hr_prod|user_ip\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|user_ip_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_prod|user_ip_view\Filter<|||>1<|||>username = 'Firebanche'
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\1<|||>1<|||>username = 'Firebanche'
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\2<|||>1<|||>username = 'Googlehupf'
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\3<|||>1<|||>username = 'Cosmo'
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\4<|||>1<|||>username IN ('Seclusive')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\5<|||>1<|||>username IN ('AlexGodier')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\6<|||>1<|||>username IN ('IWCry')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\7<|||>1<|||>username IN ('VyPr')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\8<|||>1<|||>ip_string IN ('195.206.104.238')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\9<|||>1<|||>ip_string IN ('202.7.205.133')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\10<|||>1<|||>ip_string IN ('71.237.17.225')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\11<|||>1<|||>ip_string IN ('103.217.166.50')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\12<|||>1<|||>ip_string = '68.53.112.151'
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\13<|||>1<|||>username IN ('HD')
+Servers\hr-tun\hr_prod|user_ip_view\RecentFilters\14<|||>1<|||>username = 'Danos'
+Servers\hr-tun\hr_test|audit\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_test|audit_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_test|coop_teams\Filter<|||>1<|||>id = '1222'
+Servers\hr-tun\hr_test|coop_teams\RecentFilters\1<|||>1<|||>id = '1222'
+Servers\hr-tun\hr_test|levels\RecentFilters\1<|||>1<|||>name = 'The Armory'
+Servers\hr-tun\hr_test|levels\RecentFilters\2<|||>1<|||>game = '2'
+Servers\hr-tun\hr_test|levels\RecentFilters\3<|||>1<|||>id = '11'
+Servers\hr-tun\hr_test|levels\RecentFilters\4<|||>1<|||>game = '8'
+Servers\hr-tun\hr_test|levels\RecentFilters\5<|||>1<|||>game = '4'
+Servers\hr-tun\hr_test|levels\RecentFilters\6<|||>1<|||>abbreviated = 'oracle'
+Servers\hr-tun\hr_test|levels5\Filter<|||>1<|||>name LIKE '%armory%'
+Servers\hr-tun\hr_test|levels5\RecentFilters\1<|||>1<|||>name LIKE '%armory%'
+Servers\hr-tun\hr_test|levels5\RecentFilters\2<|||>1<|||>name = 'armory'
+Servers\hr-tun\hr_test|password_resets\RecentFilters\1<|||>1<|||>token = 'dmccluskey98@gmail.com'
+Servers\hr-tun\hr_test|times\Sort<|||>1<|||>1_id|
+Servers\hr-tun\hr_test|times\Filter<|||>1<|||>id = '63643'
+Servers\hr-tun\hr_test|times\RecentFilters\1<|||>1<|||>id = '63643'
+Servers\hr-tun\hr_test|times\RecentFilters\2<|||>1<|||>id = '63504'
+Servers\hr-tun\hr_test|times\RecentFilters\3<|||>1<|||>id = '60218'
+Servers\hr-tun\hr_test|times\RecentFilters\4<|||>1<|||>id = '25203'
+Servers\hr-tun\hr_test|times\RecentFilters\5<|||>1<|||>id = '10866'
+Servers\hr-tun\hr_test|times\RecentFilters\6<|||>1<|||>id = '60215'
+Servers\hr-tun\hr_test|times\RecentFilters\7<|||>1<|||>id = '60214'
+Servers\hr-tun\hr_test|times\RecentFilters\8<|||>1<|||>id = '55222'
+Servers\hr-tun\hr_test|times\RecentFilters\9<|||>1<|||>id = '60212'
+Servers\hr-tun\hr_test|times\RecentFilters\10<|||>1<|||>id = '60202'
+Servers\hr-tun\hr_test|times_view\Filter<|||>1<|||>id = '48155'
+Servers\hr-tun\hr_test|times_view\RecentFilters\1<|||>1<|||>id = '48155'
+Servers\hr-tun\hr_test|times_view\RecentFilters\2<|||>1<|||>id = '47878'
+Servers\hr-tun\hr_test|times_view\RecentFilters\3<|||>1<|||>p2_id = '2566'
+Servers\hr-tun\hr_test|times_view\RecentFilters\4<|||>1<|||>id = '47758'
+Servers\hr-tun\hr_test|times_view\RecentFilters\5<|||>1<|||>id = '47757'
+Servers\hr-tun\hr_test|times_view\RecentFilters\6<|||>1<|||>category = '8213'
+Servers\hr-tun\hr_test|times_view\RecentFilters\7<|||>1<|||>id = '60218'
+Servers\hr-tun\hr_test|times_view\RecentFilters\8<|||>1<|||>id = '60217'
+Servers\hr-tun\hr_test|times_view\RecentFilters\9<|||>1<|||>id = '10866'
+Servers\hr-tun\hr_test|times_view\RecentFilters\10<|||>1<|||>id = '60212'
+Servers\hr-tun\hr_test|times_view\RecentFilters\11<|||>1<|||>id = '60206'
+Servers\hr-tun\hr_test|users\Filter<|||>1<|||>username = 'Backflip'
+Servers\hr-tun\hr_test|users\RecentFilters\1<|||>1<|||>username = 'Backflip'
+Servers\hr-tun\hr_test|users\RecentFilters\2<|||>1<|||>username = 'wackee'
+Servers\hr-tun\hr_test|users\RecentFilters\3<|||>1<|||>username = 'GarishGoblin'
+Servers\hr-tun\hr_test|users\RecentFilters\4<|||>1<|||>username = 'Renegade_XV'
+Servers\hr-tun\hr_test|users\RecentFilters\5<|||>1<|||>username = 'byNailz'
+Servers\hr-tun\hr_test|users\RecentFilters\6<|||>1<|||>username = 'AuntinaEchoes'
+Servers\hr-tun\hr_test|users\RecentFilters\7<|||>1<|||>username = 'danos'
+Servers\hr-tun\hr_test|users\RecentFilters\8<|||>1<|||>username = 'yeVcM'
+Servers\hr-tun\hr_test|users\RecentFilters\9<|||>1<|||>username = 'A_Concerned_Froge'
+Servers\hr-tun\hr_test|users\RecentFilters\10<|||>1<|||>username = 'hd'
+Servers\hr-tun\QueryHistory\42<|||>1<|||>2020-10-23 21:44:31|hr_prod|47|SELECT user_id, COUNT(*) as idcount FROM user_ip GROUP BY user_id ORDER BY idcount DESC 
+Servers\hr-tun\QueryHistory\14<|||>1<|||>2020-10-23 21:45:39|hr_prod|281|SELECT COUNT(*) FROM user_ip
+Servers\hr-tun\QueryHistory\17<|||>1<|||>2020-11-19 20:14:13|hr_prod|15|SELECT COUNT(*) FROM times_view WHERE id > 64897 AND approved_by IS NOT NULL
+Servers\hr-tun\QueryHistory\1<|||>1<|||>2020-11-20 10:06:55|hr_prod|32|SELECT u1.username AS verifier_username, COUNT(*) AS idcount FROM times_view left JOIN users u1 ON u1.id = times_view.approved_by WHERE times_view.id > 64897 AND approved_by IS NOT NULL
+Servers\hr-tun\QueryHistory\2<|||>1<|||>2020-11-20 10:07:20|hr_prod|31|SELECT u1.username AS verifier_username, COUNT(*) AS idcount FROM times_view left JOIN users u1 ON u1.id = times_view.approved_by WHERE times_view.id > 64897 AND approved_by IS NOT NULL GROUP BY times_view.approved_by
+Servers\hr-tun\scorpion_rewrite_deploy|audit_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\scorpion_rewrite_deploy|coop_teams\RecentFilters\1<|||>1<|||>id = '2052'
+Servers\hr-tun\scorpion_rewrite_deploy|points_aggregate_view\Filter<|||>1<|||>username = 'wolfy'
+Servers\hr-tun\scorpion_rewrite_deploy|points_aggregate_view\RecentFilters\1<|||>1<|||>username = 'wolfy'
+Servers\hr-tun\scorpion_rewrite_deploy|preserved_data_tables\Sort<|||>1<|||>0_name|
+Servers\hr-tun\scorpion_rewrite_deploy|times\Sort<|||>1<|||>1_id|
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\1<|||>1<|||>approvedBy = 'jangoosed'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\2<|||>1<|||>approvedBy = ''
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\3<|||>1<|||>id = '53914'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\4<|||>1<|||>id = '58164'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\5<|||>1<|||>approvedBy LIKE '%Denied%'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\6<|||>1<|||>abtest LIKE '%Denied%'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\7<|||>1<|||>abtest != ''
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\8<|||>1<|||>platform = '4'<{{{><}}}>AND game = '7'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\9<|||>1<|||>platform = '4'<{{{><}}}>AND game = '2'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\10<|||>1<|||>`id` LIKE '%game = \'2\'%' OR `userID` LIKE '%game = \'2\'%' OR `team_id` LIKE '%game = \'2\'%'<{{{><}}}> OR `points` LIKE '%game = \'2\'%' OR `rank_unused` LIKE '%game = \'2\'%'<{{{><}}}> OR `aggregate_update` LIKE '%game = \'2\'%' OR `top3_update` LIKE '%game = \'2\'%'<{{{><}}}> OR `game` LIKE '%game = \'2\'%' OR `difficulty` LIKE '%game = \'2\'%'<{{{><}}}> OR `level` LIKE '%game = \'2\'%' OR `run_time` LIKE '%game = \'2\'%'<{{{><}}}> OR `timestamp` LIKE '%game = \'2\'%' OR `vid` LIKE '%game = \'2\'%'<{{{><}}}> OR `platform` LIKE '%game = \'2\'%' OR `edition` LIKE '%game = \'2\'%'<{{{><}}}> OR `verified` LIKE '%game = \'2\'%' OR `is_pb` LIKE '%game = \'2\'%'<{{{><}}}> OR `world_record_status` LIKE '%game = \'2\'%' OR `hiddenFromProfile` LIKE '%game = \'2\'%'<{{{><}}}> OR `approvedBy` LIKE '%game = \'2\'%' OR `submitted_by` LIKE '%game = \'2\'%'<{{{><}}}> OR `partner1` LIKE '%game = \'2\'%' OR `partner2` LIKE '%game = \'2\'%'<{{{><}}}> OR `partner3` LIKE '%game = \'2\'%' OR `is_coop` LIKE '%game = \'2\'%'<{{{><}}}> OR `submitter` LIKE '%game = \'2\'%'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\11<|||>1<|||>platform = '4'
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\12<|||>1<|||>platform = ''
+Servers\hr-tun\scorpion_rewrite_deploy|times\RecentFilters\13<|||>1<|||>game = '2'
+Servers\hr-tun\scorpion_rewrite_deploy|times_polymorphic_view\Filter<|||>1<|||>id = '43469'
+Servers\hr-tun\scorpion_rewrite_deploy|times_polymorphic_view\RecentFilters\1<|||>1<|||>id = '43469'
+Servers\hr-tun\scorpion_rewrite_deploy|times_polymorphic_view\RecentFilters\2<|||>1<|||>id = '59464'
+Servers\hr-tun\scorpion_rewrite_deploy|times_polymorphic_view\RecentFilters\3<|||>1<|||>id = '42640'
+Servers\hr-tun\scorpion_rewrite_deploy|times_polymorphic_view\RecentFilters\4<|||>1<|||>p1_id = '3148'
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\Filter<|||>1<|||>id IN ('60200', 	60196, 60161)
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\RecentFilters\1<|||>1<|||>id IN ('60200', 	60196, 60161)
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\RecentFilters\2<|||>1<|||>id IN ('60200', 	60196, 60161);
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\RecentFilters\3<|||>1<|||>id = '60200'
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\RecentFilters\4<|||>1<|||>id = '58899'
+Servers\hr-tun\scorpion_rewrite_deploy|times_view\RecentFilters\5<|||>1<|||>id = '57998'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\21<|||>1<|||>twitch = 'distrotv'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\1<|||>1<|||>username = 'SieniMarsu'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\2<|||>1<|||>username = 'YoungTemperament'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\3<|||>1<|||>username = 'fittenkitten'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\4<|||>1<|||>username = 'r4ts'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\5<|||>1<|||>username LIKE '%erk%'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\6<|||>1<|||>username LIKE '%Berserk%'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\7<|||>1<|||>username = 'Berserk_on_XBL'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\8<|||>1<|||>id = '3031'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\9<|||>1<|||>username = 'pedrogas'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\10<|||>1<|||>username = 'mcthumbs'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\11<|||>1<|||>id = '1081'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\12<|||>1<|||>id = '2773'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\13<|||>1<|||>username = 'Zephrike'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\14<|||>1<|||>username LIKE '%rana%'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\15<|||>1<|||>username LIKE '%Browni%'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\16<|||>1<|||>username like 'Browni%'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\17<|||>1<|||>username = 'Brownittoya'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\18<|||>1<|||>username = 'MrPyroLemon'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\19<|||>1<|||>id = '2260'
+Servers\hr-tun\scorpion_rewrite_deploy|users\RecentFilters\20<|||>1<|||>twitch_user_id = '30731088'
+Servers\hr-tun\scorpion_rewrite|services\Sort<|||>1<|||>0_id|
+Servers\hr-tun\scorpion_rewrite|times\Filter<|||>1<|||>approved_by IS NOT NULL
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\1<|||>1<|||>approved_by IS NOT NULL
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\2<|||>1<|||>`level` = '0'
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\3<|||>1<|||>approvedBy NOT IN ('', '0') AND approvedBy LIKE '%Denied%'
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\4<|||>1<|||>approvedBy NOT IN ('', '0') AND approved_by LIKE '%Denied%'
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\5<|||>1<|||>approvedBy NOT IN ('', '0') AND approved_by LIKE '%Denied%';
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\6<|||>1<|||>approvedBy NOT IN ('', '0') AND approved_by IS null
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\7<|||>1<|||>approvedBy NOT IN ('', '0')
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\8<|||>1<|||>approvedBy != '0'
+Servers\hr-tun\scorpion_rewrite|times\RecentFilters\9<|||>1<|||>id = '57511'
+Servers\hr-tun\scorpion_rewrite|times_copy\RecentFilters\1<|||>1<|||>id = '25493'
+Servers\hr-tun\scorpion_rewrite|times_copy\RecentFilters\2<|||>1<|||>`level` IN ('14')
+Servers\hr-tun\scorpion_rewrite|times_copy\RecentFilters\3<|||>1<|||>id = '25471'
+Servers\hr-tun\scorpion_rewrite|times_copy\RecentFilters\4<|||>1<|||>id = '25470'
+Servers\hr-tun\scorpion_rewrite|times_copy_view\Sort<|||>1<|||>0_id|
+Servers\hr-tun\scorpion_rewrite|times_copy_view\Filter<|||>1<|||>id = '53536'
+Servers\hr-tun\scorpion_rewrite|times_copy_view\RecentFilters\1<|||>1<|||>id = '53536'
+Servers\hr-tun\scorpion_rewrite|times_copy_view\RecentFilters\2<|||>1<|||>id = '53372'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\Filter<|||>1<|||>is_coop = '1'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\1<|||>1<|||>is_coop = '1'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\2<|||>1<|||>is_coop = 'true'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\3<|||>1<|||>id = '43469'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\4<|||>1<|||>id = '46931'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\5<|||>1<|||>id = '42279'
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\6<|||>1<|||>edition_name IS NULL
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\7<|||>1<|||>edition_display_name IS NOT NULL AND edition IS NOT null
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\8<|||>1<|||>edition_display_name IS NOT NULL
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\9<|||>1<|||>is_fullgame = FALSE
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\10<|||>1<|||>is_fullgame = FALSE;
+Servers\hr-tun\scorpion_rewrite|times_polymorphic_view\RecentFilters\11<|||>1<|||>id = '42640'
+Servers\hr-tun\scorpion_rewrite|times_view\Sort<|||>1<|||>1_id|
+Servers\hr-tun\scorpion_rewrite|times_view\Filter<|||>1<|||>id = '45311'
+Servers\hr-tun\scorpion_rewrite|times_view\RecentFilters\1<|||>1<|||>id = '45311'
+Servers\hr-tun\scorpion_rewrite|times_view\RecentFilters\2<|||>1<|||>id = '58177'
+Servers\hr-tun\scorpion_rewrite|times_view\RecentFilters\3<|||>1<|||>id = '635'
+Servers\hr-tun\scorpion_rewrite|twitch_games\RecentFilters\1<|||>1<|||>id = '417969'
+Servers\hr-tun\scorpion_rewrite|userMailParticipants\Filter<|||>1<|||>participants = '0'
+Servers\hr-tun\scorpion_rewrite|userMailParticipants\RecentFilters\1<|||>1<|||>participants = '0'
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\1<|||>1<|||>username = 'YoungTemperament'
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\2<|||>1<|||>ip_int IS NULL
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\3<|||>1<|||>ip_int = '0'
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\4<|||>1<|||>username = 'Pokemking'
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\5<|||>1<|||>twitch = 'azabani'
+Servers\hr-tun\scorpion_rewrite|users\RecentFilters\6<|||>1<|||>username = 'azabani'
+Servers\localdb\SessionCreated<|||>1<|||>2020-05-08 13:18:34
+Servers\localdb\Host<|||>1<|||>\\.\pipe\LOCALDB#493C588F\tsql\query
+Servers\localdb\WindowsAuth<|||>3<|||>1
+Servers\localdb\CleartextPluginEnabled<|||>3<|||>0
+Servers\localdb\User<|||>1<|||>
+Servers\localdb\Password<|||>1<|||>2
+Servers\localdb\LoginPrompt<|||>3<|||>0
+Servers\localdb\Port<|||>1<|||>1433
+Servers\localdb\NetType<|||>3<|||>3
+Servers\localdb\Compressed<|||>3<|||>0
+Servers\localdb\LocalTimeZone<|||>3<|||>0
+Servers\localdb\QueryTimeout<|||>3<|||>30
+Servers\localdb\KeepAlive<|||>3<|||>20
+Servers\localdb\FullTableStatus<|||>3<|||>1
+Servers\localdb\Databases<|||>1<|||>
+Servers\localdb\Library<|||>1<|||>SQLOLEDB
+Servers\localdb\Comment<|||>1<|||>
+Servers\localdb\StartupScriptFilename<|||>1<|||>
+Servers\localdb\TreeBackground<|||>3<|||>536870911
+Servers\localdb\SSHtunnelHost<|||>1<|||>
+Servers\localdb\SSHtunnelHostPort<|||>3<|||>22
+Servers\localdb\SSHtunnelUser<|||>1<|||>
+Servers\localdb\SSHtunnelPassword<|||>1<|||>9
+Servers\localdb\SSHtunnelTimeout<|||>3<|||>4
+Servers\localdb\SSHtunnelPrivateKey<|||>1<|||>
+Servers\localdb\SSHtunnelPort<|||>3<|||>3307
+Servers\localdb\SSL_Active<|||>3<|||>0
+Servers\localdb\SSL_Key<|||>1<|||>
+Servers\localdb\SSL_Cert<|||>1<|||>
+Servers\localdb\SSL_CA<|||>1<|||>
+Servers\localdb\SSL_Cipher<|||>1<|||>
+Servers\localdb\RefusedCount<|||>3<|||>2
+Servers\localdb\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2016 (SP1) (KB3182545) - 13.0.4001.0
+Servers\localdb\ConnectCount<|||>3<|||>1
+Servers\localdb\ServerVersion<|||>3<|||>1300
+Servers\localdb\LastConnect<|||>1<|||>2020-05-08 17:07:18
+Servers\localdb\lastUsedDB<|||>1<|||>
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-06-15 23:13:09
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>1
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>1
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>2
+Servers\vortex-tun\SessionCreated<|||>1<|||>2020-04-27 12:58:43
+Servers\vortex-tun\Host<|||>1<|||>127.0.0.1
+Servers\vortex-tun\WindowsAuth<|||>3<|||>0
+Servers\vortex-tun\CleartextPluginEnabled<|||>3<|||>0
+Servers\vortex-tun\User<|||>1<|||>liam
+Servers\vortex-tun\Password<|||>1<|||>5
+Servers\vortex-tun\LoginPrompt<|||>3<|||>1
+Servers\vortex-tun\Port<|||>1<|||>3310
+Servers\vortex-tun\NetType<|||>3<|||>0
+Servers\vortex-tun\Compressed<|||>3<|||>0
+Servers\vortex-tun\LocalTimeZone<|||>3<|||>0
+Servers\vortex-tun\QueryTimeout<|||>3<|||>30
+Servers\vortex-tun\KeepAlive<|||>3<|||>20
+Servers\vortex-tun\FullTableStatus<|||>3<|||>1
+Servers\vortex-tun\Databases<|||>1<|||>
+Servers\vortex-tun\Library<|||>1<|||>libmariadb.dll
+Servers\vortex-tun\Comment<|||>1<|||>
+Servers\vortex-tun\StartupScriptFilename<|||>1<|||>
+Servers\vortex-tun\TreeBackground<|||>3<|||>536870911
+Servers\vortex-tun\SSHtunnelHost<|||>1<|||>
+Servers\vortex-tun\SSHtunnelHostPort<|||>3<|||>22
+Servers\vortex-tun\SSHtunnelUser<|||>1<|||>
+Servers\vortex-tun\SSHtunnelPassword<|||>1<|||>8
+Servers\vortex-tun\SSHtunnelTimeout<|||>3<|||>4
+Servers\vortex-tun\SSHtunnelPrivateKey<|||>1<|||>
+Servers\vortex-tun\SSHtunnelPort<|||>3<|||>3307
+Servers\vortex-tun\SSL_Active<|||>3<|||>0
+Servers\vortex-tun\SSL_Key<|||>1<|||>
+Servers\vortex-tun\SSL_Cert<|||>1<|||>
+Servers\vortex-tun\SSL_CA<|||>1<|||>
+Servers\vortex-tun\SSL_Cipher<|||>1<|||>
+Servers\vortex-tun\ServerVersionFull<|||>1<|||>10.1.26-MariaDB-0+deb9u1 - Debian 9.1
+Servers\vortex-tun\ConnectCount<|||>3<|||>5
+Servers\vortex-tun\ServerVersion<|||>3<|||>100126
+Servers\vortex-tun\LastConnect<|||>1<|||>2020-07-11 14:10:02
+Servers\vortex-tun\lastUsedDB<|||>1<|||>
+Servers\vortex-tun\RefusedCount<|||>3<|||>5
