@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "C:\\Users\\liam\\.vimrc",
+    "php.executablePath": "D:\\utilities\\xampp\\php\\php.exe",
+    "git.path": "C:\\msys64\\usr\\bin\\git.exe",
+    "php.validate.executablePath": "D:\\utilities\\xampp\\php\\php.exe",
+    "window.zoomLevel": 0
+}

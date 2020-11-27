@@ -1,0 +1,22 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "f12",
+        "command": "-editor.action.revealDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "f3",
+        "command": "-editor.action.nextMatchFindAction",
+        "when": "editorFocus"
+    },
+    {
+        "key": "f3",
+        "command": "-workbench.action.terminal.findNext",
+        "when": "terminalFindFocused && terminalProcessSupported || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "f3",
+        "command": "editor.action.revealDefinition"
+    }
+]
