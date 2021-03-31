@@ -1,8 +1,8 @@
 #
 # /etc/bash.bashrc
 #
-EDITOR=vim
-VISUAL=vim
+export EDITOR=vim
+export VISUAL=vim
 export RANGERCD=true
 
 # If not running interactively, don't do anything
@@ -10,11 +10,10 @@ export RANGERCD=true
 
 [[ $DISPLAY ]] && shopt -s checkwinsize
 
-#without timestamp
-#PS1="\[$(tput bold)\]\[\033[38;5;165m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;129m\]@\[$(tput sgr0)\]\[\033[38;5;32m\]\h\[$(tput sgr0)\]\[\033[38;5;47m\]>>\[$(tput sgr0)\]"
-
-#with timestamp
 PS1="\D{%T}\[$(tput bold)\]\[\033[38;5;165m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;129m\]@\[$(tput sgr0)\]\[\033[38;5;32m\]\h\[$(tput sgr0)\]\[\033[38;5;47m\]>>\[$(tput sgr0)\]"
+#PS1="bash4.4\$"
+
+
 
 case ${TERM} in
   xterm*|rxvt*|Eterm|aterm|kterm|gnome*)
@@ -31,12 +30,21 @@ alias nginx="/usr/sbin/nginx"
 #alias youtube-dl="/usr/local/bin/youtube-dl"
 alias tran="bash /home/liam/.bin/transmi.sh"
 alias localtran="bash /home/liam/.bin/localtransmi.sh"
-#alias youtoob="youtube-dl --extract-audio --audio-format vorbis -o \"%(title)s.%(ext)s\" $1"
+#alia youtoob="youtube-dl --exract-audio --audio-format vorbis -o \"%(title)s.%(ext)s\" $1"
 #this just downloads the audio directly, then converts, instead of downloading the whole video then stripping the audio out
-alias youtoob="youtube-dl -f bestaudio --audio-format vorbis -o \"%(title)s.%(ext)s\" $1"
+alias youtoob="/usr/local/bin/youtube-dl --extract-audio -f bestaudio --audio-format vorbis -o \"%(title)s.%(ext)s\" $1"
 alias xserver="Xvfb :1 -screen 0 800x600x16"
 alias elel="cd /srv/projx/cs315/"
 alias lst="ls -t|head"
 #centos/rhel
 alias ll="ls -l"
 alias la="ls -al"
+function ytd()
+{
+  curDate=`date +%F-%H%M`
+  basePath="/srv/subsonic/Liam/talks/"
+  cd $basePath
+  mkdir $curDate
+  /usr/local/bin/youtube-dl --extract-audio -f bestaudio --audio-format vorbis -o "$curDate/%(title)s.%(ext)s" $1
+}
+alias ingrep="grep -Inir"
